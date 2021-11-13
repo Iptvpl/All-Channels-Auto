@@ -259,7 +259,8 @@ http://203.80.191.3:8089/nimble_live/cartoonnetwork/playlist.m3u8
 #EXTINF:-1, tvg-id="cartoonnetwork.us" tvg-logo="https://www.paho.org/sites/default/files/styles/max_650x650/public/2020-09/cartoon-network-1500-2_0_0.jpg?itok=Tci6lftu" tvg-name="CN"  group-title="Kids",CN Hindi
 http://65.2.4.240/jioo.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
 
-
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" tvg-name="Sony Yay (Hindi)"  group-title="Kids",Sony Yay (Hindi)
+https://last.gcdn.co/IND388/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/466-4667900_disney-channel-logo-png-disney-channel-logo-transparent.png" group-title="Kids",Disney Channel (Hindi)
