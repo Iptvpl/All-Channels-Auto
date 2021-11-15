@@ -263,7 +263,7 @@ http://65.2.4.240/jioo.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
 http://58.27.219.166:8000/play/a06f/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" tvg-name="Sony Yay (Hindi)"  group-title="Kids",Sony Yay (Hindi)
-https://last.gcdn.co/IND388/tracks-v1a1/mono.m3u8
+http://mangostv.ddns.net/iptv/SNZC9Z4RPEYGA3/6627/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/466-4667900_disney-channel-logo-png-disney-channel-logo-transparent.png" group-title="Kids",Disney Channel (Hindi)
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
