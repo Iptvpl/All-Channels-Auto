@@ -151,7 +151,7 @@ https://last.gcdn.co/IND395/tracks-v1a1/mono.m3u8
 http://jupiter.bdcabletv.com/ColorsBangla-ENC/video.m3u8
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" tvg-name="Zee Bangla Cinema"  group-title="Indian Bangla",Zee Bangla Cinema
-http://203.80.191.3:8089/load/zeebanglacinema/chunks.m3u8
+https://last.gcdn.co/IND398/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" tvg-name="Jalsha Movies"  group-title="Indian Bangla",Jalsha Movies
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
@@ -161,7 +161,8 @@ http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 
 
 #EXTINF:-1, tvg-id="starplushdplus1.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/StarPlus_HD_2011.png" tvg-name="Star Plus HD"  group-title="Hindi",Star Plus HD
-http://203.80.191.3:8089/nimble_live/sarplushd/playlist.m3u8
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
+
 
 #EXTINF:-1, tvg-id="colors.in" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/02/colorshdlogo002.jpg" tvg-name="Colors HD"  group-title="Hindi",Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?token=test
@@ -206,17 +207,5 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
 
-
-
-#EXTINF:-1, tvg-id="cartoonnetwork.us" tvg-logo="https://www.paho.org/sites/default/files/styles/max_650x650/public/2020-09/cartoon-network-1500-2_0_0.jpg?itok=Tci6lftu" tvg-name="CN"  group-title="Kids",CN HD+
-http://203.80.191.3:8089/nimble_live/cartoonnetwork/playlist.m3u8
-
 #EXTINF:-1, tvg-id="cartoonnetwork.us" tvg-logo="https://www.paho.org/sites/default/files/styles/max_650x650/public/2020-09/cartoon-network-1500-2_0_0.jpg?itok=Tci6lftu" tvg-name="CN"  group-title="Kids",CN Hindi
-http://65.2.4.240/jioo.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8				
-
-
-#EXTINF:-1, tvg-id="HungamaTV.in" tvg-logo="https://i.imgur.com/ctjMaOW.png" tvg-name="Hungama TV"  group-title="Kids",Hungama TV
-http://58.27.219.166:8000/play/a06f/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" tvg-name="Sony Yay (Hindi)"  group-title="Kids",Sony Yay (Hindi)
-http://mangostv.ddns.net/iptv/SNZC9Z4RPEYGA3/6627/index.m3u8
+http://65.2.4.240/jioo.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
