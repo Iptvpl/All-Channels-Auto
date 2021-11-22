@@ -118,18 +118,18 @@ https://last.gcdn.co/IND446/index.m3u8
 
 
 #EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" tvg-name="Zee Bangla SD"  group-title="Indian Bangla",Zee Bangla 1
-http://203.80.191.3:8089/load/zeebanglahd/playlist.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/34/index.m3u8
 
 #EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" tvg-name="Zee Bangla SD"  group-title="Indian Bangla",Zee Bangla 2
-https://last.gcdn.co/IND389/index.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Zee_Bangla&q=800&e=.m3u8
 
 #EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" tvg-name="Zee Bangla SD"  group-title="Indian Bangla",Zee Bangla 3
-https://last.gcdn.co/IND390/index.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
 
 
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha 1
-https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
+http://ztvuk.com:8080/live/y993slzLSu/OmKCdASQJI/64405.ts
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha 2
 https://last.gcdn.co/IND392/tracks-v1a1/mono.m3u8
