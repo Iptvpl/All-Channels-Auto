@@ -175,9 +175,6 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="sonymax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" tvg-name="Sony MAX HD"  group-title="Hindi Movies",Sony MAX
 http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
 
-#EXTINF:-1, tvg-id="sonymax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" tvg-name="Sony MAX HD"  group-title="Hindi Movies",Sony MAX HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://winflix.com.bd/upload/source/zeecinemahd.png" tvg-name="ZEE CINEMA HD"  group-title="Hindi Movies",ZEE CINEMA HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
