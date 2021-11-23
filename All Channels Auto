@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" tvg-name="ATN BANGLA"  group-title="Bangla",ATN BANGLA
-https://236s.short.gy/DreamTV/A_Bangla.m3u8
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhN_BT3JpOX3NBMi_JnWJ4YZB4kOxzoWTKtqfSY=s900-c-k-c0x00ffffff-no-rj" tvg-name="ATN News"  group-title="Bangla",ATN News
 https://rhridoy136.shortcm.li/atnnews.m3u8
@@ -86,7 +86,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" tvg-name="Nagorik TV"  group-title="Bangla",Nagorik TV
 http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/173846597_102614918631004_2234350214659444233_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=973b4a&_nc_ohc=awPz5gJWtaMAX9d9Sou&_nc_ht=scontent.fdac27-1.fna&oh=cae13a5632cb66cb0e27ee6b18a18c20&oe=619EF451" tvg-name="K TV"  group-title="Bangla",K TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ktvbangla.net/ktv-croped.png" tvg-name="K TV"  group-title="Bangla",K TV
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" tvg-name="Bijoy TV"  group-title="Bangla",Bijoy TV
@@ -114,16 +114,15 @@ http://103.130.112.222:8085/hls/Gaan-Bangla/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/34/index.m3u8
 
 #EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" tvg-name="Zee Bangla SD"  group-title="Indian Bangla",Zee Bangla 2
-
 https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
 
 
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha 1
-http://uknets.ddns.net/908.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha 2
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha 1
 http://ztvuk.com:8080/live/y993slzLSu/OmKCdASQJI/64405.ts
 
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha 2
+http://uknets.ddns.net/908.stream/tracks-v1a1/mono.m3u8
 
 
 
@@ -131,7 +130,7 @@ http://ztvuk.com:8080/live/y993slzLSu/OmKCdASQJI/64405.ts
 
 
 #EXTINF:-1, tvg-id="sonyaath.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" tvg-name="Sony 8"  group-title="Indian Bangla",Sony 8
-http://mangostv.ddns.net/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 
 
@@ -161,20 +160,23 @@ http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
 
 #EXTINF:-1, tvg-id="colors.in" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/02/colorshdlogo002.jpg" tvg-name="Colors HD"  group-title="Hindi",Colors HD
-http://tv.alphamediazone.com:8089/thunderbd/56/index.m3u8
+http://65.2.4.240/jioo.php?c=Colors_HD&q=1200&e=.m3u8
 
 #EXTINF:-1, tvg-id="colors.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" tvg-name="Zee TV HD"  group-title="Hindi",Zee TV HD
 http://tv.alphamediazone.com:8089/thunderbd/40/index.m3u8
 
 #EXTINF:-1, tvg-id="sonymax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/800px-SET_India_logo.svg.png" tvg-name="Sony HD"  group-title="Hindi",Sony HD
-http://tv.alphamediazone.com:8089/thunderbd/38/index.m3u8
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
 
+
+#EXTINF:-1, tvg-id="sonymax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" tvg-name="Sony MAX HD"  group-title="Hindi Movies",Sony MAX
+http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
 
 #EXTINF:-1, tvg-id="sonymax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" tvg-name="Sony MAX HD"  group-title="Hindi Movies",Sony MAX HD
-http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://winflix.com.bd/upload/source/zeecinemahd.png" tvg-name="ZEE CINEMA HD"  group-title="Hindi Movies",ZEE CINEMA HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
