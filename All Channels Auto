@@ -159,54 +159,25 @@ http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1794.m3u88
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX " tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="HINDI INDIAN",COLORS CINEPLEX 
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1564.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-bollywood-logo-300x300.jpg" group-title="HINDI INDIAN",ZEE BOLLYWOOD
-http://iptv.univisionlive.net:25461/live/hossen5745/05728867/2237.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Anmol-Cinema.png" group-title="HINDI INDIAN",ZEE ANMOL CINEMA
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1808.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="https://www.adgully.com/img/800/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="HINDI INDIAN",ZEE ACTION
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1809.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="https://image3.mouthshut.com/images/imagesp/925101795s.png" group-title="HINDI INDIAN",ZEE CINEMA
-http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1362.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://winflix.com.bd/upload/source/zeecinemahd.png" group-title="HINDI INDIAN",ZEE CINEMA HD
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1557.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRgiNCCfWfINZ6-JhdRImggcdtKmP4JiojofVql=s88-c-k-c0x00ffffff-no-rj" tvg-name="UTV MOVIES"  group-title="Hindi Movies",UTV ACTION
-http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1830.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" tvg-name="Bflix MOVIES"  group-title="Hindi Movies",Bflix MOVIES MOVIES
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
 
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/8GG7Ny9.png" tvg-name="Discovery (Hindi)"  group-title="Documentary",Discovery
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/8GG7Ny9.png" tvg-name="Discovery HD"  group-title="Documentary",Discovery HD
 http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
 
 #EXTINF:-1, tvg-id="animalplanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" tvg-name="Animal Planet"  group-title="Documentary",Animal Planet
 http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
 
-#EXTINF:-1, tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentary",Nat Geo
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
-
 #EXTINF:-1, tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentary",Nat Geo UAE
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" tvg-name="Peace Tv Bangla"  group-title="RELIGIOUS",Peace Tv Bangla
-http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ATN ISLAMIC TV" tvg-logo="http://television-planet.tv/uploads/posts/2019-08/1566746104_nazvaniya-27.png" group-title="RELIGIOUS",ATN ISLAMIC TV
-http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1460.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="IQRA BANGLA" tvg-logo="https://4.bp.blogspot.com/-K2QMJuh7t9I/W7hN5DR_s7I/AAAAAAAACkk/HpN6-nET6-UxyKg_9JMH3NFpgjzJLZCCQCLcBGAs/s1600/iqra-bangla-uk.png" group-title="RELIGIOUS",IQRA BANGLA
-http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1610.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MADANI BANGLA TV" tvg-logo="https://1.bp.blogspot.com/-O3QlrGWsV2E/WSdjT5RH8AI/AAAAAAAAGVA/5FdS-dd5Z4YKdaKBFQm9QBNTIUaWo-sPgCLcB/s1600/madani_channel_pk.png" group-title="RELIGIOUS",MADANI BANGLA TV
-http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1698.m3u8
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u
