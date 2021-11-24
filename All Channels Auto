@@ -153,8 +153,9 @@ http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1391.m3u8
 
 
 
-#EXTINF:-1, tvg-id="sonymax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" tvg-name="Sony MAX HD"  group-title="Hindi Movies",Sony MAX
-http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1794.m3u88
+#EXTINF:-1, tvg-id="sonymax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" tvg-name="Sony MAX HD"  group-title="Hindi Movies",SONY MAX HD
+#http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1794.m3u88
+http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX " tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="HINDI INDIAN",COLORS CINEPLEX 
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1564.m3u8
