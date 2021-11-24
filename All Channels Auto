@@ -122,7 +122,10 @@ https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
 http://ztvuk.com:8080/live/y993slzLSu/OmKCdASQJI/64405.ts
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha 2
-http://iptv.univisionlive.net:25461/live/1timZzZMNp/VwJBy2mwVF/1562.m3u8
+http://rv.flysat.live/ams/ams123/83729
+
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha 3
+#http://iptv.univisionlive.net:25461/live/1timZzZMNp/VwJBy2mwVF/1562.m3u8
 
 
 
@@ -196,6 +199,3 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 #EXTINF:-1, tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentary",Nat Geo UAE
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
-
-#EXTINF:-1, tvg-id="cartoonnetwork.us" tvg-logo="https://www.paho.org/sites/default/files/styles/max_650x650/public/2020-09/cartoon-network-1500-2_0_0.jpg?itok=Tci6lftu" tvg-name="CN"  group-title="Kids",CN Hindi
-http://65.2.4.240/jioo.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
