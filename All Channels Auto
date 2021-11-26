@@ -32,7 +32,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 https://rhridoy136.shortcm.li/banglavisiontv.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png" tvg-name="My TV"  group-title="Bangla",My TV
-http://tv.alphamediazone.com:8089/thunderbd/56/index.m3u8
+http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1308.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" tvg-name="Mohona TV"  group-title="Bangla",Mohona TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
@@ -97,8 +97,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-name="T Sports"  group-title="Sports",T Sports
-#https://streamcdn.getloconow.com/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a_low/manifest.m3u8
-http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1568.m3u8
+#http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1568.m3u8
+https://streamcdn.getloconow.com/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a_low/manifest.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" tvg-name="G TV HD"  group-title="Bangla",G TV HD
 #http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1786.m3u8
@@ -117,8 +118,7 @@ http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1347.m3u8
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha HD
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1562.m3u8
 
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha
-http://tv.alphamediazone.com:8089/thunderbd/30/index.m3u8
+
 
 #EXTINF:-1, tvg-id="sonyaath.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" tvg-name="Sony 8"  group-title="Indian Bangla",Sony 8
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1354.m3u8
@@ -130,7 +130,8 @@ http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1565.m3u8
 
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" tvg-name="Zee Bangla Cinema"  group-title="Indian Bangla",Zee Bangla Cinema
-http://tv.alphamediazone.com:8089/thunderbd/29/index.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/29/index.m3u8
+http://iptv.univisionlive.net:25461/live/hossen5745/05728867/2240.m3u8
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" tvg-name="Jalsha Movies"  group-title="Indian Bangla",Jalsha Movies
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1563.m3u8
@@ -160,8 +161,7 @@ http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1391.m3u8
 
 
 #EXTINF:-1, tvg-id="sonymax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" tvg-name="Sony MAX HD"  group-title="Hindi Movies",SONY MAX HD
-#http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1794.m3u88
-http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
+http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1794.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX " tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="HINDI INDIAN",COLORS CINEPLEX 
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1564.m3u8
@@ -181,7 +181,8 @@ https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/8GG7Ny9.png" tvg-name="Discovery HD"  group-title="Documentary",Discovery HD
-http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
+http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1424.m3u8
 
 #EXTINF:-1, tvg-id="animalplanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" tvg-name="Animal Planet"  group-title="Documentary",Animal Planet
 http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
