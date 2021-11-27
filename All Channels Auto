@@ -19,7 +19,8 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" tvg-name="N TV"  group-title="Bangla",N TV
 #https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1625.m3u8
+#http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1625.m3u8
+http://itcare.ddns.net:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" tvg-name="R TV"  group-title="Bangla",R TV
