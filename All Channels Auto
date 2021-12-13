@@ -115,12 +115,15 @@ http://103.130.112.222:8085/hls/Gaan-Bangla/index.m3u8
 #EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" tvg-name="Zee Bangla HD"  group-title="Indian Bangla",Zee Bangla HD
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1347.m3u8
 
+#EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" tvg-name="Zee Bangla HD"  group-title="Indian Bangla",Zee Bangla
+http://iptv.univisionlive.net:25461/live/hossen5745/05728867/2527.m3u8
 
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha HD
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1562.m3u8
 
-
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha
+http://iptv.univisionlive.net:25461/live/hossen5745/05728867/2533.m3u8
 
 
 
@@ -138,7 +141,7 @@ http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1565.m3u8
 
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" tvg-name="Zee Bangla Cinema"  group-title="Indian Bangla",Zee Bangla Cinema
-http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1348.m3u8
+http://iptv.univisionlive.net:25461/live/hossen5745/05728867/2351.m3u8
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" tvg-name="Jalsha Movies"  group-title="Indian Bangla",Jalsha Movies
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1563.m3u8
@@ -148,10 +151,10 @@ http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1563.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/8GG7Ny9.png" tvg-name="Discovery HD"  group-title="Documentary",Discovery HD
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/discovery/chunks.m3u8
+http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1424.m3u8
 
 #EXTINF:-1, tvg-id="animalplanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" tvg-name="Animal Planet"  group-title="Documentary",Animal Planet
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/animale-planet/chunks.m3u8
+http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1425.m3u8
 
 #EXTINF:-1, tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentary",Nat Geo UAE
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u
