@@ -120,14 +120,7 @@ http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1347.m3u8
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha HD
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1562.m3u8
 
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha sD"  group-title="Indian Bangla",Star Jalsha SD
-http://ukipptv.ddns.net/908.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha 1
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43594
-
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha 2
-http://cablevision.ddns.net/PCPSCEDAQt/ou0mthW/857
 
 
 
@@ -145,7 +138,7 @@ http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1565.m3u8
 
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" tvg-name="Zee Bangla Cinema"  group-title="Indian Bangla",Zee Bangla Cinema
-http://iptv.univisionlive.net:25461/live/hossen5745/05728867/2240.m3u8
+http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1348.m3u8
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" tvg-name="Jalsha Movies"  group-title="Indian Bangla",Jalsha Movies
 http://iptv.univisionlive.net:25461/live/hossen5745/05728867/1563.m3u8
