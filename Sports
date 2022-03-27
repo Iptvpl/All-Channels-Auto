@@ -2,40 +2,42 @@
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/q9hN3PH.png",BTV (BDIX6)
 http://103.106.2.149:13456/btv.m3u8
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="http://bciptv.net/assets/images/live.jpg",Live Sports 5 (BDIX12)
-http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
-
-#EXTINF:-1 group-title="Live Sports" tvg-logo="http://bciptv.net/assets/images/live.jpg",Live Sports 6 (BDIX15)
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV  (BDIX1)
-http://45.127.244.7:8080/hls/channel2.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV (BDIX13)
-http://103.84.253.5/live/4/index.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV  (BDIX5)
-http://103.102.27.172:6464/Channel-1/index.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://amrbd.com/assets/images/tsports.jpg",T sports (BDIX1)
-http://45.127.244.7:8080/hls/channel3.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD (BDIX9)
-http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD (BDIX13)
-http://103.84.253.5/live/0/index.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD (BDIX11)
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://amrbd.com/assets/images/tsports.jpg",T sports 
+#http://45.127.244.7:8080/hls/channel3.m3u8
 http://103.166.253.222/hls/t-sports.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD (BDIX14)
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
+#http://103.159.4.38:8080/BD-BANGLA-8/index.m3u8
+https://streamcdn.getloconow.com/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a_low/manifest.m3u8
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="http://bciptv.net/assets/images/live.jpg",Live Sports 
+http://103.70.140.27:8080/hls/StarSports1FHD.m3u8
+
+#EXTINF:-1 group-title="Live Sports" tvg-logo="http://bciptv.net/assets/images/live.jpg",Live Sports 
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV  
+http://45.127.244.7:8080/hls/channel2.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV 
+http://103.84.253.5/live/4/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV  
+http://103.102.27.172:6464/Channel-1/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD
+http://103.84.253.5/live/0/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
+http://103.166.253.222/hls/t-sports.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
 http://103.170.140.8/hls/t-sports.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://amrbd.com/assets/images/tsports.jpg",T sports (BDIX5)
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://amrbd.com/assets/images/tsports.jpg",T sports 
 http://103.102.27.172:6464/Channel-2/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png",PTV Sports (BDCable)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png",PTV Sports 
 http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png",PTV Sports (pk)
