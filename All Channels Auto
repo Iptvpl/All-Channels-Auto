@@ -60,11 +60,11 @@
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQH3w69bTwg5Zw/company-logo_200_200/0/1533216767792?e=2159024400&v=beta&t=rByq3r8XXCQYoglUxo4aD2FpwbGvZKc_0AQbxPIbthY" tvg-name="Channel 24"  group-title="Bangla",Channel 24
 
-http://bldcmprod-cdn.toffeelive.com/cdn/live/slang/channel_24_576/channel_24_576.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/channel_24_576/channel_24_576.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" tvg-name="Jamuna TV"  group-title="Bangla",Jamuna TV
 
-http://bldcmprod-cdn.toffeelive.com/cdn/live/slang/jamuna_tv_576/jamuna_tv_576.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/jamuna_tv_576/jamuna_tv_576.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" tvg-name="Deepto TV"  group-title="Bangla",Deepto TV
 
@@ -113,7 +113,7 @@ http://bldcmprod-cdn.toffeelive.com/cdn/live/slang/jamuna_tv_576/jamuna_tv_576.m
 
 #EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" tvg-name="Zee Bangla HD"  group-title="Indian Bangla",Zee Bangla
 
-http://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8
 
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha HD
@@ -139,7 +139,7 @@ http://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" tvg-name="Zee Bangla Cinema"  group-title="Indian Bangla",Zee Bangla Cinema
 
-http://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_cinema_576/zee_bangla_cinema_576.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_cinema_576/zee_bangla_cinema_576.m3u8
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" tvg-name="Jalsha Movies"  group-title="Indian Bangla",Jalsha Movies
 
