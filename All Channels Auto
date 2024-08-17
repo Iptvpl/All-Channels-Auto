@@ -63,7 +63,7 @@
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" tvg-name="Jamuna TV"  group-title="Bangla",Jamuna TV
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723902285/ei/7VTAZoWmBIDXjuMP58mPsA4/ip/103.42.52.209/id/TyIQiNLQzVg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9tlcpPjQev5klg89eYihi54kUBKYqWJ9tJtjNiE7kJzHV5-bK6_TSsWmc8KubuhzuwPVcCIl/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgflWxRpA7_5BRKqNUBN48SYocWu-b_fEw3wya_QpovVkCIEkdAFJN_zlxBhthaLRZab9Yjy1J6O-9mRslPZJ4SO7x/file/index.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" tvg-name="Deepto TV"  group-title="Bangla",Deepto TV
