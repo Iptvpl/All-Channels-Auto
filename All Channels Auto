@@ -112,14 +112,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" tvg-name="Zee Bangla HD"  group-title="Indian Bangla",Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee-bangla.jpg",Zee Bangla 
+#EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" tvg-name="Zee Bangla HD"  group-title="Indian Bangla",Zee Bangla 
 http://humsab.xyz/IN_ZEBS/index.m3u8?token=ea4b2405ddb228058b47e6cc531a65e5
 
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha HD
 https://humsab.xyz/IN_JALSHAS/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-jalaha-hd.jpg",Star Jalsha SD
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha
 http://humsab.xyz/IN_STARJ/index.m3u8?token=2a6118c76d56d6c76fa0dd9138689ec0
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha
