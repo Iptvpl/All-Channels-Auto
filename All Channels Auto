@@ -1,7 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png"  group-title="Bangla",Madani Tv
+http://82.180.145.236:4518/mada/video.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png"  group-title="Bangla",Peace Tv
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736"  group-title="Bangla",BTV
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736"  group-title="Bangla",BTV World
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=eKbNUf7QkxI6DNqZsTK2EA&expires=1724073636&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" tvg-name="ATN BANGLA"  group-title="Bangla",ATN BANGLA
@@ -159,6 +164,15 @@ http://humsab.xyz/IN_STGOLD/index.m3u8?token=d6775a1f115e5106be2e258d1a97ef71
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema HD
+http://217.20.112.199/zeecinema/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%26pictures.png",& Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/R.cf7ef83bba41b33f16c87e6423ab0eae?rik=Vwi8N0eRe5kYkw&pid=ImgRaw&r=0&sres=1&sresct=1",Nickelodeon Sonic
 http://ekdilhai.pro/IN_NICKHD/mpegts?token=170c54b47e21d406664eaab1e786d77f
@@ -190,6 +204,13 @@ https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:-1, tvg-id="animalplanet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" tvg-name="Animal Planet"  group-title="Documentary",Animal Planet
 
 #EXTINF:-1, tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentary",Nat Geo UAE
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908",Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg",Zoom
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
 
 
