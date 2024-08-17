@@ -8,10 +8,10 @@
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhN_BT3JpOX3NBMi_JnWJ4YZB4kOxzoWTKtqfSY=s900-c-k-c0x00ffffff-no-rj" tvg-name="ATN News"  group-title="Bangla",ATN News
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723903193/ei/eVjAZu32DMadjuMP0aHe2A8/ip/103.42.52.231/id/jQ4Wjbz-xNg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9lxKjkEITqln8QPSgUDU9zJITHIdoaYsVcfTWc3K_CvK0JklsL8g2Q63EW2D65hgT4Pc0Jth/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDn4OvpUnh83rJHGsbCXYFGGzt8KhF98XdYtJi4Wvjt0CIQDD5SBjkeXjspenhTcjMp9TBbjxUkb4GHGGXgR0U-Ub6g%3D%3D/file/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" tvg-name="Channel I"  group-title="Bangla",Channel I
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723903585/ei/AVrAZsLCCIOR3LUP17LVwQk/ip/103.42.52.231/id/EB8ayfp4jYY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9idKMah_IReJd2CeA1i-a6dHxsjJRbHeNfbQV8ahDIk8UVuX1Uw6krqJHSGZmetkr2HL9Kgz/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOst4KCJnNpeCL5D05mW7IMvr3wxVXUvaw3WXKuFIW8ZAiEAw9qCuD2zsntxhJnZHwyMiamXbMkYs-QWn9aD3c4sfWM%3D/file/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" tvg-name="Ekushey TV"  group-title="Bangla",Ekushey TV
 
@@ -21,7 +21,7 @@
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" tvg-name="R TV"  group-title="Bangla",R TV
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723903327/ei/_1jAZozEDbHmjuMP3b2g-Q4/ip/103.42.52.231/id/sv-FHoSpNOk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9on2uLBUwPPN9-azLtwFZ8C8f-dgCb62wSXdp6C3UTGbr0D0Ss_TB2QQolC5tTWDrNUUE60n/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN6Ll6Yh_QXMwMVHIquIazCPfvwnVEMyUDzmSbH4wsVcAiAx3n9uFKaQFOz7e6l7sN9MriangsqfaJnBMg_0Yzu2Sw%3D%3D/file/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" tvg-name="Boishakhi TV"  group-title="Bangla",Boishakhi TV
 
@@ -35,13 +35,11 @@
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" tvg-name="Mohona TV"  group-title="Bangla",Mohona TV
 
 
-
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" tvg-name="Somoy TV"  group-title="Bangla",Somoy TV
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723902757/ei/xVbAZrjYL8aS4t4PkZmx0QM/ip/103.42.52.231/id/aTzRun7M-fk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9n5J83ZaYkJ-tcVYESPUpmNi7vzKpwECo_emANUlY2pX9De3YaAp2xt8e2bUIexBteTGr_Mq/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKLurQ_63I-3ZKubXvUxRlfKMTs7vOe-1BUHKjCRZNB5AiEAp8D4DevrVhEe7nrVEnt2HxWXWqPuWpHAtYsHTIuZXbk%3D/file/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" tvg-name="Independent TV"  group-title="Bangla",Independent TV
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723903061/ei/9VfAZsyxFdqMz7sP5_uJsAM/ip/103.42.52.231/id/uaB3hnCucoU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9qnPN2WpRhexPUZcal7-jM5LOh9QwfcdzLhffU5qg2k8rfguKaxPhOwFvLr2Wc8nZRw0nKfU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAINkjhL6U7jHOwHCoVeR7z9ss9EPPRwlyOt5seSB9kwHAiBEoYnILSk6I9Zmujwkg9YWSCKJuM3Y6bIMbFvhXQTLVA%3D%3D/file/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" tvg-name="Maasranga TV"  group-title="Bangla",Maasranga TV
 
@@ -59,7 +57,7 @@
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQH3w69bTwg5Zw/company-logo_200_200/0/1533216767792?e=2159024400&v=beta&t=rByq3r8XXCQYoglUxo4aD2FpwbGvZKc_0AQbxPIbthY" tvg-name="Channel 24"  group-title="Bangla",Channel 24
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723902850/ei/IlfAZvq9M4fs4-EPv7qF-Ag/ip/103.42.52.231/id/HQwoLM-F0LU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9vlixs3vGSUWeeMYNs3bDIzNaf6ZHm34dB7yryPZidJ8EPWK6bMyEHFtWsQDxJVfTha0KmeN/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgft4MzFrkbcUWVG69YFrAUwz5DYz3ZMqid1xix6jzMc8CIQC_6QKo-GqAvOvYMwYt986HrIRF2nGS6V_3r6faiRCO7Q%3D%3D/file/index.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" tvg-name="Jamuna TV"  group-title="Bangla",Jamuna TV
@@ -70,10 +68,14 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723902285/ei/7
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" tvg-name="NEWS 24"  group-title="Bangla",NEWS 24
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723903637/ei/NVrAZvj1LqPDrtoPy6jW4A8/ip/103.42.52.231/id/tIob6iIT8yI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9lblUojo0uaD6GUWS6BGYPOdfYeeYl6qym33aieX_wV9On-8p4LTCPVD_Rd9al5PEoopN7dq/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJ53HxzbnBOJ7cqXjKoCXxtgsenyXa1ax89HVSkMnUYMCIHiBbiworgov_DNroE0g1Baj8wIYiVJgTdbgxV_bTArz/file/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" tvg-name="DBC News"  group-title="Bangla",DBC News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723903522/ei/wlnAZtjhE4btg8UP1KydiAs/ip/103.42.52.231/id/p_rx0gebwkc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/maudio/1/siu/1/spc/Mv1m9nRGaeFz_fliweQ77-hZRQo4HpF2sZRw16PR7R_YTJ2Dafdy2VbvyYJq9QqJ7r7aqYk56j7f/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgA93N8dZxpF4CuhRvNsqG04p8I_oW1kW4ZlI74j8HTOkCIGC-6mhbOPnUWFBrbIYpI4sEVBiAzM38senim6Pr-GPv/file/index.m3u8
 
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo=https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png"" tvg-name="Ekhon TV"  group-title="Bangla",Ekhon TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723903392/ei/QFnAZrnmFKWZ4t4PwsKzqAM/ip/103.42.52.231/id/pBs7fqViwB0.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9jt3MjlVh7TNws4AWHC2Mx69iu52QYuZLsw9v76SzNEL3zOW9fCgcDeyVEyqHenfigoJVMEX/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQ511ovNQQAPfQ-GiBQosaIxd7jX38KZEEg1j2VqsysECIDG5TosSclq0V6Jlt7_FptNTHyeEN7Tx3AHVgzPjEtW-/file/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/06/26/snippet_1_duronto.jpg?itok=gkO1n-qH&timestamp=1593146405" tvg-name="Duranta TV"  group-title="Kids",Duranta TV
 
@@ -103,7 +105,7 @@ https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" tvg-name="Gaan Bangla"  group-title="Music",Gaan Bangla
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" tvg-name="Gaan Bangla"  group-title="Bangla",Gaan Bangla
 
 
 
