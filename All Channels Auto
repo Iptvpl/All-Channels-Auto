@@ -12,6 +12,7 @@ https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=lUcBU5u1enDLZ0
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" tvg-name="Channel I"  group-title="Bangla",Channel I
 https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=4nRyg7xfYN1ZqFtZkM0C2A&expires=1724073839&user=d477246e9e724f81a011b847457e71c4 
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" tvg-name="Ekushey TV"  group-title="Bangla",Ekushey TV
 
 
@@ -75,7 +76,7 @@ https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=5l6MP2g_WIwY
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=A_X1muY2paio5XC8ef-LXA&expires=1724073883&user=d477246e9e724f81a011b847457e71c4 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" tvg-name="Bangla TV"  group-title="Bangla",Bangla TV
-3https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=YcdPE7hr8L_oVh6xCRiwWA&expires=1721054496&user=d477246e9e724f81a011b847457e71c4 
+https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=YcdPE7hr8L_oVh6xCRiwWA&expires=1721054496&user=d477246e9e724f81a011b847457e71c4 
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" tvg-name="Nagorik TV"  group-title="Bangla",Nagorik TV
