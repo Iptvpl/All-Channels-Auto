@@ -263,8 +263,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg",Zoom
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=1087600.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg",Masti
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/7d9f8f16-83e3-43e3-9a0f-0bdf09b0729e/2.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/7d9f8f16-83e3-43e3-9a0f-0bdf09b0729e/0.m3u8
 
 
 
@@ -276,7 +279,7 @@ http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
 http://ekdilhai.pro/IN_SNT2/index.m3u8?token=ed35bc130772d0d29435cee71272324c
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten3.jpg",Sony Sports 3
 http://ekdilhai.pro/tenso3/index.m3u8?token=da41922098774b00e7fe125d560ef3e5
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten5.jpg",Sony Sports 5
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png",Sony Sports 5
 http://humsab.xyz/S_Ten5/index.m3u8?token=8d7cda4860a1575eaf09574a9e162172
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",Asports
