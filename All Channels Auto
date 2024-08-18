@@ -241,10 +241,11 @@ https://test-tan-iota-90.vercel.app/live/bdix/app/WowKids.m3u8
 
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery Bangla
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_23.m3u8
 
-#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery Hindi
-https://freeott.site/discovery/Discovery_Channel.m3u8
+#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery HD
+#https://freeott.site/discovery/Discovery_Channel.m3u8
 
 #EXTINF:-1, tvg-id="animalplanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
 
