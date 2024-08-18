@@ -195,10 +195,9 @@ http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
 http://humsab.xyz/IN_STGOLD/index.m3u8?token=d6775a1f115e5106be2e258d1a97ef71 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema HD
-http://217.20.112.199/zeecinema/index.m3u8
+#http://217.20.112.199/zeecinema/index.m3u8
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
