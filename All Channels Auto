@@ -66,7 +66,7 @@ https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=SvwxeSQMB183
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Jamuna TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=jeHWWEX-hRHZPsz3FiGXXA&expires=1724073928&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="Bangla",Deepto TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png" group-title="Bangla",Deepto TV
 https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=CJB9KE5gmwEQLlgwIf0drw&expires=1724073869&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangla",NEWS 24
@@ -76,9 +76,6 @@ https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=5l6MP2g_WIwY
 https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=_HOkFnsPztI0QG5XIpMI0g&expires=1724070964&user=c28278b7cc41459ea95c1d05df91e3e7
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangla",Ekhon TV
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Duranta TV
-https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=A_X1muY2paio5XC8ef-LXA&expires=1724073883&user=d477246e9e724f81a011b847457e71c4 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="Bangla",Bangla TV
 #https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=YcdPE7hr8L_oVh6xCRiwWA&expires=1721054496&user=d477246e9e724f81a011b847457e71c4
@@ -204,14 +201,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1-a
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1-audio_208482_und=208000-video=1087600.m3u8
 
-
-
-
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%26pictures.png",& Pictures HD
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1-audio_208482_und=208000-video=1087600.m3u8
 
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Duranta TV
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=A_X1muY2paio5XC8ef-LXA&expires=1724073883&user=d477246e9e724f81a011b847457e71c4 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/R.cf7ef83bba41b33f16c87e6423ab0eae?rik=Vwi8N0eRe5kYkw&pid=ImgRaw&r=0&sres=1&sresct=1",Nickelodeon Sonic
 http://ekdilhai.pro/IN_NICKHD/mpegts?token=170c54b47e21d406664eaab1e786d77f
