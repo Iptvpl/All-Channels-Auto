@@ -73,7 +73,7 @@ https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=CJB9KE5gmwEQL
 https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=5l6MP2g_WIwYwcbWHho6gw&expires=1724073960&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" tvg-name="DBC News"  group-title="Bangla",DBC News
-
+https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=_HOkFnsPztI0QG5XIpMI0g&expires=1724070964&user=c28278b7cc41459ea95c1d05df91e3e7
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" tvg-name="Ekhon TV"  group-title="Bangla",Ekhon TV
 
@@ -85,6 +85,7 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=A_X1muY2paio
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" tvg-name="Nagorik TV"  group-title="Bangla",Nagorik TV
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=U2egxm8Ji6iqNB3KQecObw&expires=1724033825&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" tvg-name="Bijoy TV"  group-title="Bangla",Bijoy TV
 
@@ -93,8 +94,10 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=A_X1muY2paio
 https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=kMa14l75g-RvPgCkWtc7GA&expires=1724073615&user=d477246e9e724f81a011b847457e71c4
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-name="T Sports"  group-title="Sports",T Sports
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-name="T Sports"  group-title="Sports",T Sports HD
 https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-name="T Sports"  group-title="Sports",T Sports
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=G14x4UW6j-IQF_pH586ITA&expires=1724029532&user=8c122f042c3043aba79a72f643fda382
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" tvg-name="G TV HD"  group-title="Bangla",G TV HD
@@ -131,9 +134,13 @@ http://humsab.xyz/IN_STARJ/index.m3u8?token=2a6118c76d56d6c76fa0dd9138689ec0
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" tvg-name="Star Jalsha HD"  group-title="Indian Bangla",Star Jalsha HD
 http://217.20.112.199/starjalshahd/index.m3u8
 
-
-#EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg" tvg-name="Colors Bangla"  group-title="Indian Bangla",Colors Bangla
+#EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg" tvg-name="Colors Bangla"  group-title="Indian Bangla",Colors Bangla HD
 http://217.20.112.199/colorsbangla/index.m3u8
+
+#EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg"  group-title="Indian Bangla",Enterr 10 Bangla
+#https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
+
 
 
 
@@ -256,6 +263,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg",Zoom
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=1087600.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg",Masti
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 
 
 
