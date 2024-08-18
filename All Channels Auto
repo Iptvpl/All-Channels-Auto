@@ -9,9 +9,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736"  group-title="Bangla",BTV World
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=eKbNUf7QkxI6DNqZsTK2EA&expires=1724073636&user=d477246e9e724f81a011b847457e71c4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736"  group-title="Bangla",BTV
-https://www.btvlive.gov.bd/streams/08f19b30-1c07-4809-ba0c-125d0cf9b7f9/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_2_playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla",ATN BANGLA
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=mRcf7Au7hfjoLq3pEdDlKQ&expires=1724073568&user=d477246e9e724f81a011b847457e71c4 
 
