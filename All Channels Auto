@@ -94,12 +94,6 @@ https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=U2egxm8Ji6iq
 https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=kMa14l75g-RvPgCkWtc7GA&expires=1724073615&user=d477246e9e724f81a011b847457e71c4
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
-https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=G14x4UW6j-IQF_pH586ITA&expires=1724029532&user=8c122f042c3043aba79a72f643fda382
-
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",G TV HD
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=Lx985h6ZaXKSGHR2cmr2MQ&expires=1724073908&user=d477246e9e724f81a011b847457e71c4 
 
@@ -272,6 +266,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
+https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=G14x4UW6j-IQF_pH586ITA&expires=1724029532&user=8c122f042c3043aba79a72f643fda382
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten1.jpg",Sony Sports 1
 http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
