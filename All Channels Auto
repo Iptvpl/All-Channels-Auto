@@ -242,8 +242,8 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1, tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentary",Nat Geo UAE
 
-
-
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest?cb=20240322135248",Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908",Music India
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=1087600.m3u8
