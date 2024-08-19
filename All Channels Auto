@@ -296,6 +296,8 @@ http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
 #http://176.119.29.52/live/00:1A:79:17:C0:71/4048/278.m3u8
 https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
+#https://tv5.hoichoi24.com/1000/video.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images-cdn1.welcomesoftware.com/assets/Willow+is+on+DIRECTV.png/Zz0wN2Q2OGJhNmI5OWIxMWVlODc2NzYyN2FmMWUzNmU4OA==?width=768&height=430",Willow Cricket
 https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/sgHh2Fp/Astro-Cricket.jpg",Astro Cricket HD
