@@ -224,10 +224,12 @@ https://cdn.hotflix-bd.online/pogo/tracks-v1a1/mono.m3u8
 https://rebrand.ly/git-cn
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney
 http://82.180.145.236:4518/dsad/video.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg",Discovery Kids
-https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg",Discovery Kids Hindi
-https://cdn1-freeiptv25.vercel.app/m3u/discoverykidshindi.m3u8
+https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
+#https://cdn1-freeiptv25.vercel.app/m3u/discoverykidshindi.m3u8
+#https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Discovery_Kids.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_yay.jpg",Sony YaY
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
 https://test-tan-iota-90.vercel.app/live/bdix/app/WowKids.m3u8
