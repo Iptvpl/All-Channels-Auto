@@ -37,9 +37,9 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-title="Bangla",R TV
-#https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 #https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
-https://livess.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
+#https://livess.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="Bangla",Boishakhi TV
 #https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=SmcART4QHrQeOwoG23E8_Q&expires=1724073661&user=d477246e9e724f81a011b847457e71c4
@@ -87,9 +87,9 @@ https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Jamuna TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 #https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=jeHWWEX-hRHZPsz3FiGXXA&expires=1724073928&user=d477246e9e724f81a011b847457e71c4
-#https://ythls-v3.onrender.com/video/TyIQiNLQzVg.m3u8
+https://ythls-v3.onrender.com/video/TyIQiNLQzVg.m3u8
 #https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="YOUTUBE  CHANNELS" tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg",Desh TV
