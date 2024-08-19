@@ -304,6 +304,8 @@ https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
 #Music
 
+#EXTINF:-1 tvg-logo="https://rebrand.ly/git-gb",Gaan Bangla
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="http://www.atnmusic.tv/images/logo.png",ATN MUSIC
 https://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
 
