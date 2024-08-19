@@ -1,10 +1,15 @@
 #EXTM3U
 
+#Islamic
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png"  group-title="Bangla",Madani Tv
 http://82.180.145.236:4518/mada/video.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png"  group-title="Bangla",Peace Tv
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 
+
+
+#Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png"  group-title="Bangla",BTV World
 https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=eKbNUf7QkxI6DNqZsTK2EA&expires=1724073636&user=d477246e9e724f81a011b847457e71c4
@@ -20,10 +25,7 @@ https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=4nRyg7xfYN1Zq
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" group-title="Bangla",Ekushey TV
 
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla",N TV
-
-
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-title="Bangla",R TV
 
@@ -99,6 +101,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=Lx985h6ZaXKS
 
 
 
+#Indian Bangla
 
 #EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" group-title="Indian Bangla",Zee Bangla HD
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
@@ -113,7 +116,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio
 
 #EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" group-title="Indian Bangla",Zee Bangla HD
 #http://humsab.xyz/IN_ZEBS/index.m3u8?token=ea4b2405ddb228058b47e6cc531a65e5
-
 
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla",Star Jalsha HD
@@ -133,7 +135,7 @@ http://217.20.112.199/colorsbangla/index.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
 
 
-
+#Bangla Cinema
 
 #EXTINF:-1, tvg-id="sonyaath.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla",Sony 8
 
@@ -145,6 +147,7 @@ https://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 
 
 
+#Hindi Channel
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/800px-SET_India_logo.svg.png",Sony HD
 #http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
@@ -176,7 +179,7 @@ http://116.202.46.40:9023/SONY_SAB_HINDI/index.m3u8
 http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
 
 
-
+#Hindi Cinema
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max 
 http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
@@ -207,6 +210,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpicturesh
 
 
 
+#Kids
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Duranta TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=A_X1muY2paio5XC8ef-LXA&expires=1724073883&user=d477246e9e724f81a011b847457e71c4 
 
@@ -229,29 +234,32 @@ https://test-tan-iota-90.vercel.app/live/bdix/app/WowKids.m3u8
 
 
 
-
+#Documentary
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="Documentary",Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #https://freeott.site/discovery/Discovery_Channel.m3u8
 
 #EXTINF:-1, tvg-id="animalplanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1, tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentary",Nat Geo UAE
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1920px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary",Discovery Science
-
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-2ccd43b52d73225f8a72d2653867b1e2" group-title="Documentary",TLC HD
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/TLC.m3u8
+#https://varun-iptv.netlify.app/m3u/TLC.m3u8
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1024px-Food_Network_logo.svg.png" group-title="Documentary",Food Network
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
 
 
 
-
+#Music
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest?cb=20240322135248",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
@@ -273,6 +281,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 
+#Sports 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
 https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
@@ -311,6 +320,9 @@ http://humsab.xyz/S_Ten5/index.m3u8?token=8d7cda4860a1575eaf09574a9e162172
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/OIP.rcg2Ridk8dSdD-LOemKKyAHaEK?rs=1&pid=ImgDetMain",MU TV 
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+
+#News
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png",FOX News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
