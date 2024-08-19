@@ -233,16 +233,25 @@ https://test-tan-iota-90.vercel.app/live/bdix/app/WowKids.m3u8
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="Documentary",Discovery HD Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-2ccd43b52d73225f8a72d2653867b1e2" group-title="Documentary",TLC HD
-https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/TLC.m3u8
-
-
-#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery HD
 #https://freeott.site/discovery/Discovery_Channel.m3u8
 
 #EXTINF:-1, tvg-id="animalplanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
 
 #EXTINF:-1, tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentary",Nat Geo UAE
+
+#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="Documentary",Discovery Science
+
+#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="Documentary",Investigation Discovery
+
+#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-2ccd43b52d73225f8a72d2653867b1e2" group-title="Documentary",TLC HD
+https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/TLC.m3u8
+
+#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="Documentary",Food Network
+
+
+
+
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest?cb=20240322135248",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
