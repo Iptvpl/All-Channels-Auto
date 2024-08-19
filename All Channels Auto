@@ -75,7 +75,7 @@ https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=CJB9KE5gmwEQL
 https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=5l6MP2g_WIwYwcbWHho6gw&expires=1724073960&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangla",DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=_HOkFnsPztI0QG5XIpMI0g&expires=1724070964&user=c28278b7cc41459ea95c1d05df91e3e7
+#https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=_HOkFnsPztI0QG5XIpMI0g&expires=1724070964&user=c28278b7cc41459ea95c1d05df91e3e7
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangla",Ekhon TV
 
