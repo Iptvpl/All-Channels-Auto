@@ -231,7 +231,7 @@ https://test-tan-iota-90.vercel.app/live/bdix/app/WowKids.m3u8
 
 
 
-#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="Documentary",Discovery HD Bangla
+#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="Documentary",Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #https://freeott.site/discovery/Discovery_Channel.m3u8
 
@@ -239,14 +239,14 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1, tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentary",Nat Geo UAE
 
-#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="Documentary",Discovery Science
+#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1920px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary",Discovery Science
 
-#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="Documentary",Investigation Discovery
+#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-2ccd43b52d73225f8a72d2653867b1e2" group-title="Documentary",TLC HD
 https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/TLC.m3u8
 
-#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="Documentary",Food Network
+#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1024px-Food_Network_logo.svg.png" group-title="Documentary",Food Network
 
 
 
