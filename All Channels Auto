@@ -145,6 +145,7 @@ https://livess.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
 #Indian Bangla
 
 #EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" group-title="Indian Bangla",Zee Bangla HD
+#http://217.20.112.199/zeebangla/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=352400.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=1087600.m3u8
@@ -168,12 +169,13 @@ http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg" group-title="Indian Bangla",Colors Bangla HD
 http://217.20.112.199/colorsbangla/index.m3u8
 
+
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg"  group-title="Indian Bangla",Enterr 10 Bangla
 #https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
 
 #EXTINF:-1, tvg-id="sonyaath.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla",Sony 8
-
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
 #Bangla Cinema
 
@@ -190,9 +192,9 @@ https://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 #Hindi Channel
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/800px-SET_India_logo.svg.png",Sony HD
-#http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
+http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
 #http://ekdilhai.pro/IND_SonyYaYKids/index.m3u8?token=27659c5207e9f51e3ef289a1ee6b2715
-https://ekdilhai.pro/IND_SonyYaYKids/index.m3u8
+#https://ekdilhai.pro/IND_SonyYaYKids/index.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1000?cb=20240615084342",Sony KAl
