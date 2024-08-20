@@ -1,35 +1,23 @@
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Jalsha Movies HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c2
-http://103.151.60.174/test2028
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c3
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c4
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Sony 8
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c5
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Z Ban
 http://217.20.112.199/zeebangla/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c6
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Colors Ban
 http://217.20.112.199/colorsbangla/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c7
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Nick
 http://tv.digitalview.live:8080/play/ku8OB3vrzffgNPMos00OKADqKqMtyqYN63N7XeOh3OXGK2dPPa7MU0wivtbSXv-g/ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c8
-http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj5A_sk7626hm59cZjjhWhBA/ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c9
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Jamuna TV
 http://mega4k.one:8080/live/9755986456/8578647874/94123.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c10
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Ekattor Tv
 http://mega4k.one:8080/live/9755986456/8578647874/94122.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c11
-
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Ekattor Tv
 http://5.bostv.one/live/9755986456/8578647874/94122.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,c12
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
