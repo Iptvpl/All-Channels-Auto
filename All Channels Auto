@@ -90,8 +90,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1024px-Channel24logo.svg.png" group-title="Bangla",Channel 24
 #https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=SvwxeSQMB183c_ENSLAlWw&expires=1724073672&user=d477246e9e724f81a011b847457e71c4
-#https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+#https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Jamuna TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
@@ -108,8 +108,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangla",Ekhon TV
-https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
-#https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/playlist.m3u8
+#https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/playlist.m3u8
 #https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",G TV HD
