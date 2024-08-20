@@ -19,3 +19,10 @@ http://mega4k.one:8080/live/9755986456/8578647874/94123.ts
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Ekattor Tv
 http://mega4k.one:8080/live/9755986456/8578647874/94122.ts
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_max2.jpg",Sony Max 2
+http://humsab.xyz/IN_S_X2/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_max2.jpg",Sony Max 2
+http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_max2.jpg",Sony Max 2
+http://humsab.xyz/IN_S_X2/playlist.m3u8
+
