@@ -97,14 +97,13 @@ https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",G TV HD
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=VWUxc7EBOulj5pV_aZ4xtQ&expires=1724254263&user=c28278b7cc41459ea95c1d05df91e3e7
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",G TV HD
-http://ekdilhai.pro/GaziTV/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" group-title="Bangla",Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=TTBx59rBiszz_RLETSUYCg&expires=1724254365&user=c28278b7cc41459ea95c1d05df91e3e7
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangla",Bangla TV
-#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangla",Bangla TV
 #https://livess.ncare.live/live-orgin/banglatvhd.stream/playlist.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
