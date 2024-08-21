@@ -1,3 +1,20 @@
+
+
+
+#Islamic
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" ,Madani Tv
+http://82.180.145.236:4518/mada/video.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" ,Peace Tv
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RNGJngt/Picsart-23-06-07-10-17-03-491.png",ATN ISLAMIC
+https://livess.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1024px-Bangladesh_Television_Logo.svg.png" ,BTV HD
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
+
+
+#Bangla
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Jalsha Movies HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
