@@ -345,7 +345,7 @@ https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hindi.jpg",Star Sports 1
 https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports1Hindi.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Abu Dhabi Sports
 https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports2.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hd.jpg",Star Sports Select 2
 http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
