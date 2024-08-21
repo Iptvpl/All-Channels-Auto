@@ -22,6 +22,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 #http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" ,N TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg",Desh TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/live-orgin/deshtv.stream/playlist.m3u8
@@ -82,10 +83,12 @@ https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G TV HD
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=VWUxc7EBOulj5pV_aZ4xtQ&expires=1724254263&user=c28278b7cc41459ea95c1d05df91e3e7
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" ,Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=TTBx59rBiszz_RLETSUYCg&expires=1724254365&user=c28278b7cc41459ea95c1d05df91e3e7
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1280px-Mohona_tv_Logo.svg.png" ,Mohona TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Mohona-g.stream/live-orgin/Mohona-g.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" ,Bangla TV
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
@@ -233,7 +236,7 @@ https://cdn.hotflix-bd.online/pogo/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png",CN
 https://rebrand.ly/git-cn
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney
-http://82.180.145.236:4518/dsad/video.m3u8
+#http://82.180.145.236:4518/dsad/video.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg",Discovery Kids Hindi
 https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
@@ -283,7 +286,8 @@ https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/HC82IIf.png",Gaan Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.atnmusictv.com/images/logo.png",ATN MUSIC
+
+#EXTINF:-1 tvg-logo="https://www.atnmusictv.com/images/logo.png",ATN MUSI
 https://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest?cb=20240322135248",Sangeet Bangla
@@ -310,9 +314,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T Sports HD
 https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=soObWWs78g270YTtId-xuQ&expires=1724254050&user=c28278b7cc41459ea95c1d05df91e3e7
-
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",Asports
 http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
@@ -330,7 +331,7 @@ https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hindi.jpg",Star Sports 1
 https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports1Hindi.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Abu Dhabi Sports TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2
 https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports2.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hd.jpg",Star Sports Select 2
 http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
