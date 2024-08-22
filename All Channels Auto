@@ -254,6 +254,7 @@ https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
 #https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Discovery_Kids.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_yay.jpg",Sony YaY
+http://103.151.60.174/test2028
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
 https://test-tan-iota-90.vercel.app/live/bdix/app/WowKids.m3u8
 
