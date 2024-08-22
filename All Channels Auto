@@ -228,8 +228,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpicturesh
 https://rebrand.ly/git-cn
 #https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" ,  HUNGAMA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" ,HUNGAMA
 http://119.156.26.155:8000/play/a05t/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_yay.jpg",Sony YaY
+http://103.151.60.174/test2028
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/R.cf7ef83bba41b33f16c87e6423ab0eae?rik=Vwi8N0eRe5kYkw&pid=ImgRaw&r=0&sres=1&sresct=1",Nickelodeon Sonic
 http://ekdilhai.pro/IN_NICKHD/mpegts?token=170c54b47e21d406664eaab1e786d77f
@@ -246,8 +249,6 @@ https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
 #https://cdn1-freeiptv25.vercel.app/m3u/discoverykidshindi.m3u8
 #https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/Discovery_Kids.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_yay.jpg",Sony YaY
-http://103.151.60.174/test2028
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
 https://test-tan-iota-90.vercel.app/live/bdix/app/WowKids.m3u8
 
