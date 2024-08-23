@@ -162,7 +162,8 @@ https://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 #Hindi Channel
 
 #EXTINF:-1  tvg-logo="https://test-tan-iota-90.vercel.app/images/star_plushd.jpg",Star Plus HD
-http://217.20.112.199/starplushd/index.m3u8
+#http://217.20.112.199/starplushd/index.m3u8
+https://humsab.xyz/IN_STS/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/800px-SET_India_logo.svg.png",Sony HD
 http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
@@ -179,9 +180,8 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
-http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
 https://humsab.xyz/IN_CTVS/playlist.m3u8
+#http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",& Tv
 #http://116.202.46.40:9023/AND_TV_HINDI/index.m3u8
@@ -330,8 +330,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T Sports HD
 https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",Asports
-http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",A sports
+#http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
+https://humsab.xyz/APakSpo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
 #http://176.119.29.52/live/00:1A:79:17:C0:71/4048/278.m3u8
@@ -340,19 +341,24 @@ https://tv5.hoichoi24.com/1000/video.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images-cdn1.welcomesoftware.com/assets/Willow+is+on+DIRECTV.png/Zz0wN2Q2OGJhNmI5OWIxMWVlODc2NzYyN2FmMWUzNmU4OA==?width=768&height=430",Willow Cricket
 https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/sgHh2Fp/Astro-Cricket.jpg",Astro Cricket HD
 https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hindi.jpg",Star Sports 1
-https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports1Hindi.m3u8
+#https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports1Hindi.m3u8
+https://humsab.xyz/In_Hin/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2
 https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports2.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hd.jpg",Star Sports Select 2
 http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten1.jpg",Sony Sports 1
-http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
+#http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
+https://allinonereborn.com/jiobe1125.m3u8/?id=373
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten2.jpg",Sony Sports 2
 http://ekdilhai.pro/IN_SNT2/index.m3u8?token=ed35bc130772d0d29435cee71272324c
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten3.jpg",Sony Sports 3
