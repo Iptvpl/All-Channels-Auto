@@ -337,7 +337,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T Sports HD
 #https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
-http://103.89.248.14:8082/1LIVE/index.m3u8?token=126c41a70edaf59fc0164137eae27596e8f5d4f9-84636bf0f5b6d7b3613dc87dd939ec0a-1724543085-1724532285
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1724749543&md5=_hRRG_Axhp4fqmjKbOrgyQ&user=8c122f042c3043aba79a72f643fda382
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",A sports
 #http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
