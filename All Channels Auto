@@ -378,3 +378,12 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1920px-Aljazeera_eng.svg.png",Al Jazeera
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
+
+#Movies
+
+#EXTINF:-1 tvg-logo="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*y5qf-sidspR46xGsqA6LFw.jpeg" group-title="Bollywood",Bulbbul (2020)
+https://rebrand.ly/bulbbul
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/3m6gg2lxde82/6yBhDitiXKmQ2tqlKfwWmL/becd700311ae368211228326a502dd27/IO2_Teaser_Manhole_1s_v7.2_KA_Mech7_FS.jpg?w=1200&fm=webp&q=80" group-title="Animation",Inside Out 2 (2024)
+https://rebrand.ly/insideout2024
