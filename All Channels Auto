@@ -95,7 +95,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G TV HD
-http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/85.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" ,NEWS 24
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/107.m3u8
@@ -132,6 +132,8 @@ https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",NOBANNO TV
 https://livess.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",Bijoy TV
+http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/85.m3u8
 
 
 #Indian Bangla
