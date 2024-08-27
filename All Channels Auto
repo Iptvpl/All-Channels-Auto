@@ -127,10 +127,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-a
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=1087600.m3u8
 
 
-
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha
-http://103.151.60.174:556
-
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha HD
 #https://tv5.hoichoi24.com/1112/playlist.m3u8
 https://humsab.xyz/IN_JALSHAS/index.m3u8
@@ -139,7 +135,8 @@ https://humsab.xyz/IN_JALSHAS/index.m3u8
 #https://humsab.xyz/IN_STARJ/playlist.m3u8
 http://217.20.112.199/starjalshahd/index.m3u8
 
-
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha
+http://103.151.60.174:556
 
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg" ,Colors Bangla
