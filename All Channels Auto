@@ -8,7 +8,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #https://livess.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhN_BT3JpOX3NBMi_JnWJ4YZB4kOxzoWTKtqfSY=s900-c-k-c0x00ffffff-no-rj" ,ATN News
-
+http://103.89.248.14:8082/ATN-NEWS/index.m3u8?token=89b9f71088ec6dbf571ec3ee4c3d80914ebf7a89-16f9a99b4d7356556646eae3aa26f375-1724764725-1724753925
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/live-orgin/channeli-8-org.stream/playlist.m3u8
@@ -55,7 +55,6 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png"  ,Somoy TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png"  ,Independent TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/live-orgin/independent-8-org.stream/playlist.m3u8
 
@@ -63,15 +62,18 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1024px-Channel24logo.svg.png"  ,Channel 24
-https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+#https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+http://103.89.248.10:8082/Chanal24/index.m3u8?token=b2f9a6d4cd24888f2991dcab30a290b1ebf45367-9a0e50b19b70048e476f7bb26b5d26f1-1724764841-1724754041
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj"  ,Jamuna TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 #https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+http://103.89.248.14:8082/Jamuna/index.m3u8?token=1afc933ff32f7a1ad88a9aa976a3428ad3fd7dfa-c080e04cdeb487d0e9a38f8159184ea7-1724764623-1724753823
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"  ,DBC News
 #https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/playlist.m3u8
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/playlist.m3u8
+http://103.89.248.26:8082/DBC-NEWS/index.fmp4.m3u8?token=83568d5fffa01431b30fab5b0f340725caae5c8a-42f123da922c0ab1737754f85876e36f-1724764750-1724753950
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
@@ -103,7 +105,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",NEXUS TV HD
-https://livess.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
+#https://livess.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",NOBANNO TV
 https://livess.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
