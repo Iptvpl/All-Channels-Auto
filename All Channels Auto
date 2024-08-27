@@ -14,6 +14,7 @@ http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/83.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/live-orgin/channeli-8-org.stream/playlist.m3u8
 #http://208.86.19.13:81/510.stream/index.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:64:B4:A6/13603/89.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" ,Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
@@ -31,6 +32,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Desh TV
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/93.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/live-orgin/deshtv.stream/playlist.m3u8
+
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" ,R TV
@@ -71,7 +73,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png"  ,Independent TV
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/97.m3u8
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/99.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/live-orgin/independent-8-org.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" ,Ekattor TV
@@ -84,8 +86,9 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/87.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj"  ,Jamuna TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 #https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/100.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"  ,DBC News
 #https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
@@ -106,7 +109,7 @@ https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=l8ANO10gBduj
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?expires=1724820166&md5=3DSvDsqhTxqFkWMrJHp00w&user=ec6dd7dec84545a2a15edb664bb2d4aa
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1280px-Mohona_tv_Logo.svg.png" ,Mohona TV
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/97.m3u8
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/103.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Mohona-g.stream/live-orgin/Mohona-g.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png" ,My TV
@@ -204,6 +207,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglac
 
 #EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,Jalsha Movies
 https://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
+
 #EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,Jalsha Movies HD
 #http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/117.m3u8
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/117.m3u8
@@ -213,6 +217,7 @@ https://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://test-tan-iota-90.vercel.app/images/star_plushd.jpg",Star Plus HD
 #http://217.20.112.199/starplushd/index.m3u8
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/200.m3u8
 https://humsab.xyz/IN_STS/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Star_Bharat_logo.png",Star Bharat HD
@@ -224,7 +229,9 @@ http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
 #https://ekdilhai.pro/IND_SonyYaYKids/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",Sony SAB
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/260.m3u8
 http://116.202.46.40:9023/SONY_SAB_HINDI/index.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1000?cb=20240615084342",Sony KAl
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -232,12 +239,16 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
 https://humsab.xyz/IN_CTVS/playlist.m3u8
 #http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/59.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee Tv
 #http://116.202.46.40:9023/ZEE_HINDI/index.m3u8
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/217.m3u8
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/218.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_208482_und=208000-video=2137600.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_208482_und=208000-video=1087600.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",& Tv
 #http://116.202.46.40:9023/AND_TV_HINDI/index.m3u8
@@ -246,6 +257,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1-audio_208
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest?cb=20220525063636",Zing
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/219.m3u8
 
 
 
@@ -267,11 +279,13 @@ http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema HD
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/214.m3u8
 #http://217.20.112.199/zeecinema/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/207.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1-audio_208482_und=208000-video=1087600.m3u8
 
@@ -301,6 +315,7 @@ http://103.151.60.174:553
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/POGO-logo.png/250px-POGO-logo.png",POGO
 #https://cdn.hotflix-bd.online/pogo/tracks-v1a1/mono.m3u8
 https://rebrand.ly/git-pogo
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/256.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney
@@ -414,8 +429,14 @@ https://humsab.xyz/In_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2
 https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports2.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" ,Star Sports Select 1
+http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/299.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hd.jpg",Star Sports Select 2
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/300.m3u8
 http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
+
+http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/299.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten1.jpg",Sony Sports 1
 http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
@@ -440,3 +461,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1920px-Aljazeera_eng.svg.png",Al Jazeera
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png",CNN
+http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/50.m3u8
