@@ -143,7 +143,7 @@ http://217.20.112.199/starjalshahd/index.m3u8
 
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg" ,Colors Bangla
-http://103.151.60.174:5224
+#http://103.151.60.174:5224
 https://ekdilhai.pro/IN_ColorsBengali/playlist.m3u8
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg" ,Colors Bangla HD
