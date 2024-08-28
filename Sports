@@ -35,3 +35,41 @@ http://mega4k.one:8080/live/9755986456/8578647874/94123.ts
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Ekattor Tv
 http://mega4k.one:8080/live/9755986456/8578647874/94122.ts
+
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/R.cf7ef83bba41b33f16c87e6423ab0eae?rik=Vwi8N0eRe5kYkw&pid=ImgRaw&r=0&sres=1&sresct=1",Nickelodeon Sonic
+#http://ekdilhai.pro/IN_NICKHD/mpegts?token=170c54b47e21d406664eaab1e786d77f
+http://ekdilhai.pro/IN_NICKHD/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg",Discovery Kids
+#https://cdn1-freeiptv25.vercel.app/m3u/discoverykidshindi.m3u8
+https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
+http://195.26.87.217/live/00:1A:79:17:C0:71/10153/91169.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Star_Bharat_logo.png",Star Bharat HD
+#http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
+http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/195.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",Sony SAB
+http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/192.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max
+http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/186.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_max2.jpg",Sony Max 2
+#http://humsab.xyz/IN_S_X2/index.m3u8
+https://humsab.xyz/IN_S_X2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-2ccd43b52d73225f8a72d2653867b1e2" ,TLC HD
+#https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/TLC.m3u8
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+
+#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1024px-Food_Network_logo.svg.png" ,Food Network
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+
+
