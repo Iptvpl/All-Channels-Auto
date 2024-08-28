@@ -246,7 +246,7 @@ http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/260.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1000?cb=20240615084342",Sony KAl
 #https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-https://spt-sonykal-1-us.lg.wurl.tv/playlist_1200k.m3u8
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_3000k.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
 https://humsab.xyz/IN_CTVS/playlist.m3u8
