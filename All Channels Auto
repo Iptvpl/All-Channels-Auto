@@ -13,8 +13,8 @@ http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/83.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 #http://208.86.19.13:81/510.stream/index.m3u8
-#http://tv.cloudcdn.me/live/00:1A:79:64:B4:A6/13603/89.m3u8
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/live-orgin/channeli-8-org.stream/playlist.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:64:B4:A6/13603/89.m3u8
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/live-orgin/channeli-8-org.stream/playlist.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png" ,Channel 9
@@ -63,8 +63,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Desh TV
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/93.m3u8
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/live-orgin/deshtv.stream/playlist.m3u8
+http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/93.m3u8
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/live-orgin/deshtv.stream/playlist.m3u8
 
 
 
@@ -92,7 +92,7 @@ http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/101.m3u8
 #https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png"  ,Asian TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" ,Asian TV
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/80.m3u8
 #https://livess.ncare.live/live-orgin/asian-teFzst-sample-ok-d.stream/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
@@ -124,7 +124,7 @@ http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/87.m3u8
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ch24-r.stream/playlist.m3u8
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj"  ,Jamuna TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,Jamuna TV
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/100.m3u8
 #https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
@@ -178,7 +178,7 @@ http://103.151.60.174:556
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha HD
 https://humsab.xyz/IN_JALSHAS/index.m3u8
 
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha HD
 #https://humsab.xyz/IN_STARJ/playlist.m3u8
 http://217.20.112.199/starjalshahd/index.m3u8
 
@@ -231,19 +231,20 @@ http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/117.m3u8
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/200.m3u8
 https://humsab.xyz/IN_STS/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Star_Bharat_logo.png",Star Bharat HD
-#http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
-http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/195.m3u8
-
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/800px-SET_India_logo.svg.png",Sony HD
 #http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
-#https://ekdilhai.pro/IND_SonyYaYKids/index.m3u8
-http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/192.m3u8
+https://ekdilhai.pro/IND_SonyYaYKids/index.m3u8
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/193.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",Sony SAB HD
-http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/260.m3u8
 #http://116.202.46.40:9023/SONY_SAB_HINDI/index.m3u8
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/260.m3u8
+http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/191.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",Sony SAB
+http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/192.m3u8
+
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1000?cb=20240615084342",Sony KAl
