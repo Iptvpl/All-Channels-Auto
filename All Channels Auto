@@ -233,11 +233,13 @@ https://humsab.xyz/IN_STS/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Star_Bharat_logo.png",Star Bharat HD
 #http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
+http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/195.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/800px-SET_India_logo.svg.png",Sony HD
 #http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
 #https://ekdilhai.pro/IND_SonyYaYKids/index.m3u8
+http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/192.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",Sony SAB HD
 http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/260.m3u8
@@ -245,9 +247,7 @@ http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/260.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1000?cb=20240615084342",Sony KAl
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1000?cb=20240615084342",Sony KAl
+#https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_2000k.m3u8
 
 
@@ -280,20 +280,21 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_un
 
 #Hindi Cinema
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max HD
 http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
+http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/185.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_max2.jpg",Sony Max 2
-#http://humsab.xyz/IN_S_X2/index.m3u8
-https://humsab.xyz/IN_S_X2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max
+http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/186.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_gold.jpg",Star Gold
-#https://humsab.xyz/IN_STGOLD/playlist.m3u8
-http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
+https://humsab.xyz/IN_STGOLD/playlist.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-gold-select.jpg",Star Gold Select HD
-#http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8?token=82f2f9f379443a302900ad4c4b0bf2f9
-http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
+http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8?token=82f2f9f379443a302900ad4c4b0bf2f9
+
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema HD
@@ -341,17 +342,6 @@ https://rebrand.ly/git-pogo
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
 http://119.156.26.155:8000/play/a05u/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/R.cf7ef83bba41b33f16c87e6423ab0eae?rik=Vwi8N0eRe5kYkw&pid=ImgRaw&r=0&sres=1&sresct=1",Nickelodeon Sonic
-#http://ekdilhai.pro/IN_NICKHD/mpegts?token=170c54b47e21d406664eaab1e786d77f
-http://ekdilhai.pro/IN_NICKHD/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg",Discovery Kids
-#https://cdn1-freeiptv25.vercel.app/m3u/discoverykidshindi.m3u8
-https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
-
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
-http://195.26.87.217/live/00:1A:79:17:C0:71/10153/91169.m3u8
 
 
 
@@ -378,13 +368,6 @@ http://103.110.110.11:8081/live/NGC/playlist.m3u8
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
 
-#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-2ccd43b52d73225f8a72d2653867b1e2" ,TLC HD
-#https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/TLC.m3u8
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
-
-#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1024px-Food_Network_logo.svg.png" ,Food Network
-https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
-
 
 
 
@@ -394,15 +377,8 @@ https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/97.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.atnmusictv.com/images/logo.png",ATN MUSI
-https://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest?cb=20240322135248",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908",Music India
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
@@ -416,12 +392,16 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=2
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/7d9f8f16-83e3-43e3-9a0f-0bdf09b0729e/0.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908",Music India
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=1087600.m3u8
+
 
 
 #Sports 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T Sports HD
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?expires=1724820744&md5=OK-w_74Ln_R1Sqfhib7PEw&user=8c122f042c3043aba79a72f643fda382
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?expires=1725029945&md5=SQElJ2FGpcxkas7elHOdcQ&user=ec6dd7dec84545a2a15edb664bb2d4aa
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",A sports
