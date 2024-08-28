@@ -281,9 +281,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_un
 #http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
 http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/185.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max
-http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/186.m3u8
-
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_gold.jpg",Star Gold
 https://humsab.xyz/IN_STGOLD/playlist.m3u8
