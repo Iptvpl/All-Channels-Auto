@@ -59,7 +59,7 @@ https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",NEXUS TV HD
-https://livess.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
+#https://livess.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",নবান্ন TV
 https://livess.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
@@ -141,7 +141,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G TV HD
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?expires=1725029737&md5=KMkg_iCVjIV82UVtwnkAHQ&user=ec6dd7dec84545a2a15edb664bb2d4aa
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" ,NEWS 24
 http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/107.m3u8
@@ -154,9 +154,6 @@ https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?expires=17251312
 
 #Indian Bangla
 
-
-#EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee Bangla
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=352400.m3u8
 
 
 
@@ -176,34 +173,34 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-a
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=1087600.m3u8
 
 
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা
 http://103.151.60.174:556
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/116.m3u8
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/116.m3u8
-
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha HD
-https://humsab.xyz/IN_JALSHAS/index.m3u8
-
-
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha HD
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha HD
 #https://humsab.xyz/IN_STARJ/playlist.m3u8
 http://217.20.112.199/starjalshahd/index.m3u8
 
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা HD
+#https://humsab.xyz/IN_JALSHAS/index.m3u8
 
 
-#EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg" ,Colors Bangla
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha HD
+#https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/116.m3u8
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/116.m3u8
+
+
+#EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg" ,Colors বাংলা
 http://103.151.60.174:5224
 #http://opplex.tv:8080/43738383/42738484/245895
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/92.m3u8
 
-#EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg" ,Colors Bangla HD
-http://217.20.112.199/colorsbangla/index.m3u8
+#EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg" ,Colors বাংলা HD
+https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg" ,Colors Bangla HD
-https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
+#http://217.20.112.199/colorsbangla/index.m3u8
+
 
 #EXTINF:-1, tvg-id="sonyaath.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" ,Sony আট
 http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SHISHIR/44150.m3u8
