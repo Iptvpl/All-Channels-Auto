@@ -181,7 +181,7 @@ http://103.151.60.174:556
 http://217.20.112.199/starjalshahd/index.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha HD
-https://humsab.xyz/IN_JALSHAS/index.m3u8
+#https://humsab.xyz/IN_JALSHAS/index.m3u8
 
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png/revision/latest?cb=20210420232004" ,Star Jalsha HD
@@ -196,7 +196,7 @@ http://103.151.60.174:5224
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/92.m3u8
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors বাংলা HD
-https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
+#https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors Bangla HD
 http://217.20.112.199/colorsbangla/index.m3u8
