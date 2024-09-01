@@ -227,11 +227,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglac
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies
-https://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
+http://103.151.60.174:555
+#https://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 
 #EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies HD
 #http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/117.m3u8
-http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/117.m3u8
+#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/117.m3u8
 
 
 #Hindi Channel
