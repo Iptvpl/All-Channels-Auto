@@ -480,3 +480,14 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png",CNN
 http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/50.m3u8
+
+#MOVIES
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/Bad_Newz_poster.jpg" ,Bad Newz - 2024
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Bad%20Newz%20%282024%29%201080p/Bad%20Newz%20%282024%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Munjya_2024.jpg" ,Munjaya - 2024
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Munjya%20%282024%29%201080p/Munjya%20%282024%29%20Hindi%201080p%20DSNP%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Life_in_a..._Metro.jpg" ,Life In a Metro - 2007
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Life%20in%20a%20Metro%20%282007%29%201080p/Life%20in%20a%20Metro%20%282007%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
