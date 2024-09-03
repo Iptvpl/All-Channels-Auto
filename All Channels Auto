@@ -333,7 +333,7 @@ https://rebrand.ly/git-cn
 http://119.156.26.155:8000/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" ,HUNGAMA
-http://opplex.tv:8080/43738383/42738484/150480
+#http://opplex.tv:8080/43738383/42738484/150480
 #http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 
 
