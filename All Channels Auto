@@ -143,7 +143,7 @@ https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G TV HD
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1725375221&md5=zopgj6xT4wgb3fwjZ58dgg&user=c15be118d93a464dabf77260596012cf
+#https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1725375221&md5=zopgj6xT4wgb3fwjZ58dgg&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" ,NEWS 24
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/107.m3u8
