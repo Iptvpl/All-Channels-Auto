@@ -8,17 +8,11 @@
 #https://livess.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhN_BT3JpOX3NBMi_JnWJ4YZB4kOxzoWTKtqfSY=s900-c-k-c0x00ffffff-no-rj" ,ATN News
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/83.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 #http://208.86.19.13:81/510.stream/index.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:64:B4:A6/13603/89.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
-
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png" ,Channel 9
-
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" ,একুশে ETV
@@ -142,16 +136,16 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G TV HD
-#https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1725375221&md5=zopgj6xT4wgb3fwjZ58dgg&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" ,NEWS 24
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/107.m3u8
 #https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24-off.stream/playlist.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G TV HD
+
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" ,নাগরিক TV
-
-
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
 
 
@@ -412,7 +406,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 #Sports 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T Sports HD
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?expires=1725376364&md5=K5YiTMLA85FcvXUq-qVodQ&user=c15be118d93a464dabf77260596012cf
+
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",A sports
