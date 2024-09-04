@@ -150,7 +150,7 @@ https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 #https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24-off.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" ,নাগরিক TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?expires=1725375900&md5=CatiqxcvXuRb7OdFEV1fWg&user=c15be118d93a464dabf77260596012cf
+
 
 
 
@@ -192,7 +192,7 @@ https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png/revision/latest?cb=20210420232004" ,Star Jalsha HD
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/116.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/116.m3u8
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/116.m3u8
 
 
@@ -202,14 +202,14 @@ https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/92.m3u8
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors বাংলা HD
-#https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
+https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors Bangla HD
 http://217.20.112.199/colorsbangla/index.m3u8
 
 
 #EXTINF:-1, tvg-id="sonyaath.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" ,Sony আট
-http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SHISHIR/44150.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SHISHIR/44150.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/himelhimu/44150.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:64:B4:A6/13603/44150.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:17:D4:A1/8164/44150.m3u8
