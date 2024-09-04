@@ -183,6 +183,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-a
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 
 
+
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha HD
 #http://217.20.112.199/starjalshahd/index.m3u8
 
@@ -227,6 +228,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglac
 #EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies
 #http://103.151.60.174:555
 #https://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
+http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 
 #EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies HD
 http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/117.m3u8
