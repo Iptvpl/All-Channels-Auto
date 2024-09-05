@@ -139,11 +139,11 @@ https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" ,NEWS 24
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/107.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/107.m3u8
 #https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24-off.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G TV HD
-
+#http://lifetvbd.xyz:8080/live/123/123/1686.m3u8
 http://103.89.248.14:8082/GAZI-TV/tracks-v1a1/mono.m3u8?token=6f132a416c9cf314ee76827e7bf96b13843955c0-cc8e469e83e6a3ba06ba5bc30d4ead4c-1725534010-1725523210
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" ,নাগরিক TV
@@ -237,7 +237,7 @@ http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
 #https://humsab.xyz/IN_CTVS/playlist.m3u8
 #http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/59.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/36129.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://test-tan-iota-90.vercel.app/images/star_plushd.jpg",Star Plus HD
@@ -247,14 +247,12 @@ http://217.20.112.199/starplushd/index.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/800px-SET_India_logo.svg.png",Sony HD
-#http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
-#https://ekdilhai.pro/IND_SonyYaYKids/index.m3u8
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/193.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/193.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",Sony SAB HD
-#http://116.202.46.40:9023/SONY_SAB_HINDI/index.m3u8
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/260.m3u8
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/191.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/260.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/191.m3u8
+
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1000?cb=20240615084342",Sony KAl
@@ -262,21 +260,17 @@ http://217.20.112.199/starplushd/index.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_2000k.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee Tv
-#http://116.202.46.40:9023/ZEE_HINDI/index.m3u8
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/217.m3u8
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/218.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_208482_und=208000-video=2137600.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_208482_und=208000-video=1087600.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",& Tv
-#http://116.202.46.40:9023/AND_TV_HINDI/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest?cb=20220525063636",Zing
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/219.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/219.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_und=208000-video=1087600.m3u8
 
@@ -286,8 +280,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_un
 #Hindi Cinema
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max HD
-#http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/185.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/185.m3u8
 http://103.89.248.14:8082/SONY-MAX/index.m3u8?token=8fba286a928627551d16036882090456e977800f-e83722081ec79da2ae55655b375c8070-1725534249-1725523449
 
 
@@ -299,15 +292,14 @@ http://103.89.248.14:8082/SONY-MAX/index.m3u8?token=8fba286a928627551d1603688209
 #http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8?token=82f2f9f379443a302900ad4c4b0bf2f9
 
 
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema HD
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/214.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/214.m3u8
 #http://217.20.112.199/zeecinema/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/207.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/207.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1-audio_208482_und=208000-video=1087600.m3u8
 
@@ -326,28 +318,20 @@ https://rebrand.ly/git-cn
 #https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" ,HUNGAMA
-http://119.156.26.155:8000/play/a05t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" ,HUNGAMA
 #http://opplex.tv:8080/43738383/42738484/150480
 #http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
+http://119.156.26.155:8000/play/a05t/index.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_yay.jpg",Sony YaY
-#http://103.151.60.174:553
-#http://103.151.60.174/test2028
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_yay.jpg",Sony YaY
-#http://opplex.tv:8080/43738383/42738484/245959
+http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/78849.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/POGO-logo.png/250px-POGO-logo.png",POGO
 https://rebrand.ly/git-pogo
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/256.m3u8
-#http://opplex.tv:8080/43738383/42738484/150483
+#http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/256.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney
-#http://82.180.145.236:4518/dsad/video.m3u8
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
 http://119.156.26.155:8000/play/a05u/index.m3u8
 
@@ -410,8 +394,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 #Sports 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T Sports HD
-
 http://103.89.248.14:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=f916682b5e1014f4512bf674e64e84c20eb44b77-66d9b9f44a7f9a4a30e91724201c1ee3-1725534077-1725523277
+#http://opplextv.cyou:8080/live/773199/626227/167590.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",A sports
