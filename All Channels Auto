@@ -142,9 +142,10 @@ https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/107.m3u8
 #https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24-off.stream/playlist.m3u8
 
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G TV HD
 #http://lifetvbd.xyz:8080/live/123/123/1686.m3u8
-http://103.89.248.14:8082/GAZI-TV/tracks-v1a1/mono.m3u8?token=6f132a416c9cf314ee76827e7bf96b13843955c0-cc8e469e83e6a3ba06ba5bc30d4ead4c-1725534010-1725523210
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" ,নাগরিক TV
 
@@ -172,15 +173,17 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-a
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=1087600.m3u8
 
 
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা HD
+#http://217.20.112.199/starjalshahd/index.m3u8
+http://103.89.248.10:8082/Star_jalsha/index.m3u8?token=6d4214ebc99a277579e936bf7c0cf782334f72e8-9a906ec4a5e57bdc3ab5210f749cc1f2-1725550626-1725539826
+
+
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা
 #http://103.151.60.174:556
 #https://humsab.xyz/IN_STARJ/playlist.m3u8
 #https://humsab.xyz/IN_JALSHAS/index.m3u8
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা HD
-#http://217.20.112.199/starjalshahd/index.m3u8
-http://103.89.248.14:8082/Star_jalsha/index.m3u8?token=70da1398551eaa36ea7f70a5c180416902298b72-7cc41afe044da3732d45c2e68e1eac52-1725534134-1725523334
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png/revision/latest?cb=20210420232004" ,Star Jalsha HD
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/116.m3u8
@@ -252,7 +255,6 @@ http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/193.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",Sony SAB HD
 #http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/260.m3u8
 http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/191.m3u8
-
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1000?cb=20240615084342",Sony KAl
@@ -394,8 +396,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 #Sports 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T Sports HD
-http://103.89.248.14:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=f916682b5e1014f4512bf674e64e84c20eb44b77-66d9b9f44a7f9a4a30e91724201c1ee3-1725534077-1725523277
-#http://opplextv.cyou:8080/live/773199/626227/167590.m3u8
+#http://103.89.248.14:8082/1725534077/1725534077/T-SPORTS/tracks-v1a1/mono.m3u8
+http://opplextv.cyou:8080/live/773199/626227/167590.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",A sports
