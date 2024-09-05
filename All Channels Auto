@@ -112,7 +112,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" ,একাত্তর TV
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/95.m3u8
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/playlist.m3u8
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/playlist.m3u8
+http://103.89.248.14:8082/71-TV/index.m3u8?token=a86600b0b7aac6d417e685e5b2a5d3e159fb2baa-bd0be41f4286a7b640f95e3e0343ee40-1725531016-1725520216
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1024px-Channel24logo.svg.png"  ,Channel 24
@@ -193,10 +194,10 @@ http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/116.m3u8
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/92.m3u8
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors বাংলা HD
-https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
+#https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors Bangla HD
-#http://217.20.112.199/colorsbangla/index.m3u8
+http://217.20.112.199/colorsbangla/index.m3u8
 
 
 #EXTINF:-1, tvg-id="sonyaath.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" ,Sony আট
@@ -225,7 +226,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglac
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 
 #EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies HD
-http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/117.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:17:C0:71/5284/117.m3u8
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/117.m3u8
 
 
@@ -330,7 +331,7 @@ http://119.156.26.155:8000/play/a05t/index.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_yay.jpg",Sony YaY
-http://103.151.60.174:553
+#http://103.151.60.174:553
 #http://103.151.60.174/test2028
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_yay.jpg",Sony YaY
@@ -381,7 +382,7 @@ https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/HC82IIf.png",Gaan Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
-#http://176.119.29.52/live/00:1A:79:64:B4:A6/13603/97.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest?cb=20240322135248",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
@@ -415,8 +416,8 @@ http://ekdilhai.pro/PK_PS/index.m3u8
 #https://humsab.xyz/APakSpo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
-http://176.119.29.52/live/00:1A:79:17:C0:71/4048/278.m3u8
-#http://176.119.29.52/live/00:1A:79:17:C0:71/4048/279.m3u8
+#http://176.119.29.52/live/00:1A:79:17:C0:71/4048/278.m3u8
+http://176.119.29.52/live/00:1A:79:17:C0:71/4048/279.m3u8
 #https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images-cdn1.welcomesoftware.com/assets/Willow+is+on+DIRECTV.png/Zz0wN2Q2OGJhNmI5OWIxMWVlODc2NzYyN2FmMWUzNmU4OA==?width=768&height=430",Willow Cricket
