@@ -144,9 +144,10 @@ https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G TV HD
 
+http://103.89.248.14:8082/GAZI-TV/tracks-v1a1/mono.m3u8?token=6f132a416c9cf314ee76827e7bf96b13843955c0-cc8e469e83e6a3ba06ba5bc30d4ead4c-1725534010-1725523210
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" ,নাগরিক TV
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+
 
 
 
@@ -177,11 +178,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-a
 #https://humsab.xyz/IN_JALSHAS/index.m3u8
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 
-
-
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star Jalsha HD
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা HD
 #http://217.20.112.199/starjalshahd/index.m3u8
-
+http://103.89.248.14:8082/Star_jalsha/index.m3u8?token=70da1398551eaa36ea7f70a5c180416902298b72-7cc41afe044da3732d45c2e68e1eac52-1725534134-1725523334
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png/revision/latest?cb=20210420232004" ,Star Jalsha HD
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/116.m3u8
@@ -286,6 +285,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_un
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max HD
 #http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
 #http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/185.m3u8
+http://103.89.248.14:8082/SONY-MAX/index.m3u8?token=8fba286a928627551d16036882090456e977800f-e83722081ec79da2ae55655b375c8070-1725534249-1725523449
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_gold.jpg",Star Gold
@@ -408,6 +408,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T Sports HD
 
+http://103.89.248.14:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=f916682b5e1014f4512bf674e64e84c20eb44b77-66d9b9f44a7f9a4a30e91724201c1ee3-1725534077-1725523277
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",A sports
