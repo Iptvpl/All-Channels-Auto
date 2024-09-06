@@ -230,7 +230,8 @@ http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 #Hindi Channel
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
-http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/36129.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/36129.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/160.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://test-tan-iota-90.vercel.app/images/star_plushd.jpg",Star Plus HD
@@ -240,6 +241,7 @@ http://217.20.112.199/starplushd/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/800px-SET_India_logo.svg.png",Sony HD
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/193.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/194.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",Sony SAB HD
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/260.m3u8
@@ -273,8 +275,15 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_un
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max HD
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/185.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",Colors CIneplex
+#http://tv.cloudcdn.me/live.ts?channelId=156&uid=5284&deviceMac=00:1A:79:17:C0:71
+http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/156.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_gold.jpg",Star Gold
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/688px-Star_Gold_2.svg.png",Star Gold 2
+http://opplextv.cyou:8080/live/773199/626227/106133.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-gold-select.jpg",Star Gold Select HD
@@ -294,8 +303,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1-audio
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%26pictures.png",& Pictures HD
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1-audio_208482_und=208000-video=1087600.m3u8
-
-
 
 
 #Kids
@@ -330,6 +337,7 @@ http://119.156.26.155:8000/play/a05u/index.m3u8
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" ,Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/164.m3u8
 #https://freeott.site/discovery/Discovery_Channel.m3u8
 #https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 
@@ -348,8 +356,6 @@ http://103.110.110.11:8081/live/NGC/playlist.m3u8
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1920px-Discovery_Science_2017_Logo.svg.png" ,Discovery Science
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-
-
 
 
 
@@ -376,6 +382,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908",Music India
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=1087600.m3u8
+
+
+
+#English Cinema
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428",Star Gold Thrills
+http://82.180.145.236:4518/goldth/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Star_Movies_Select_HD.png/revision/latest?cb=20220210065718&path-prefix=vi",Star Movies Select
+http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png",Colors Infinity
+http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/157.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",Sony Pix
+http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/189.m3u8
 
 
 
