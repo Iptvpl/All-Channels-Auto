@@ -390,7 +390,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/bb/Star_Gold_Thrills.png",Star Gold Thrills
 http://82.180.145.236:4518/goldth/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.adgully.com/img/800/202003/star-movies-select-hd.png.jpg",Star Movies Select
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20240313194438",Star Movies Select
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png",Colors Infinity
