@@ -284,11 +284,7 @@ http:\\tv.cloudcdn.me\live\00:1A:79:B0:A9:0C\7245\186.m3u8
 http:\\tv.cloudcdn.me\live\00:1A:79:B0:A9:0C\7245\187.m3u8
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",Colors CIneplex
-#http://tv.cloudcdn.me/live.ts?channelId=156&uid=5284&deviceMac=00:1A:79:17:C0:71
-http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/156.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",Colors CIneplex
+#EXTINF:-1, tvg-id="http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/156.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png",Colors CIneplex
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/470.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_gold.jpg",Star Gold
