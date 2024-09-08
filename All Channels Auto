@@ -287,7 +287,7 @@ http:\\tv.cloudcdn.me\live\00:1A:79:B0:A9:0C\7245\187.m3u8
 #EXTINF:-1, tvg-id="http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/156.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" ,Colors CIneplex
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/470.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_gold.jpg" ,Star Gold
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/688px-Star_Gold_2020.svg.png" ,Star Gold
 http:\\tv.cloudcdn.me\live\00:1A:79:B0:A9:0C\7245\196.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/688px-Star_Gold_2.svg.png",Star Gold 2
