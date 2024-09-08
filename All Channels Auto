@@ -275,8 +275,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_un
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max HD
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/184.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max HD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max HD 1
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/185.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max 
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/186.m3u8
 
