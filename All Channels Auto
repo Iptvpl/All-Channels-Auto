@@ -146,7 +146,7 @@ http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/107.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G TV HD
-http://lifetvbd.xyz:8080/live/123/123/1686.m3u8
+#http://lifetvbd.xyz:8080/live/123/123/1686.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" ,নাগরিক TV
@@ -234,8 +234,8 @@ http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 #Hindi Channel
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
-http://lifetvbd.xyz:8080/live/123/123/1504.m3u8
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/36129.m3u8
+#http://lifetvbd.xyz:8080/live/123/123/1504.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/36129.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/160.m3u8
 
 
@@ -432,8 +432,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 #Sports 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T Sports HD
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/98.m3u8
-http://lifetvbd.xyz:8080/live/123/123/1678.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/98.m3u8
+#http://lifetvbd.xyz:8080/live/123/123/1678.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",A sports
 #http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
