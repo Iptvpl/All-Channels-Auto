@@ -11,3 +11,6 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282022%29/Nazar%20Andaaz%20%28
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Life_in_a..._Metro.jpg" ,Life In a Metro - 2007
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Life%20in%20a%20Metro%20%282007%29%201080p/Life%20in%20a%20Metro%20%282007%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png/revision/latest/scale-to-width-down/1000?cb=20140921221019" ,One peice E-01
+https://s16.openstream.io/hls/qvsbfzd3npblgwsztqxka7wxbzzzlroflxruku6fwbzlacki5ecghascnuua/index-v1-a1.m3u8
