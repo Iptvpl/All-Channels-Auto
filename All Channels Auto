@@ -182,7 +182,8 @@ http://217.20.112.199/starjalshahd/index.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা
 #http://103.151.60.174:556
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
+#https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/ab/Star_Jalsha_HD_logo_%282011%29.png/revision/latest?cb=20210420232004" ,Star Jalsha HD
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/116.m3u8
@@ -326,7 +327,8 @@ http://82.180.145.236:4518/goldth/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/198.m3u8
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
+http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20240313194438",Star Movies Select
 
@@ -385,6 +387,7 @@ http://103.110.110.11:8081/live/NGC/playlist.m3u8
 #http://opplex.tv:8080/43738383/42738484/24967
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/176.m3u8
 
+
 #EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo-thumbnail.png" ,Nat Geo Wild
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/177.m3u8
 
@@ -400,18 +403,25 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest?cb=20240322135248",Sangeet Bangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png",9X Jalwa
-http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/142.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/142.m3u8
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png",9X TASHAN
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",B4U Music
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/153.m3u8
 http://lifetvbd.xyz:8080/live/123/123/1508.m3u8
+#https://cdn2.pishow.tv/live/141/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg",Zoom
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
@@ -477,7 +487,7 @@ http://ekdilhai.pro/IN_SNT2/index.m3u8
 https://ekdilhai.pro/tenso3/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png",Sony Sports 5
-
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://e1.pxfuel.com/desktop-wallpaper/157/435/desktop-wallpaper-real-madrid-tv-online.jpg",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
