@@ -177,10 +177,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-a
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=1087600.m3u8
 
 
-#EXTINF:-1 tvg-id="28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png", Star Jalsha HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QxhBpxdJ44zlyZMvrqdcdw", "kid": "wu1n_H0ySUysFf2pKCVKZQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/55589a1adc934ba584f9010ce3959f6a/index.mpd
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা HD
 #http://217.20.112.199/starjalshahd/index.m3u8
@@ -524,18 +520,3 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png",CNN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/50.m3u8
-
-
-#Movies
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://assetscdn1.paytm.com/images/cinema/b-min-94f9db10-33e3-11ef-95aa-f7343890830b.jpg" ,Bad Newz - 2024
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Bad%20Newz%20%282024%29%201080p/Bad%20Newz%20%282024%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Munjya_2024.jpg" ,Munjaya - 2024
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Munjya%20%282024%29%201080p/Munjya%20%282024%29%20Hindi%201080p%20DSNP%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282022%29/Nazar%20Andaaz%20%282022%29%201080p/a_AL_.jpg" ,Nazar Andaaz - 2022
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282022%29/Nazar%20Andaaz%20%282022%29%201080p/Nazar%20Andaaz%20%282022%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20Downloadhub.mkv
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Life_in_a..._Metro.jpg" ,Life In a Metro - 2007
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Life%20in%20a%20Metro%20%282007%29%201080p/Life%20in%20a%20Metro%20%282007%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
