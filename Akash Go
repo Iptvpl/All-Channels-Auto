@@ -53,7 +53,7 @@ https://medialive.akash-go.com/out/v1/6f0c2ecf1fc24304a006c38e08662b3d/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jXc3grt0_MIHpleT2ancJQ", "kid": "0IDwbxOpReqvveJqBvVkPA"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
 
-#EXTINF:-1 tvg-id="20" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png", Cineplex HD
+#EXTINF:-1 tvg-id="20" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png",Colors Cineplex HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "I3RIhdPj12NGz2vYBrEtVQ", "kid": "9HSB9KJoSXCLiBQbJ3SPXw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/db019fb82c8d4b9e971557e7cb1fd625/index.mpd
