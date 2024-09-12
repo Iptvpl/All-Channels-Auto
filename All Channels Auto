@@ -207,7 +207,7 @@ http://217.20.112.199/colorsbangla/index.m3u8
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/8164/44150.m3u8
 
 
-#EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" ,Enterr 10 Bangla
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" ,Enterr 10 Bangla
 #https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
 
@@ -220,7 +220,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglac
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" ,Colors বাংলা Cinema
-http://14.102.123.50:5001/live/1657.m3u8
+#http://14.102.123.50:5001/live/1657.m3u8
 
 #EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
