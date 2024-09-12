@@ -92,7 +92,7 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #https://livess.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911937453.png",বাংলা Vision
+#EXTINF:-1, tvg-id="15" tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" ,বাংলা Vision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eC5Dk3v3jizE1TUTTWgrCg", "kid": "W9Rn2pR3Q0-Vhkak9o2KqA"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/6873084fcbd443d38064b816322aab6f/index.mpd
@@ -150,7 +150,7 @@ https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
 #https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="40" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1722948448337.png",যমুনা TV
+#EXTINF:-1, tvg-id="40" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "", "kid": "4ASamcLcTzCaI1-ozeQQyw"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.mpd
@@ -215,16 +215,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-a
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=247600.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=1087600.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png", Star Jalsha HD
+#EXTINF:-1, tvg-id="28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QxhBpxdJ44zlyZMvrqdcdw", "kid": "wu1n_H0ySUysFf2pKCVKZQ"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/55589a1adc934ba584f9010ce3959f6a/index.mpd
-
-
-#EXTINF:-1 tvg-id="21" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png", Colors Bangla
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ccl7uvV7NyGZ-8Ecp5Cvdg", "kid": "CKhDpp4NTBCjGhCWqdX6KQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/f1e06e3fb5fc4c37a91f6c343a76e02e/index.mpd
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা
 #https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSH
@@ -235,6 +229,10 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা HD
 #http://217.20.112.199/starjalshahd/index.m3u8
 
+#EXTINF:-1 tvg-id="21" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png", Colors Bangla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "ccl7uvV7NyGZ-8Ecp5Cvdg", "kid": "CKhDpp4NTBCjGhCWqdX6KQ"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/f1e06e3fb5fc4c37a91f6c343a76e02e/index.mpd
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors বাংলা HD
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/92.m3u8
