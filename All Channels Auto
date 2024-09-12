@@ -279,7 +279,7 @@ https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index.mpd
 https://medialive.akash-go.com/out/v1/d6e0e11ced944bb7a33467afb21979a1/index.mpd
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
-http://lifetvbd.xyz:8080/live/123/123/1504.m3u8
+#http://lifetvbd.xyz:8080/live/123/123/1504.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/36129.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/160.m3u8
 
