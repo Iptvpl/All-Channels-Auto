@@ -192,10 +192,10 @@ https://medialive.akash-go.com/out/v1/55589a1adc934ba584f9010ce3959f6a/index.mpd
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
 
-#EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" ,Colors বাংলা
-#http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/92.m3u8
+
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors বাংলা HD
+#http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/92.m3u8
 #https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors Bangla HD
