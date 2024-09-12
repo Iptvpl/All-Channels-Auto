@@ -183,26 +183,11 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #Indian Bangla
 
-#EXTINF:-1 tvg-id="18" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927447544.png", ZEE BANGLA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "iJl4_10nGv6Bagovznpdeg", "kid": "bMqG69EVR2i71kGN8QHQyg"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/6f0c2ecf1fc24304a006c38e08662b3d/index.mpd
-
 
 #EXTINF:-1, tvg-id="http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/120.m3u8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা HD
-#http://103.151.60.174/test2024
-#http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/120.m3u8
-#http://217.20.112.199/zeebangla/index.m3u8
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=352400.m3u8
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=1087600.m3u8
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=4237600.m3u8
-
-
-#EXTINF:-1, tvg-id="zeebanglahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" ,Zee বাংলা
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=247600.m3u8
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=1087600.m3u8
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=1087600.m3u8
 
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা
@@ -214,7 +199,7 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা HD
 #http://217.20.112.199/starjalshahd/index.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png", Star Jalsha
+#EXTINF:-1 tvg-id="28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png", Star Jalsha HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QxhBpxdJ44zlyZMvrqdcdw", "kid": "wu1n_H0ySUysFf2pKCVKZQ"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/55589a1adc934ba584f9010ce3959f6a/index.mpd
@@ -231,14 +216,10 @@ https://medialive.akash-go.com/out/v1/f1e06e3fb5fc4c37a91f6c343a76e02e/index.mpd
 
 
 #EXTINF:-1, tvg-id="sonyaath.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" ,Sony আট
-#http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SHISHIR/44150.m3u8
-#http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/himelhimu/44150.m3u8
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/13603/44150.m3u8
 http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/8164/44150.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" ,Enterr 10 Bangla
-#https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_360p/chunks.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
 
 
@@ -246,8 +227,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" ,Zee বাংলা Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglacinema1.m3u8
-#http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/119.m3u8
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
+
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" ,Colors বাংলা Cinema
 
@@ -255,12 +235,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglac
 #EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies
 #http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/117.m3u8
-#http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/117.m3u8
+
 
 #EXTINF:-1 tvg-id="29" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png", Jalsha Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Uqquz57boDgHfweoqU9_Tg", "kid": "7--0hzyVR9Ghp6CsLumLTg"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index.mpd
+
+
 
 #Hindi Channel
 
@@ -288,13 +270,12 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_2000k.m3u8
 https://medialive.akash-go.com/out/v1/d6e0e11ced944bb7a33467afb21979a1/index.mpd
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
-#http://lifetvbd.xyz:8080/live/123/123/1504.m3u8
+http://lifetvbd.xyz:8080/live/123/123/1504.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/36129.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/160.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee Tv
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_208482_und=208000-video=2137600.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_208482_und=208000-video=1087600.m3u8
 
 
@@ -303,7 +284,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_208
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://logowik.com/content/uploads/images/4104-zing-tv-new.webp",Zing
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/219.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_und=208000-video=1087600.m3u8
 
@@ -333,8 +313,6 @@ http://opplextv.cyou:8080/live/773199/626227/106133.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-gold-select.jpg",Star Gold Select HD
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/197.m3u8
 
-#EXTINF:-1, tvg-id="http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/156.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" ,Colors CIneplex
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/470.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png",Colors Cineplex HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -342,14 +320,12 @@ http://opplextv.cyou:8080/live/773199/626227/106133.m3u8
 https://medialive.akash-go.com/out/v1/db019fb82c8d4b9e971557e7cb1fd625/index.mpd
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema HD
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/213.m3u8
 #http://217.20.112.199/zeecinema/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1-audio_208482_und=208000-video=1087600.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/207.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1-audio_208482_und=208000-video=1087600.m3u8
 
@@ -369,6 +345,11 @@ http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/189.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/bb/Star_Gold_Thrills.png",Star Gold Thrills
 http://82.180.145.236:4518/goldth/index.m3u8
 
+#EXTINF:-1 tvg-id="8" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911502434.png", Star Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "hWWvHjFoTp00A4jEXl4L0w", "kid": "RpWWmvdvRh6oP6_Vb8MBMw"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/198.m3u8
 #http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
@@ -377,21 +358,10 @@ http://82.180.145.236:4518/goldth/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20240313194438",Star Movies Select
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png",Colors Infinity
-http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/157.m3u8
-
-#EXTINF:-1 tvg-id="8" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911502434.png", Star Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "hWWvHjFoTp00A4jEXl4L0w", "kid": "RpWWmvdvRh6oP6_Vb8MBMw"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd
-
-
-
 #Kids
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png",CN
 https://rebrand.ly/git-cn
-#http://opplex.tv:8080/43738383/42738484/150478
 #https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" ,HUNGAMA
@@ -402,13 +372,9 @@ http://119.156.26.155:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" ,Super HUNGAMA
 http://103.84.57.155:8000/play/a03w/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_yay.jpg",Sony YaY
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/78849.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/POGO-logo.png/250px-POGO-logo.png",POGO
 https://rebrand.ly/git-pogo
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/256.m3u8
-
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
