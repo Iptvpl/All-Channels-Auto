@@ -262,11 +262,6 @@ http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/191.m3u8
 #https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_2000k.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925954547.png", Colors HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "DeF9_a-1tixgRL2bmQvNbA", "kid": "H1Nuc4aZSUK2PrvPgt5-4g"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/d6e0e11ced944bb7a33467afb21979a1/index.mpd
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee Tv
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1-audio_208482_und=208000-video=1087600.m3u8
@@ -468,7 +463,7 @@ https://medialive.akash-go.com/out/v1/8443cfd0e18f49879418200446330a04/index.mpd
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/98.m3u8
 #http://lifetvbd.xyz:8080/live/123/123/1678.m3u8
 #https://cdn.hotflix-bd.online/T-Sports/index.m3u8
-https://api.flixtronic.top/public/master.m3u8?id=tsports
+#https://api.flixtronic.top/public/master.m3u8?id=tsports
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
