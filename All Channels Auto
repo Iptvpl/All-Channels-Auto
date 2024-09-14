@@ -347,8 +347,8 @@ http://103.84.57.155:8000/play/a00w/index.m3u8
 #Kids
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png",CN
-#https://rebrand.ly/git-cn
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+#https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+https://rebrand.ly/git-cn
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" ,HUNGAMA
 #http://opplex.tv:8080/43738383/42738484/150480
@@ -358,19 +358,19 @@ http://119.156.26.155:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" ,Super HUNGAMA
 http://103.84.57.155:8000/play/a03w/index.m3u8
 
+#EXTINF:-1 tvg-id="26" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png", Nick 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0hXBtrVpfF6kP6nahBs_fA", "kid": "Dd47HJTrQCCdKbMdwfd5XQ"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/9bf2c1e016aa4e47be84550af30ea070/index.mpd
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/POGO-logo.png/250px-POGO-logo.png",POGO
-#https://rebrand.ly/git-pogo
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/256.m3u8
+#https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+https://rebrand.ly/git-pogo
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
 http://119.156.26.155:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="26" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png", Nick 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0hXBtrVpfF6kP6nahBs_fA", "kid": "Dd47HJTrQCCdKbMdwfd5XQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/9bf2c1e016aa4e47be84550af30ea070/index.mpd
 
 
 #Documentary
