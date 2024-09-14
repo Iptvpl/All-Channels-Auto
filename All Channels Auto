@@ -567,3 +567,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png",CNN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/50.m3u8
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Thalavan.jpeg",Thalavan 2024
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024%29/Thalavan%20%282024%29%201080p%20%5BDual%20Audio%5D/Thalavan%20%282024%29%20UNCUT%201080p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BMalayalam%205.1%5D%20-mkvC.mkv
