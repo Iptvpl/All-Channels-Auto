@@ -36,6 +36,25 @@ http://mega4k.one:8080/live/9755986456/8578647874/94123.ts
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Ekattor Tv
 http://mega4k.one:8080/live/9755986456/8578647874/94122.ts
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" ,R TV
+#https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+#https://livess.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png"  ,Independent TV
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/live-orgin/independent-8-org.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" ,একাত্তর TV
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1024px-Channel24logo.svg.png"  ,Channel 24
+#http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/87.m3u8
+#https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ch24-r.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" ,সময় TV
+#https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+#https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://th.bing.com/th/id/R.cf7ef83bba41b33f16c87e6423ab0eae?rik=Vwi8N0eRe5kYkw&pid=ImgRaw&r=0&sres=1&sresct=1",Nickelodeon Sonic
@@ -49,6 +68,19 @@ https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
 http://195.26.87.217/live/00:1A:79:17:C0:71/10153/91169.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/800px-SET_India_logo.svg.png",Sony HD
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/193.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/194.m3u8
+http://103.84.57.155:8000/play/a084/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",Sony SAB HD
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/260.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/191.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1000?cb=20240615084342",Sony KAl
+#https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_2000k.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Star_Bharat_logo.png",Star Bharat HD
 #http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
@@ -64,6 +96,19 @@ http://176.119.29.52/live/00:1A:79:64:B4:A6/1360/186.m3u8
 #http://humsab.xyz/IN_S_X2/index.m3u8
 https://humsab.xyz/IN_S_X2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max HD
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/184.m3u8
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/185.m3u8
+http://103.84.57.155:8000/play/a02b/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max 
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/186.m3u8
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",Sony Pix
+#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/189.m3u8
+http://103.84.57.155:8000/play/a09t/index.m3u8
+
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-2ccd43b52d73225f8a72d2653867b1e2" ,TLC HD
 #https://allinonereborn.github.io/allinone_live_tv/live/discovery/api/TLC.m3u8
@@ -73,3 +118,15 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
 
+
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hindi.jpg",Star Sports 1
+#http://195.26.87.217/live/00:1A:79:B0:A9:0C/10153/295.m3u8
+#http://41.205.93.154/STARSPORTS1/index.m3u8
+#https://cdn1.hotflix-bd.online/Star-Sports-1/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hd.jpg",Star Sports Select 2
+#http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/300.m3u8
+#http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
+#http://ekdilhai.pro/AF_S2/index.m3u8
