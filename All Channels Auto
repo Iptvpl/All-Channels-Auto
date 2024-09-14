@@ -471,6 +471,15 @@ https://medialive.akash-go.com/out/v1/8443cfd0e18f49879418200446330a04/index.mpd
 #https://cdn.hotflix-bd.online/T-Sports/index.m3u8
 https://api.flixtronic.top/public/master.m3u8?id=tsports
 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
+#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1726349001:KeyName=tsports-ed25519-01:Signature=twiJNFcKoXQG_z_18FYnf1EW8Zk7ZppjykT6xiyzVxV0PTaEufR6ekfPX4Udhhv35KxaNILVyYN9WBbA8kpaBA"}
+https://live-cdn.tsports.com/live-01/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
+#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1726349001:KeyName=tsports-ed25519-01:Signature=twiJNFcKoXQG_z_18FYnf1EW8Zk7ZppjykT6xiyzVxV0PTaEufR6ekfPX4Udhhv35KxaNILVyYN9WBbA8kpaBA"}
+https://live-cdn.tsports.com/live-02/index.m3u8
 
 
 
@@ -561,15 +570,3 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png",CNN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/50.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1726349001:KeyName=tsports-ed25519-01:Signature=twiJNFcKoXQG_z_18FYnf1EW8Zk7ZppjykT6xiyzVxV0PTaEufR6ekfPX4Udhhv35KxaNILVyYN9WBbA8kpaBA"}
-https://live-cdn.tsports.com/live-01/index.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1726349001:KeyName=tsports-ed25519-01:Signature=twiJNFcKoXQG_z_18FYnf1EW8Zk7ZppjykT6xiyzVxV0PTaEufR6ekfPX4Udhhv35KxaNILVyYN9WBbA8kpaBA"}
-https://live-cdn.tsports.com/live-02/index.m3u8
