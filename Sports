@@ -119,6 +119,12 @@ https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
 
 
+#EXTINF:-1, tvg-id="animalplanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" ,Animal Planet
+#https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+#https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
+
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hindi.jpg",Star Sports 1
@@ -130,3 +136,31 @@ https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/300.m3u8
 #http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
 #http://ekdilhai.pro/AF_S2/index.m3u8
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten1.jpg",Sony Sports 1
+#http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
+http://ekdilhai.pro/SPTEN1HD/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten2.jpg",Sony Sports 2
+#http://ekdilhai.pro/IN_SNT2/index.m3u8?token=ed35bc130772d0d29435cee71272324c
+http://ekdilhai.pro/IN_SNT2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten3.jpg",Sony Sports 3
+#http://ekdilhai.pro/tenso3/index.m3u8?token=da41922098774b00e7fe125d560ef3e5
+https://ekdilhai.pro/tenso3/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png",Sony Sports 5
+#http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+https://cdn.hotflix-bd.online/Ten5/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
+#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1726544316:KeyName=prod_linear:Signature=iJ2In1uO61xlrfVcqKKF18U0aBC76E_JBsfKLa3xQCUFF3ViNQcMsRDk5uYGSwQxH8tvT1ZL7j9QE48L6_M2CQ"}
+https://live-cdn.tsports.com/live-02/index.m3u8
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
+#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1726349001:KeyName=tsports-ed25519-01:Signature=twiJNFcKoXQG_z_18FYnf1EW8Zk7ZppjykT6xiyzVxV0PTaEufR6ekfPX4Udhhv35KxaNILVyYN9WBbA8kpaBA"}
+https://live-cdn.tsports.com/live-01/index.m3u8
