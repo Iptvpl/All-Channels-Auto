@@ -14,6 +14,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #Bangla
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" ,N TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Jalsha Movies HD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
@@ -26,6 +28,9 @@ http://217.20.112.199/zeebangla/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Colors Ban
 http://217.20.112.199/colorsbangla/index.m3u8
+
+#EXTINF:-1, tvg-id="sonyaath.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" ,Sony আট
+http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/8164/44150.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="N/A" ,Nick
 http://tv.digitalview.live:8080/play/ku8OB3vrzffgNPMos00OKADqKqMtyqYN63N7XeOh3OXGK2dPPa7MU0wivtbSXv-g/ts
