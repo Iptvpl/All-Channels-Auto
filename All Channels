@@ -191,8 +191,8 @@ https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index.mpd
 #Hindi Channel
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/160.m3u8
-http://103.84.57.155:8000/play/a082/index.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/160.m3u8
+#http://103.84.57.155:8000/play/a082/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://test-tan-iota-90.vercel.app/images/star_plushd.jpg",Star Plus HD
 #http://103.84.57.155:8000/play/a080/index.m3u8
