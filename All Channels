@@ -217,17 +217,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_un
 
 #Hindi Cinema
 
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/688px-Star_Gold_2020.svg.png",Star Gold HD
-
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/688px-Star_Gold_2.svg.png",Star Gold 2
 http://opplextv.cyou:8080/live/773199/626227/106133.m3u8
-
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-gold-select.jpg",Star Gold Select HD
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/197.m3u8
-
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png",Colors Cineplex HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -238,7 +229,6 @@ https://medialive.akash-go.com/out/v1/db019fb82c8d4b9e971557e7cb1fd625/index.mpd
 #http://217.20.112.199/zeecinema/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1-audio_208482_und=208000-video=1087600.m3u8
-
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",Zee Action
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
@@ -253,22 +243,17 @@ https://cdn2.pishow.tv/live/156/master.m3u8
 
 
 
-
 #English Cinema
-
-
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/bb/Star_Gold_Thrills.png",Star Gold Thrills
 #http://103.84.57.155:8000/play/a0c7/index.m3u8
 http://82.180.145.236:4518/goldth/index.m3u8
-
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies HD
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/198.m3u8
 #http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20240313194438",Star Movies Select HD
 
 
 #Kids
@@ -281,9 +266,6 @@ https://rebrand.ly/git-cn
 #http://opplex.tv:8080/43738383/42738484/150480
 #http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 http://119.156.26.155:8000/play/a05t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Super_Hungama_Logo.png" ,Super HUNGAMA
-http://103.84.57.155:8000/play/a03w/index.m3u8
 
 #EXTINF:-1 tvg-id="26" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927021670.png", Nick 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -302,7 +284,7 @@ http://119.156.26.155:8000/play/a05u/index.m3u8
 
 #Documentary
 
-#EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" ,Discovery HD
+#EXTINF:-1, tvg-id="http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/164.m3u8" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" ,Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/164.m3u8
 #https://freeott.site/discovery/Discovery_Channel.m3u8
@@ -313,6 +295,7 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "qHthsvhaSsAh9tZpds8DQA", "kid": "UEpNqh5TRZ6LMYAJKWMnhg"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd
+
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMtMLeBVE7c53EhV6mE2qLnYOXyz_jz9Xiw&usqp=CAU",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
@@ -330,9 +313,6 @@ https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
 
 #Music
-
-#EXTINF:-1 tvg-logo="https://iili.io/HC82IIf.png",Gaan Bangla
-#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png/revision/latest?cb=20240322135248",Sangeet Bangla
@@ -395,11 +375,8 @@ http://ekdilhai.pro/PK_PS/index.m3u8
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/279.m3u8
 http://103.84.57.155:8000/play/a0b4/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images-cdn1.welcomesoftware.com/assets/Willow+is+on+DIRECTV.png/Zz0wN2Q2OGJhNmI5OWIxMWVlODc2NzYyN2FmMWUzNmU4OA==?width=768&height=430",Willow Cricket
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/sgHh2Fp/Astro-Cricket.jpg",Astro Cricket HD
-http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/33317.m3u8
-
+#http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/33317.m3u8
 
 #EXTINF:-1 tvg-id="41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -407,12 +384,11 @@ http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/33317.m3u8
 https://medialive.akash-go.com/out/v1/fb49908b8b3247a8ba7329726bad5753/index.mpd
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2 HD
 http://195.26.87.217/live/00:1A:79:B0:A9:0C/10153/298.m3u8
-#https://cdn1.hotflix-bd.online/Star-Sports-2/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" ,Star Sports Select 1
-http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/299.m3u8
+#http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/299.m3u8
 
 #EXTINF:-1 tvg-id="42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png", Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
