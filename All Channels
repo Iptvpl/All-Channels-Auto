@@ -1,7 +1,7 @@
 #Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" ,ATN বাংলা
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
+#https://livess.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845011632.png", ATN News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -82,7 +82,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.shongjog.org.bd/contentAsset/image/1bf05063-e2e9-4ad8-bf3d-8254a232cfdc/logo/byInode/1/filter/Resize,Jpeg/jpeg_q/80/resize_w/400"  ,SA TV
 #https://livess.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926324363.png", Somoy TV
@@ -123,7 +123,7 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://admin.dailycricket.com.bd/storage/posts/11702/T-sports-GTV.jpg" ,T sports / G TV
-https://cdn.hotflix-bd.online/GTV/index.m3u8
+#https://cdn.hotflix-bd.online/GTV/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" ,নাগরিক TV
 
@@ -244,9 +244,13 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1726935522:KeyName=prod_linear:Signature=CvBeCRLXZdiUEDKml95Q3I7SNpcTQsdqBZ6umWI6Iuk7fI50lNo8Z4ihIfCpGHML7fZCx6k3T9YcyI-E6j2dAg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_2/playlist.m3u8
 
+#EXTINF:-1 group-title="Movie Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png", B4U Movies
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1726935522:KeyName=prod_linear:Signature=CvBeCRLXZdiUEDKml95Q3I7SNpcTQsdqBZ6umWI6Iuk7fI50lNo8Z4ihIfCpGHML7fZCx6k3T9YcyI-E6j2dAg"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/688px-Star_Gold_2.svg.png",Star Gold 2
-http://opplextv.cyou:8080/live/773199/626227/106133.m3u8
+#http://opplextv.cyou:8080/live/773199/626227/106133.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719925386622.png",Colors Cineplex HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -267,7 +271,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1-audio
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1-audio_208482_und=208000-video=1087600.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545",B4U Movies
-https://cdn2.pishow.tv/live/156/master.m3u8
+#https://cdn2.pishow.tv/live/156/master.m3u8
 
 
 
@@ -314,7 +318,7 @@ https://medialive.akash-go.com/out/v1/9bf2c1e016aa4e47be84550af30ea070/index.mpd
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/POGO-logo.png/250px-POGO-logo.png",POGO
 #https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-https://rebrand.ly/git-pogo
+#https://rebrand.ly/git-pogo
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
@@ -422,7 +426,7 @@ http://ekdilhai.pro/PK_PS/index.m3u8
 #EXTINF:-1, tvg-id="http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/278.m3u8" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/278.m3u8
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/279.m3u8
-http://103.84.57.155:8000/play/a0b4/index.m3u8
+#http://103.84.57.155:8000/play/a0b4/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/sgHh2Fp/Astro-Cricket.jpg",Astro Cricket HD
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/33317.m3u8
@@ -434,7 +438,7 @@ https://medialive.akash-go.com/out/v1/fb49908b8b3247a8ba7329726bad5753/index.mpd
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2 HD
-http://195.26.87.217/live/00:1A:79:B0:A9:0C/10153/298.m3u8
+#http://195.26.87.217/live/00:1A:79:B0:A9:0C/10153/298.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" ,Star Sports Select 1
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/299.m3u8
