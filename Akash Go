@@ -76,7 +76,7 @@ https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
 #EXTINF:-1 tvg-id="40" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1722948448337.png", Jamuna TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "4ASamcLcTzCaI1-ozeQQyw"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.mpd
+#https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.mpd
 
 
 
@@ -93,7 +93,7 @@ https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd
 #EXTINF:-1 tvg-id="31" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927537752.png", Star PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "LttOWM8kTVGBQyBZwDqDUQ"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/99ed86002c8d470ea7e8d3c699abc57f/index.mpd
+#https://medialive.akash-go.com/out/v1/99ed86002c8d470ea7e8d3c699abc57f/index.mpd
 
 #EXTINF:-1 tvg-id="32" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720701862733.png", Zee HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
