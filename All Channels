@@ -108,10 +108,6 @@ https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"  ,DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
-#https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,এখন TV
 #https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 #https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
@@ -124,6 +120,9 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" ,নাগরিক TV
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
+#https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
 
 
