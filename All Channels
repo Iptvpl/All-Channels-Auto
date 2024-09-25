@@ -31,7 +31,6 @@ https://medialive.akash-go.com/out/v1/be6345950c0c45aab3a4db02d9bb6cf3/index.mpd
 http://176.119.29.52/live.ts?channelId=103&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png" ,My TV
-#https://livess.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
 https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png",মুভি বাংলা
@@ -42,7 +41,6 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/HRjXQdYEqsE.png" ,আনন্দ TV
 #https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
-#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8%7CReferer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",বিজয় TV
@@ -51,7 +49,6 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8%7CReferer=https:
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",NEXUS TV HD
 https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",নবান্ন TV
 #https://livess.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
@@ -66,7 +63,6 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" ,মাছরাঙা TV
-#http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/101.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 
@@ -110,11 +106,11 @@ https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"  ,DBC News
 #https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
-#https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8%7CReferer=https://entezeetv.fun/bdcast//
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8%7CReferer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,এখন TV
 #https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
-#https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" ,NEWS 24
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
@@ -437,7 +433,7 @@ https://live-cdn.tsports.com/live-01/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",A sports
 #http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
-http://ekdilhai.pro/PK_PS/index.m3u8
+#http://ekdilhai.pro/PK_PS/index.m3u8
 
 #EXTINF:-1, tvg-id="http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/278.m3u8" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/278.m3u8
