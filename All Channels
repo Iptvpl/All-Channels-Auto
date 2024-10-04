@@ -1,7 +1,7 @@
 #Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" ,ATN বাংলা
-#https://livess.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
+https://global.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845011632.png", ATN News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22,13 +22,16 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "_WwC1LxcXpK-I0we957xzg", "kid": "vo5OKyXrRD6wfN3ROokPQQ"}], "type": "temporary"}
 #https://medialive.akash-go.com/out/v1/be6345950c0c45aab3a4db02d9bb6cf3/index.mpd
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" ,N TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/playlist.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" ,বাংলা Vision
 #https://livess.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 #http://176.119.29.52/live.ts?channelId=84&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1280px-Mohona_tv_Logo.svg.png" ,মোহনা TV
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Mohona-g.stream/live-orgin/Mohona-g.stream/playlist.m3u8
-http://176.119.29.52/live.ts?channelId=103&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#http://176.119.29.52/live.ts?channelId=103&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png" ,My TV
 https://mytvbangla.com/0.m3u8
@@ -44,7 +47,6 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8%7CReferer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",বিজয় TV
-#http://176.119.29.52/live.ts?channelId=85&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",NEXUS TV HD
@@ -77,32 +79,19 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8%7CReferer=https:
 
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png", RTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "jXc3grt0_MIHpleT2ancJQ", "kid": "0IDwbxOpReqvveJqBvVkPA"}], "type": "temporary"}
-#https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
 
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926324363.png", Somoy TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xTQFNRnGddMTkwGHhcdp8w", "kid": "rYqF0OEDQtOazuocjo8jCw"}], "type": "temporary"}
-#https://medialive.akash-go.com/out/v1/8f326d0273684f67bd1c3ae5b8dfee48/index.mpd
-
+https://global.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719846556679.png", Independent TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "onmUkhzsTsaSy2oyRXTqAg"}], "type": "temporary"}
-#https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd
-
+https://global.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png", Ekattor HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "BN4RMH2yC-sc3Cx27uvsvw", "kid": "cWpiPR62SFWUKae67k3Dig"}], "type": "temporary"}
-#https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
+https://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="36" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png", Channel 24 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "mnAPYpObfQZyqrK6ZBqBbw", "kid": "a8lNQFy1SVyYdQfVvAKLjw"}], "type": "temporary"}
-#https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
+https://global.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"  ,DBC News
 #https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
@@ -113,12 +102,7 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8%7CReferer=https:
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" ,NEWS 24
-#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 #http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://admin.dailycricket.com.bd/storage/posts/11702/T-sports-GTV.jpg" ,T sports / G TV
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" ,নাগরিক TV
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
