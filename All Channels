@@ -1,10 +1,10 @@
 #Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" ,ATN বাংলা
-https://global.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
+#https://global.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845011632.png", ATN News
-https://global.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
+#https://global.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 #https://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
@@ -27,14 +27,14 @@ https://mytvbangla.com/0.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" ,বাংলা TV
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/HRjXQdYEqsE.png" ,আনন্দ TV
 #https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8%7CReferer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",NEXUS TV HD
-https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+#https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
 
 #EXTINF:-1 tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",নবান্ন TV
 https://global.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
@@ -73,7 +73,7 @@ https://global.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3
 https://global.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png", Ekattor HD
-https://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8 
+https://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="36" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png", Channel 24 HD
 https://global.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
@@ -232,17 +232,18 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
 http://82.180.145.236:4518/goldth/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies HD
-#http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/7245/198.m3u8
-#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Star_Movies_Select_HD.png/revision/latest?cb=20220210065718&path-prefix=vi",Star Movies Select HD
+http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
+
 
 
 
 #Kids
 
 #EXTINF:-1 tvg-id="34f06756e0cdbfb2aad09c4d28bd7d9b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD
-http://168.197.196.98:82/stream/channelid/1449652276?profile=pass
-#http://tv.cloudcdn.me/live.ts?channelId=244&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#http://168.197.196.98:82/stream/channelid/1449652276?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" ,HUNGAMA
 #http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
@@ -324,8 +325,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=2
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg",Masti
 #https://cdn2.pishow.tv/live/136/master.m3u8
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/2e01c117-2d87-4ab4-a19d-16d56fc3fb6e/2.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908",Music India
 #https://cdn2.pishow.tv/live/135/master.m3u8
