@@ -347,7 +347,7 @@ https://live-cdn.tsports.com/live-01/index.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",A sports
-
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/278.m3u8" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/278.m3u8
