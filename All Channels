@@ -339,6 +339,12 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #https://medialive.akash-go.com/out/v1/f620035daf984daba989f80444a09d08/index.mpd
 
 
+#EXTINF:-1, tvg-id="animalplanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" ,Animal Planet
+#https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMtMLeBVE7c53EhV6mE2qLnYOXyz_jz9Xiw&usqp=CAU",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
@@ -402,23 +408,14 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 
 #Sports 
 
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_166888001726636116.png", BAN vs IND VIP
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1727677046:KeyName=prod_live_events:Signature=IaJ5Ati9ArvdHw4YPD_I1YlITUc186n7VorrL7yqS8p691h1k5atXfoVGT-ZhA8KfQwklShVVT8IW3CYxWt6DA"}
-https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png", TOFFEE Sports VIP
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728217828:KeyName=prod_linear:Signature=8XElI1ZjHTPz2YisajP2op4Gpx-Wb1C7rjLmPyYEBvdOKaSojjv46XNfcSXQbyYeRF2nT5WqbowW0uk5qKrPCA"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
-
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1727685346:KeyName=tsports-ed25519-01:Signature=4Suh1ejTr3I2Cc2_itF-5IIG9_kBycyz8apXRi1rtihnUtQvGZk3B_flp-UTaLRb7DZaCXdqDOC7kUI5D376Cg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1728117486:KeyName=tsports-ed25519-01:Signature=modKjxYhfg5o2NP5LeQ53rkZDI8ZLTlWOv2yP-7gmtxPlOQYKVt42JnpN7DFQZpR5rQZ8t91hHWDR3bCq9orCg"}
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1727685346:KeyName=tsports-ed25519-01:Signature=4Suh1ejTr3I2Cc2_itF-5IIG9_kBycyz8apXRi1rtihnUtQvGZk3B_flp-UTaLRb7DZaCXdqDOC7kUI5D376Cg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1728117486:KeyName=tsports-ed25519-01:Signature=modKjxYhfg5o2NP5LeQ53rkZDI8ZLTlWOv2yP-7gmtxPlOQYKVt42JnpN7DFQZpR5rQZ8t91hHWDR3bCq9orCg"}
 https://live-cdn.tsports.com/live-01/index.m3u8
 
 
