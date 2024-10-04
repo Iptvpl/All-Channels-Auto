@@ -134,7 +134,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglac
 
 
 #EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
+http://opplex.tv:8080/live/global/global/245900.ts
 
 
 #Hindi Channel
@@ -275,6 +276,7 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+#https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
 https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMtMLeBVE7c53EhV6mE2qLnYOXyz_jz9Xiw&usqp=CAU",Wild Earth
