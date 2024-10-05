@@ -51,7 +51,8 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" ,Asian TV
-https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+#https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.shongjog.org.bd/contentAsset/image/1bf05063-e2e9-4ad8-bf3d-8254a232cfdc/logo/byInode/1/filter/Resize,Jpeg/jpeg_q/80/resize_w/400" ,SA TV
 #https://global.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
