@@ -66,7 +66,7 @@ https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"  ,DBC News
 #https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
-http://172.16.29.34/ontest1/ontest1/213.m3u8
+#http://172.16.29.34/ontest1/ontest1/213.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,এখন TV
 #https://app.ncare.live/live-orgin/apptv.stream/playlist.m3u8
@@ -165,11 +165,6 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab_hd/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee Tv
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://logowik.com/content/uploads/images/4104-zing-tv-new.webp",Zing
-
-
-
-
 
 #Hindi Cinema
 
@@ -206,7 +201,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/bb/Star_Gold_Thrills.png",Star Gold Thrills
-http://103.84.57.155:8000/play/a0c7/index.m3u8
+#http://103.84.57.155:8000/play/a0c7/index.m3u8
 #http://82.180.145.236:4518/goldth/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies HD
