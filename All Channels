@@ -6,9 +6,13 @@ https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" ,একুশে TV
 #https://ekusheyserver.com/etvlivesn.m3u8
 #https://app.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
+http://172.16.29.34/ontest1/ontest1/297.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" ,N TV
 #https://app.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
+http://172.16.29.34/ontest1/ontest1/257.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" ,বাংলা Vision
 https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
@@ -26,10 +30,11 @@ https://app.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",বিজয় TV
-https://app.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8
+#https://app.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",দেশ TV
 #https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8
+http://172.16.29.34/ontest1/ontest1/219.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" ,বৈশাখী TV
 https://app.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
@@ -61,15 +66,18 @@ https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"  ,DBC News
 #https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
+http://172.16.29.34/ontest1/ontest1/213.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,এখন TV
 #https://app.ncare.live/live-orgin/apptv.stream/playlist.m3u8
+http://172.16.29.34/ontest1/ontest1/221.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G Tv
 http://172.16.29.34/ontest1/ontest1/233.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
-https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+#https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+http://172.16.29.34/ontest1/ontest1/238.m3u8
 
 
 
@@ -80,16 +88,28 @@ https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=1087600.m3u8
-http://217.20.112.199/zeebangla/index.m3u8
+#http://217.20.112.199/zeebangla/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা HD
+http://172.16.29.34/ontest1/ontest1/271.m3u8
+
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 http://217.20.112.199/starjalshahd/index.m3u8
 #http://172.16.29.34/ontest1/ontest1/389.m3u8
 
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা HD
+http://172.16.29.34/ontest1/ontest1/387.m3u8
+#http://172.16.29.34/ontest1/ontest1/389.m3u8
+
+
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors বাংলা HD
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/92.m3u8
-http://217.20.112.199/colorsbangla/index.m3u8
+#http://217.20.112.199/colorsbangla/index.m3u8
+
+#EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors বাংলা HD
+http://172.16.29.34/ontest1/ontest1/386.m3u8
 
 #EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png", Sony Aat
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
@@ -104,7 +124,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3
 #Bangla Cinema
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" ,Zee বাংলা Cinema
-
+http://172.16.29.34/ontest1/ontest1/401.m3u8
 
 #EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" ,Colors বাংলা Cinema
 
@@ -119,11 +139,14 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
 #http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/5284/160.m3u8
 #http://103.84.57.155:8000/play/a082/index.m3u8
+http://172.16.29.34/ontest1/ontest1/294.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://test-tan-iota-90.vercel.app/images/star_plushd.jpg",Star Plus HD
 #http://103.84.57.155:8000/play/a080/index.m3u8
 #http://176.119.29.52/live/00:1A:79:B0:A9:0C/13603/200.m3u8
 #http://217.20.112.199/starplushd/index.m3u8
+http://172.16.29.34/ontest1/ontest1/345.m3u8
 
 #EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png", SONY ENTERTAINMENT TELEVISION
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
@@ -188,10 +211,12 @@ http://103.84.57.155:8000/play/a0c7/index.m3u8
 #http://82.180.145.236:4518/goldth/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies HD
-http://212.102.34.8:9080/StarMoviesHD/video.m3u8
+#http://212.102.34.8:9080/StarMoviesHD/video.m3u8
+http://172.16.29.34/ontest1/ontest1/390.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Star_Movies_Select_HD.png/revision/latest?cb=20220210065718&path-prefix=vi",Star Movies Select HD
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
+http://172.16.29.34/ontest1/ontest1/342.m3u8
 
 
 
@@ -200,10 +225,13 @@ http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
 
 #EXTINF:-1 tvg-id="34f06756e0cdbfb2aad09c4d28bd7d9b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD
 #http://168.197.196.98:82/stream/channelid/1449652276?profile=pass
+http://172.16.29.34/ontest1/ontest1/292.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" ,HUNGAMA
 #http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
-http://119.156.26.155:8000/play/a05t/index.m3u8
+#http://119.156.26.155:8000/play/a05t/index.m3u8
+http://172.16.29.34/ontest1/ontest1/399.m3u8
 
 #EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png", SONY YAY
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
@@ -237,10 +265,11 @@ https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=1000&h=563&crop=1" ,Nat Geo
+http://172.16.29.34/ontest1/ontest1/312.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo-thumbnail.png" ,Nat Geo Wild
-
+http://172.16.29.34/ontest1/ontest1/314.m3u8
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1920px-Discovery_Science_2017_Logo.svg.png" ,Discovery Science
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
@@ -293,20 +322,24 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="http://176.119.29.52/live/00:1A:79:B0:A9:0C/4048/278.m3u8" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
-http://103.84.57.155:8000/play/a0b4/index.m3u8
+#http://103.84.57.155:8000/play/a0b4/index.m3u8
+http://172.16.29.34/ontest1/ontest1/443.m3u8
 
 
 #EXTINF:-1 tvg-id="41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png", Star Sports 1 HD
+http://172.16.29.34/ontest1/ontest1/347.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2 HD
+http://172.16.29.34/ontest1/ontest1/349.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" ,Star Sports Select 1
+http://172.16.29.34/ontest1/ontest1/352.m3u8
 
 
 #EXTINF:-1 tvg-id="42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png", Star Sports Select 2 HD
-
+http://172.16.29.34/ontest1/ontest1/354.m3u8
 
 #EXTINF:-1 group-title="Sports Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY TEN 1 HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
