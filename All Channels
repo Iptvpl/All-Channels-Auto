@@ -129,7 +129,7 @@ http://172.16.29.34/ontest1/ontest1/401.m3u8
 
 
 #EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies
-#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
+http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 
 
 
