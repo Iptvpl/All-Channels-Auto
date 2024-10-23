@@ -126,14 +126,14 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3
 
 #Bangla Cinema
 
-#EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" ,Zee বাংলা Cinema
+#EXTINF:-1, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" ,Zee বাংলা Cinema
 http://172.16.29.34/ontest1/ontest1/401.m3u8
-http://176.119.29.52/live/00:1A:79:C3:81:30/1360/119.m3u8
+#http://176.119.29.52/live/00:1A:79:C3:81:30/1360/119.m3u8
 
-#EXTINF:-1, tvg-id="zeebanglacinema.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" ,Colors বাংলা Cinema
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" ,Colors বাংলা Cinema
 
 
-#EXTINF:-1, tvg-id="jalshamovieshd,in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies
 http://176.119.29.52/live/00:1A:79:C3:81:30/13603/117.m3u8
 #http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 
@@ -271,7 +271,7 @@ http://172.16.29.34/ontest1/ontest1/312.m3u8
 http://172.16.29.34/ontest1/ontest1/314.m3u8
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1920px-Discovery_Science_2017_Logo.svg.png" ,Discovery Science
-#https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
 
 
