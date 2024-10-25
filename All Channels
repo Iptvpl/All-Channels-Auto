@@ -96,7 +96,7 @@ http://172.16.29.34/ontest1/ontest1/271.m3u8
 http://172.16.29.34/ontest1/ontest1/389.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা
-#http://176.119.29.52/live/00:1A:79:C3:81:30/13603/116.m3u8
+http://176.119.29.52/live/00:1A:79:C3:81:30/13603/116.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=116592&uid=14481&deviceMac=00:1A:79:C3:81:30
 #http://217.20.112.199/starjalshahd/index.m3u8
 #http://103.124.251.164:28015/play/a009/index.m3u8
