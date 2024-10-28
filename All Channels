@@ -195,7 +195,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_2/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema HD
-http://217.20.112.199/zeecinema/index.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://multireach.in/wp-content/uploads/2023/04/PICTURES-HD.jpg", & Cinema HD
 http://172.16.29.34/ontest1/ontest1/404.m3u8
