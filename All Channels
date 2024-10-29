@@ -100,10 +100,10 @@ https://cdn2.ihub.live/StarJalsha/index.m3u8?token=cabd4ab4d5e769eb4c3de7371e7b6
 #http://172.16.29.34/ontest1/ontest1/389.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 13630
-http://176.119.29.52/live/00:1A:79:C3:81:30/13603/116.m3u8
+#http://176.119.29.52/live/00:1A:79:C3:81:30/13603/116.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 13662
-http://176.119.29.52/live/00:1A:79:A4:26:62/13603/116.m3u8
+#http://176.119.29.52/live/00:1A:79:A4:26:62/13603/116.m3u8
 
 #http://tv.cloudcdn.me/live.ts?channelId=116592&uid=14481&deviceMac=00:1A:79:C3:81:30
 #http://176.119.29.61/live.ts?channelId=116592&uid=14481&deviceMac=00:1A:79:A4:26:62
