@@ -18,7 +18,8 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png" ,My TV
-https://mytvbangla.com/0.m3u8
+#https://mytvbangla.com/0.m3u8
+https://app.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png",মুভি বাংলা
 http://alvetv.com/moviebanglatv/8080/index.m3u8
