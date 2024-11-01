@@ -34,7 +34,8 @@ http://tv.cloudcdn.me/live/00:1A:79:B0:A9:0C/8164/44150.m3u8
 
 #BD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",NEXUS TV HD
-#https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+#https://app.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" ,ATN বাংলা
 #https://global.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
