@@ -220,8 +220,8 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
 http://172.16.29.34/ontest1/ontest1/390.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Star_Movies_Select_HD.png/revision/latest?cb=20220210065718&path-prefix=vi",Star Movies Select HD
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
-#http://172.16.29.34/ontest1/ontest1/342.m3u8
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
+http://172.16.29.34/ontest1/ontest1/342.m3u8
 
 
 
