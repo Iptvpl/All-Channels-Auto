@@ -104,7 +104,8 @@ http://172.16.29.34/ontest1/ontest1/389.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা HD
 #https://bajimath.com/hp/master.m3u8?id=StarJalsha
-http://103.205.133.71/StarJalshaFHD/index.m3u8
+http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
+#http://103.205.133.71/StarJalshaFHD/index.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 13630
 #http://176.119.29.52/live/00:1A:79:C3:81:30/13603/116.m3u8
@@ -135,8 +136,8 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
 #Bangla Cinema
 
 #EXTINF:-1, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" ,Zee বাংলা Cinema
-#http://172.16.29.34/ontest1/ontest1/401.m3u8
-http://176.119.29.52/live/00:1A:79:C3:81:30/1360/119.m3u8
+http://172.16.29.34/ontest1/ontest1/401.m3u8
+#http://176.119.29.52/live/00:1A:79:C3:81:30/1360/119.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" ,Colors বাংলা Cinema
 
@@ -146,7 +147,8 @@ http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies
 #http://172.16.29.34/ontest1/ontest1/387.m3u8
 #http://176.119.29.52/live/00:1A:79:A4:26:62/13603/117.m3u8
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
+#http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
+http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 
 
 
@@ -200,7 +202,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://multireach.in/wp-content/uploads/2023/04/PICTURES-HD.jpg", & Cinema HD
-#http://172.16.29.34/ontest1/ontest1/404.m3u8
+http://172.16.29.34/ontest1/ontest1/404.m3u8
 
 
 #English Cinema
@@ -215,10 +217,10 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies HD
 #http://212.102.34.8:9080/StarMoviesHD/video.m3u8
-#http://172.16.29.34/ontest1/ontest1/390.m3u8
+http://172.16.29.34/ontest1/ontest1/390.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Star_Movies_Select_HD.png/revision/latest?cb=20220210065718&path-prefix=vi",Star Movies Select HD
-#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
+http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
 #http://172.16.29.34/ontest1/ontest1/342.m3u8
 
 
@@ -228,12 +230,12 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="34f06756e0cdbfb2aad09c4d28bd7d9b" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD
 #http://168.197.196.98:82/stream/channelid/1449652276?profile=pass
-#http://172.16.29.34/ontest1/ontest1/292.m3u8
+http://172.16.29.34/ontest1/ontest1/292.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" ,HUNGAMA
-http://119.156.26.155:8000/play/a05t/index.m3u8
-#http://172.16.29.34/ontest1/ontest1/399.m3u8
+#http://119.156.26.155:8000/play/a05t/index.m3u8
+http://172.16.29.34/ontest1/ontest1/399.m3u8
 
 #EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png", SONY YAY
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
@@ -267,11 +269,11 @@ https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=1000&h=563&crop=1" ,Nat Geo
-#http://172.16.29.34/ontest1/ontest1/312.m3u8
+http://172.16.29.34/ontest1/ontest1/312.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo-thumbnail.png" ,Nat Geo Wild
-#http://172.16.29.34/ontest1/ontest1/314.m3u8
+http://172.16.29.34/ontest1/ontest1/314.m3u8
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1920px-Discovery_Science_2017_Logo.svg.png" ,Discovery Science
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
@@ -324,11 +326,11 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="http://176.119.29.52/live/00:1A:79:C3:81:30/4048/278.m3u8" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
 #http://103.84.57.155:8000/play/a0b4/index.m3u8
-#http://172.16.29.34/ontest1/ontest1/443.m3u8
+http://172.16.29.34/ontest1/ontest1/443.m3u8
 
 
 #EXTINF:-1 tvg-id="41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png", Star Sports 1 HD
-#http://172.16.29.34/ontest1/ontest1/347.m3u8
+http://172.16.29.34/ontest1/ontest1/347.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2 HD
@@ -340,7 +342,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png", Star Sports Select 2 HD
-#http://172.16.29.34/ontest1/ontest1/354.m3u8
+http://172.16.29.34/ontest1/ontest1/354.m3u8
 
 #EXTINF:-1 group-title="Sports Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY TEN 1 HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
