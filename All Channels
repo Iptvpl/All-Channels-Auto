@@ -109,7 +109,8 @@ http://172.16.29.34/ontest1/ontest1/271.m3u8
 http://172.16.29.34/ontest1/ontest1/389.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 2
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
+#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
+https://cdn2.ihub.live/StarJalsha/tracks-v1a1/mono.m3u8?token=bdf2a03da85c0be75aa934d47211ba71b29dcc73-f05eaf570a367ca44fe937e45d5ceab6-1730912393-1730901593
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 3
 #http://103.205.133.71/StarJalshaFHD/index.m3u8
