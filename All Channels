@@ -94,6 +94,7 @@ http://172.16.29.3:8080/hls/jamunatv.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 1
 #http://176.119.29.52/live/00:1A:79:C3:81:30/13603/120.m3u8
+deviceMac=00:1A:79:B7:2F:EA
 #http://bd.ottbd.online:2082/live/rozario859/01327184859/438.m3u8
 #http://103.205.133.71/ZeeBangla/index.m3u8
 
@@ -148,7 +149,7 @@ http://172.16.29.34/ontest1/ontest1/401.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" ,Colors বাংলা Cinema
 
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png" ,তারা বাংলা সিনেমা
-#http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
+http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies
 #http://176.119.29.52/live/00:1A:79:A4:26:62/13603/117.m3u8
