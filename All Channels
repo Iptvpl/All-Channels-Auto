@@ -137,6 +137,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" ,Enterr 10 Bangla
 #https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
+http://172.16.29.2:8080/hls/Enter10Bangla.m3u8
 
 
 
@@ -153,8 +154,8 @@ http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114" ,জলসা Movies
 #http://176.119.29.52/live/00:1A:79:A4:26:62/13603/117.m3u8
-#http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
-http://172.16.29.34/ontest1/ontest1/387.m3u8
+http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
+#http://172.16.29.34/ontest1/ontest1/387.m3u8
 #http://172.16.29.2:8080/hls/jalshami.m3u8
 
 
