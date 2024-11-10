@@ -1,6 +1,8 @@
-#Bangla
+
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1731442252:KeyName=prod_linear:Signature=GvCemJtzPM_atlenYxF8tWrX4C2rtnEWndPc4I44vrJjGNN58hRCw80B3Yb3bUigozTM2fGZM8s1c0trXm0QAw"}
 https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/refs/heads/main/toffee_OTT_Navigator.m3u
+
+#Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
