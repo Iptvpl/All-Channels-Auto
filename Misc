@@ -8,6 +8,27 @@
 #http://176.119.29.52/live/00:1A:79:C3:81:30/13603/120.m3u8
 #http://176.119.29.52/live/00:1A:79:B7:2F:EA/7245/120.m3u8
 
+#EXTINF:-1, tvg-id="http://176.119.29.52/live/00:1A:79:C3:81:30/4048/278.m3u8" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
+#http://103.84.57.155:8000/play/a0b4/index.m3u8
+http://172.16.29.34/ontest1/ontest1/443.m3u8
+
+
+#EXTINF:-1 tvg-id="41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png", Star Sports 1 HD
+http://172.16.29.34/ontest1/ontest1/347.m3u8
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2 HD
+#http://172.16.29.34/ontest1/ontest1/349.m3u8
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" ,Star Sports Select 1
+#http://172.16.29.34/ontest1/ontest1/352.m3u8
+
+
+#EXTINF:-1 tvg-id="42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png", Star Sports Select 2 HD
+http://172.16.29.34/ontest1/ontest1/354.m3u8
+
+
 #Islamic
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" ,Madani Tv
