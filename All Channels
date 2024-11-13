@@ -362,25 +362,30 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",A sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="http://176.119.29.52/live/00:1A:79:C3:81:30/4048/278.m3u8" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
-#http://103.84.57.155:8000/play/a0b4/index.m3u8
-http://172.16.29.34/ontest1/ontest1/443.m3u8
+#EXTINF:-1 group-title="AynaoOTT" tvg-chno="129" tvg-id="129" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg", PTV Sports 
+#EXTVLCOPT:http-user-agent=Byte Capsule 
+#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
+https://tvs3.aynaott.com/bz/wJf84zDS/index.m3u8?hdnts=st=1731499964~exp=1731543164~acl=/wJf84zDS/*~data=103.87.212.126-WEB~hmac=64b723fc4cb37719ce1aadb61e27d9774e766996fb9a5d1de033e56dc30c07f7 
 
+#EXTINF:-1 group-title="AynaoOTT" tvg-chno="101" tvg-id="101" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg", Star Sports 1 HD 
+#EXTVLCOPT:http-user-agent=Byte Capsule 
+#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
+https://tvs3.aynaott.com/bz/sspts1/index.m3u8?hdnts=st=1731499964~exp=1731543164~acl=/sspts1/*~data=103.87.212.126-WEB~hmac=6c4a41227670f1d62a678aa166486494ef97aae7011955926dc876b3111b8db0 
 
-#EXTINF:-1 tvg-id="41" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723795259114.png", Star Sports 1 HD
-http://172.16.29.34/ontest1/ontest1/347.m3u8
+#EXTINF:-1 group-title="AynaoOTT" tvg-chno="102" tvg-id="102" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg", Star Sports 2 HD 
+#EXTVLCOPT:http-user-agent=Byte Capsule 
+#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
+https://tvs3.aynaott.com/bz/ssport2hd/index.m3u8?hdnts=st=1731499964~exp=1731543164~acl=/ssport2hd/*~data=103.87.212.126-WEB~hmac=0f1ded7bcdd53e72423e44759c03a6e927b9a6bab07282eb4a57e217cca7ea05 
 
+#EXTINF:-1 group-title="AynaoOTT" tvg-chno="153" tvg-id="153" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg", Star Sport Select 1 
+#EXTVLCOPT:http-user-agent=Byte Capsule 
+#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
+https://tvs3.aynaott.com/bz/ssps1hd/index.m3u8?hdnts=st=1731499964~exp=1731543164~acl=/ssps1hd/*~data=103.87.212.126-WEB~hmac=04a999bc871b50b7f906ba68cefc13b98716e785f981f0bb929f3a90a095d1ae
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2 HD
-#http://172.16.29.34/ontest1/ontest1/349.m3u8
-
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" ,Star Sports Select 1
-#http://172.16.29.34/ontest1/ontest1/352.m3u8
-
-
-#EXTINF:-1 tvg-id="42" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1723808066858.png", Star Sports Select 2 HD
-http://172.16.29.34/ontest1/ontest1/354.m3u8
+#EXTINF:-1 group-title="AynaoOTT" tvg-chno="154" tvg-id="154" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/602dbebc-c520-44d4-ae57-e4459589a4f9_180x180_Star_Sports_Select_2.jpg", Star Sport Select 2 
+#EXTVLCOPT:http-user-agent=Byte Capsule 
+#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
+https://tvs3.aynaott.com/bz/ssps2hd/index.m3u8?hdnts=st=1731499964~exp=1731543164~acl=/ssps2hd/*~data=103.87.212.126-WEB~hmac=08cfdd0a11947abe6c637aa4118682702f76d28f0d5743b218f21c3759d9d80f
 
 #EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png", Euro Sport HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
