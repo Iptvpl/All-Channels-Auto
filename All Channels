@@ -94,6 +94,10 @@ http://172.16.29.3:8080/hls/jamunatv.m3u8
 
 #Indian Bangla
 
+#EXTINF:-1 group-title="AynaoOTT" tvg-chno="89" tvg-id="89" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/09bff4ab-934e-4b47-bacd-4c24ffaf3047_180x180_zee-bangla-hd.jpg", ZEE Bangla HD 
+#EXTVLCOPT:http-user-agent=Byte Capsule
+#EXTHTTP:{"referer":"https://watch.aynaott.com/"}
+https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731499964~exp=1731543164~acl=/ZeeBanglaHD/*~data=103.87.212.126-WEB~hmac=94aacc0fe3b67d9231d5e2ff2c1d15d5a2742e209ffdc32690db1fa8712e062e
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 1
 #http://176.119.29.52/live/00:1A:79:C3:81:30/13603/120.m3u8
