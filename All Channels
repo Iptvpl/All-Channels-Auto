@@ -81,7 +81,8 @@ https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" ,Asian TV
 #https://app.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
-https://mtlivestream.com/asian/ytlive/index.m3u8
+#https://mtlivestream.com/asian/ytlive/index.m3u8
+https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8?expires=1731714905&md5=i2HvarFh7FUeCDP9aM1HYQ&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
 #https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
