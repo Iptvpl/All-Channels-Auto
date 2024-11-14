@@ -6,6 +6,7 @@ https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 #https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+#http://172.16.29.2:8080/hls/cibd.m3u8
 https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?expires=1731806066&md5=nqPKTfBrbWhVHZDp3m5c_w&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" ,একুশে TV
