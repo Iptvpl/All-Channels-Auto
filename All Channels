@@ -7,11 +7,6 @@
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 #https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="AynaoOTT" tvg-chno="14" tvg-id="14" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png", Channel I 
-#EXTVLCOPT:http-user-agent=Byte Capsule 
-#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
-https://tvs2.aynaott.com/bz/channeli/index.m3u8?hdnts=st=1731571768~exp=1731614968~acl=/channeli/*~data=103.87.212.124-WEB~hmac=9ba1ea750f516634d7a5ab8abfc80d0630e0c90223dbac66bce998df85805efa
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" ,একুশে TV
 #https://ekusheyserver.com/etvlivesn.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -90,7 +85,7 @@ https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="2" tvg-id="2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png", Asian TV
 #EXTVLCOPT:http-user-agent=Byte Capsule
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"}
-https://tvs1.aynaott.com/bz/asiantv/index.m3u8?hdnts=st=1731571768~exp=1731614968~acl=/asiantv/*~data=103.87.212.126-WEB~hmac=d9cc7bb53278a5c7e89a8b1a5b0714dec0ce22c16c1e77b588e9ce2397741593
+https://tvs1.aynaott.com/bz/asiantv/index.m3u8?hdnts=st=1731573272~exp=1731616472~acl=/asiantv/*~data=103.87.212.124-WEB~hmac=e3fdd662b2c438439e61a773509025084188f93007b9abdcd8da07a49c7d99943
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
 #https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
@@ -110,7 +105,7 @@ http://172.16.29.3:8080/hls/jamunatv.m3u8
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="89" tvg-id="89" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png", ZEE Bangla HD 
 #EXTVLCOPT:http-user-agent=Byte Capsule
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"}
-https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731571768~exp=1731614968~acl=/ZeeBanglaHD/*~data=103.87.212.126-WEB~hmac=94aacc0fe3b67d9231d5e2ff2c1d15d5a2742e209ffdc32690db1fa8712e062e
+https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731573272~exp=1731616472~acl=/ZeeBanglaHD/*~data=103.87.212.124-WEB~hmac=538ad935c7bef099c158a25738d51867e76f0bbd7cdad6003e9cc19ac03c99d3
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 1
@@ -133,7 +128,7 @@ http://172.16.29.2:8080/hls/sjolshahd.m3u8
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="109" tvg-id="109" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7c428efd-1f33-4982-9717-c74e123dcfb3_180x180_ColorsBangla.jpg", Colors Bangla
 #EXTVLCOPT:http-user-agent=Byte Capsule
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"}
-https://tvs1.aynaott.com/bz/ColorsBangla/index.m3u8?hdnts=st=1731571768~exp=1731614968~acl=/ColorsBangla/*~data=103.87.212.126-WEB~hmac=7d58ad9dc9a622e8dceb022a331dc0c3d69eb8f3819bc438f4d28876921a847a
+https://tvs1.aynaott.com/bz/ColorsBangla/index.m3u8?hdnts=st=1731573272~exp=1731616472~acl=/ColorsBangla/*~data=103.87.212.124-WEB~hmac=d5da869ac5494e919a12ae654d531b071f63fe4886e8d370efc5ef40e05f555a
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors বাংলা HD
 #http://176.119.29.52/live/00:1A:79:C3:81:30/13603/92.m3u8
@@ -369,37 +364,13 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="129" tvg-id="129" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg", PTV Sports 
 #EXTVLCOPT:http-user-agent=Byte Capsule 
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
-https://tvs3.aynaott.com/bz/wJf84zDS/index.m3u8?hdnts=st=1731571768~exp=1731614968~acl=/wJf84zDS/*~data=103.87.212.126-WEB~hmac=64b723fc4cb37719ce1aadb61e27d9774e766996fb9a5d1de033e56dc30c07f7 
-
-#EXTINF:-1 group-title="AynaoOTT" tvg-chno="101" tvg-id="101" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg", Star Sports 1 HD 
-#EXTVLCOPT:http-user-agent=Byte Capsule 
-#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
-https://tvs3.aynaott.com/bz/sspts1/index.m3u8?hdnts=st=1731571768~exp=1731614968~acl=/sspts1/*~data=103.87.212.126-WEB~hmac=6c4a41227670f1d62a678aa166486494ef97aae7011955926dc876b3111b8db0 
-
-#EXTINF:-1 group-title="AynaoOTT" tvg-chno="102" tvg-id="102" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg", Star Sports 2 HD 
-#EXTVLCOPT:http-user-agent=Byte Capsule 
-#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
-https://tvs3.aynaott.com/bz/ssport2hd/index.m3u8?hdnts=st=1731571768~exp=1731614968~acl=/ssport2hd/*~data=103.87.212.126-WEB~hmac=0f1ded7bcdd53e72423e44759c03a6e927b9a6bab07282eb4a57e217cca7ea05 
-
-#EXTINF:-1 group-title="AynaoOTT" tvg-chno="153" tvg-id="153" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg", Star Sport Select 1 
-#EXTVLCOPT:http-user-agent=Byte Capsule 
-#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
-https://tvs3.aynaott.com/bz/ssps1hd/index.m3u8?hdnts=st=1731571768~exp=1731614968~acl=/ssps1hd/*~data=103.87.212.126-WEB~hmac=04a999bc871b50b7f906ba68cefc13b98716e785f981f0bb929f3a90a095d1ae
-
-#EXTINF:-1 group-title="AynaoOTT" tvg-chno="154" tvg-id="154" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/602dbebc-c520-44d4-ae57-e4459589a4f9_180x180_Star_Sports_Select_2.jpg", Star Sport Select 2 
-#EXTVLCOPT:http-user-agent=Byte Capsule 
-#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
-https://tvs3.aynaott.com/bz/ssps2hd/index.m3u8?hdnts=st=1731571768~exp=1731614968~acl=/ssps2hd/*~data=103.87.212.126-WEB~hmac=08cfdd0a11947abe6c637aa4118682702f76d28f0d5743b218f21c3759d9d80f
+https://tvs3.aynaott.com/bz/wJf84zDS/index.m3u8?hdnts=st=1731573272~exp=1731616472~acl=/wJf84zDS/*~data=103.87.212.124-WEB~hmac=748adf12434720b4aaf6f5ff9755df2e1d55208ffbecba14606b4f131d95b689
 
 #EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png", Euro Sport HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1731730779:KeyName=prod_linear:Signature=Of_7Y_0icJwI584rHeZ3Jp5gU1tXYWA3FI-G0cFaSxnIGhGVEkraljUUc7GWrWEuZOCsT9Qt4w24J8yBPuskAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="AynaoOTT" tvg-chno="122" tvg-id="122" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bfaf7d94-6ea7-48db-bc96-85d712f2e794_180x180_bein-sports.jpg", beIN SPORTS 
-#EXTVLCOPT:http-user-agent=Byte Capsule 
-#EXTHTTP:{"referer":"https://watch.aynaott.com/"} 
-https://tvs1.aynaott.com/bz/beinsports/index.m3u8?hdnts=st=1731571768~exp=1731614968~acl=/beinsports/*~data=103.87.212.124-WEB~hmac=4d61027c7e791c1b5d1ccbbc858962a350db5c9e66118e0ba8729422ab5f7a43
 
 #EXTINF:-1 group-title="Sports Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY TEN 1 HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
