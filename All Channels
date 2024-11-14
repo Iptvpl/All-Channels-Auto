@@ -145,7 +145,7 @@ https://tvs1.aynaott.com/bz/ColorsBangla/index.m3u8?hdnts=st=1731573272~exp=1731
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1731730779:KeyName=prod_linear:Signature=Of_7Y_0icJwI584rHeZ3Jp5gU1tXYWA3FI-G0cFaSxnIGhGVEkraljUUc7GWrWEuZOCsT9Qt4w24J8yBPuskAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" ,Enterr 10 Bangla
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png" ,Enterr 10 Bangla
 #https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/playlist.m3u8
 http://172.16.29.2:8080/hls/Enter10Bangla.m3u8
 
