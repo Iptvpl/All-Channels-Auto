@@ -126,7 +126,7 @@ http://172.16.29.2:8080/hls/sjolshahd.m3u8
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="109" tvg-id="109" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png", Colors Bangla
 #EXTVLCOPT:http-user-agent=Byte Capsule
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"}
-https://tvs1.aynaott.com/bz/ColorsBangla/index.m3u8?hdnts=st=1731657969~exp=1731701169~acl=/ColorsBangla/*~data=103.87.212.126-WEB~hmac=2f50deb8e7b757f73ea008aa371fa06528434427bb937ceac36f5b4352d5926d
+https://tvs1.aynaott.com/bz/ColorsBangla/index.m3u8?hdnts=st=1731681954~exp=1731725154~acl=/ColorsBangla/*~data=103.87.212.126-WEB~hmac=2742f40a617fa0fb49d17e867cc82e90e6afd526b0f65bbd6fed81efa5da9713
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png" ,Colors বাংলা HD
 #http://176.119.29.52/live/00:1A:79:C3:81:30/13603/92.m3u8
