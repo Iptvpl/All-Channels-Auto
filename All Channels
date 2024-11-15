@@ -86,10 +86,10 @@ https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?expires=1731807135&md5=8TEpx_7kC8ESf1G4MMMkHQ&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
-#https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?expires=1731873804&md5=rsM93FaPo-SCy2umvGVjZQ&user=811838a63b224e85b02b925b31d0fece
+https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #http://172.16.29.34/ontest1/ontest1/238.m3u8
-#http://103.205.133.71/JamunaTV/index.m3u8
-http://172.16.29.3:8080/hls/jamunatv.m3u8
+#http://172.16.29.3:8080/hls/jamunatv.m3u8
 
 
 
@@ -101,8 +101,7 @@ https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?expires=17318072
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="89" tvg-id="89" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png", ZEE Bangla HD 
 #EXTVLCOPT:http-user-agent=Byte Capsule
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"}
-https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731610179~exp=1731653379~acl=/ZeeBanglaHD/*~data=103.87.212.126-WEB~hmac=2c0f9735823bbcf477c9049e2d2239fe512d694816bc0c524ecef043453067d6
-
+https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731657969~exp=1731701169~acl=/ZeeBanglaHD/*~data=103.87.212.126-WEB~hmac=45de9ff002a9aea20594f9e7472a41fcef8e6b0dfb40a93d2fbdcbbe2f882486
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 1
 #http://172.16.29.34/ontest1/ontest1/271.m3u8
@@ -124,7 +123,7 @@ http://172.16.29.2:8080/hls/sjolshahd.m3u8
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="109" tvg-id="109" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7c428efd-1f33-4982-9717-c74e123dcfb3_180x180_ColorsBangla.jpg", Colors Bangla
 #EXTVLCOPT:http-user-agent=Byte Capsule
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"}
-https://tvs1.aynaott.com/bz/ColorsBangla/index.m3u8?hdnts=st=1731610179~exp=1731653379~acl=/ColorsBangla/*~data=103.87.212.126-WEB~hmac=48c3f34037176028ed4ef2f581a3dd3a85d1afcf83cb1b7e6345ee437aa1da48
+https://tvs1.aynaott.com/bz/ColorsBangla/index.m3u8?hdnts=st=1731657969~exp=1731701169~acl=/ColorsBangla/*~data=103.87.212.126-WEB~hmac=2f50deb8e7b757f73ea008aa371fa06528434427bb937ceac36f5b4352d5926d
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" ,Colors বাংলা HD
 #http://176.119.29.52/live/00:1A:79:C3:81:30/13603/92.m3u8
