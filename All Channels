@@ -312,7 +312,7 @@ http://172.16.29.34/ontest1/ontest1/312.m3u8
 http://172.16.29.34/ontest1/ontest1/314.m3u8
 
 #EXTINF:-1, tvg-id="discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1920px-Discovery_Science_2017_Logo.svg.png" ,Discovery Science
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
 
 
@@ -366,7 +366,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="http://176.119.29.52/live/00:1A:79:C3:81:30/4048/278.m3u8" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
 #http://103.84.57.155:8000/play/a0b4/index.m3u8
-http://172.16.29.34/ontest1/ontest1/443.m3u8
+#http://172.16.29.34/ontest1/ontest1/443.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png", Euro Sport HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
