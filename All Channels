@@ -104,7 +104,7 @@ http://172.16.29.2:8080/hls/zeebanglahd.m3u8
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="89" tvg-id="89" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png",Zee বাংলা HD 
 #EXTVLCOPT:http-user-agent=Byte Capsule
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"}
-https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731835573~exp=1731878773~acl=/ZeeBanglaHD/*~data=103.87.212.126-WEB~hmac=f5ee5ea7d938dd6b011f51d2c566754334e44fda2560d7ccdd9e87ef8c6729b8
+https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731863838~exp=1731907038~acl=/ZeeBanglaHD/*~data=103.87.212.126-WEB~hmac=8ccaad739a633d8c2b53da4f1debd7abe0977f5d400fb687f7c0705db014339a
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 1
 #http://172.16.29.34/ontest1/ontest1/271.m3u8
 
