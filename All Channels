@@ -5,7 +5,7 @@ https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u
 #Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?expires=1731806066&md5=nqPKTfBrbWhVHZDp3m5c_w&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8?expires=1732051542&md5=PRmp_McIkSEwpYhmThwu9w&user=811838a63b224e85b02b925b31d0fece
 https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 http://172.16.29.2:8080/hls/cibd.m3u8
 
@@ -83,7 +83,7 @@ http://172.16.29.34/ontest1/ontest1/233.m3u8
 https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" ,Asian TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?expires=1731967013&md5=hma5HT6ctWggfq-rlYxLnA&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=15lt4mWSv2afCIzSa-iIEA&expires=1732051504&user=811838a63b224e85b02b925b31d0fece
 https://app.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
@@ -97,15 +97,14 @@ http://172.16.29.3:8080/hls/jamunatv.m3u8
 #Indian Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" ,Zee বাংলা
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?expires=1731966947&md5=_PEZ7kCsv-ulS9jtL6-LfQ&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?expires=1732051419&md5=zhjp1c8gpJCyV_YbqvHjag&user=811838a63b224e85b02b925b31d0fece
 http://172.16.29.34/ontest1/ontest1/271.m3u8
 http://172.16.29.2:8080/hls/zeebanglahd.m3u8
 
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="89" tvg-id="89" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png",Zee বাংলা HD 
 #EXTVLCOPT:http-user-agent=Byte Capsule
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"}
-https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731751074~exp=1731794274~acl=/ZeeBanglaHD/*~data=103.87.212.126-WEB~hmac=4889bc8a6511920e1f29d31cf6525797b846958f1b4580b1ebcb0195f0f89913
-
+https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731835573~exp=1731878773~acl=/ZeeBanglaHD/*~data=103.87.212.126-WEB~hmac=f5ee5ea7d938dd6b011f51d2c566754334e44fda2560d7ccdd9e87ef8c6729b8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 1
 #http://172.16.29.34/ontest1/ontest1/271.m3u8
 
@@ -119,6 +118,8 @@ http://103.175.242.10:8080/starjalsha/index.m3u8
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 2
 #https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 http://172.16.29.2:8080/hls/sjolshahd.m3u8
+http://stvlive.net:8080/zeebncinema/index.m3u8
+http://stvlive.net:8080/zeebangla/index.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 3
 http://172.16.29.34/ontest1/ontest1/389.m3u8
@@ -131,7 +132,7 @@ http://103.175.242.10:8080/colorsbangla/index.m3u8
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="109" tvg-id="109" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png",Colors বাংলা HD
 #EXTVLCOPT:http-user-agent=Byte Capsule
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"}
-https://tvs1.aynaott.com/bz/ColorsBangla/index.m3u8?hdnts=st=1731751074~exp=1731794274~acl=/ColorsBangla/*~data=103.87.212.126-WEB~hmac=1ccb234902cbcb717c90c75d8abb70a4a90b650ca653abab02a2d46b516daac4
+#https://tvs1.aynaott.com/bz/ColorsBangla/index.m3u8?hdnts=st=1731751074~exp=1731794274~acl=/ColorsBangla/*~data=103.87.212.126-WEB~hmac=1ccb234902cbcb717c90c75d8abb70a4a90b650ca653abab02a2d46b516daac4
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png" ,Colors বাংলা HD
 #http://176.119.29.52/live/00:1A:79:C3:81:30/13603/92.m3u8
