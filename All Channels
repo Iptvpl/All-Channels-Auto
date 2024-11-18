@@ -104,9 +104,11 @@ http://172.16.29.2:8080/hls/zeebanglahd.m3u8
 #EXTINF:-1 group-title="AynaoOTT" tvg-chno="89" tvg-id="89" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png",Zee বাংলা HD 
 #EXTVLCOPT:http-user-agent=Byte Capsule
 #EXTHTTP:{"referer":"https://watch.aynaott.com/"}
-https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731863838~exp=1731907038~acl=/ZeeBanglaHD/*~data=103.87.212.126-WEB~hmac=8ccaad739a633d8c2b53da4f1debd7abe0977f5d400fb687f7c0705db014339a
+#https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731863838~exp=1731907038~acl=/ZeeBanglaHD/*~data=103.87.212.126-WEB~hmac=8ccaad739a633d8c2b53da4f1debd7abe0977f5d400fb687f7c0705db014339a
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 1
 #http://172.16.29.34/ontest1/ontest1/271.m3u8
+http://stvlive.net:8080/zeebangla/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 2
 #http://172.16.29.2:8080/hls/zeebanglahd.m3u8
@@ -118,9 +120,7 @@ http://103.175.242.10:8080/starjalsha/index.m3u8
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 2
 #https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 #http://172.16.29.2:8080/hls/sjolshahd.m3u8
-http://stvlive.net:8080/zeebncinema/index.m3u8
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা
-http://stvlive.net:8080/zeebangla/index.m3u8
+
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 3
 http://172.16.29.34/ontest1/ontest1/389.m3u8
@@ -156,8 +156,10 @@ http://172.16.29.2:8080/hls/Enter10Bangla.m3u8
 #Bangla Cinema
 
 #EXTINF:-1, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" ,Zee বাংলা Cinema
-http://172.16.29.34/ontest1/ontest1/401.m3u8
 #http://176.119.29.52/live/00:1A:79:C3:81:30/1360/119.m3u8
+#http://172.16.29.34/ontest1/ontest1/401.m3u8
+http://stvlive.net:8080/zeebncinema/index.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" ,Colors বাংলা Cinema
 
@@ -178,8 +180,8 @@ http://103.175.242.10:8080/jalshamovies/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
 #http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/160.m3u8
 http://172.16.29.34/ontest1/ontest1/294.m3u8
-#http://103.205.133.71/colorshd/index.m3u8
 #http://172.16.29.2:8080/hls/colorsbhd.m3u8
+http://stvlive.net:8080/colorshd/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png", SONY ENTERTAINMENT TELEVISION
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
