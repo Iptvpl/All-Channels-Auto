@@ -212,12 +212,12 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732279061:KeyName=prod_linear:Signature=GJjx1tkiGpmyp5EykuZqbvt9bj77v2mRoUevroRM778oP3-tqzwrP_svcK79pXxIVoNPz96BX_xwACurl9B-DA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_2/playlist.m3u8
 
-#EXTINF:-1 group-title="Movie Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png", B4U Movies VIP
+#EXTINF:-1 group-title="Movie Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png", B4U Movies  
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732279061:KeyName=prod_linear:Signature=GJjx1tkiGpmyp5EykuZqbvt9bj77v2mRoUevroRM778oP3-tqzwrP_svcK79pXxIVoNPz96BX_xwACurl9B-DA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png", SONY WAH VIP
+#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png", SONY WAH  
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732279061:KeyName=prod_linear:Signature=GJjx1tkiGpmyp5EykuZqbvt9bj77v2mRoUevroRM778oP3-tqzwrP_svcK79pXxIVoNPz96BX_xwACurl9B-DA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_wah/playlist.m3u8
@@ -309,7 +309,7 @@ https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 #https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
 #https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
 
-#EXTINF:-1 group-title="Infotainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_330023001731294257.png", SONY BBC EARTH HD VIP
+#EXTINF:-1 group-title="Infotainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_330023001731294257.png", SONY BBC EARTH HD  
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732279061:KeyName=prod_linear:Signature=GJjx1tkiGpmyp5EykuZqbvt9bj77v2mRoUevroRM778oP3-tqzwrP_svcK79pXxIVoNPz96BX_xwACurl9B-DA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_bbc_earth_hd/playlist.m3u8
@@ -423,7 +423,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten3_hd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732279061:KeyName=prod_linear:Signature=GJjx1tkiGpmyp5EykuZqbvt9bj77v2mRoUevroRM778oP3-tqzwrP_svcK79pXxIVoNPz96BX_xwACurl9B-DA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="International News" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_240535001731487107.png", CNN VIP
+#EXTINF:-1 group-title="International News" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_240535001731487107.png", CNN  
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732279061:KeyName=prod_linear:Signature=GJjx1tkiGpmyp5EykuZqbvt9bj77v2mRoUevroRM778oP3-tqzwrP_svcK79pXxIVoNPz96BX_xwACurl9B-DA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
