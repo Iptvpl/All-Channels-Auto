@@ -98,9 +98,9 @@ https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=orhTRz5jr83p
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা HD
-#http://172.16.29.34/ontest1/ontest1/271.m3u8
+http://172.16.29.34/ontest1/ontest1/271.m3u8
 #http://stvlive.net:8080/zeebangla/index.m3u8
-http://xsmarters.top:8080/live/0966717777/0966717777/245893.ts
+#http://xsmarters.top:8080/live/0966717777/0966717777/245893.ts
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 2
 #http://172.16.29.2:8080/hls/zeebanglahd.m3u8
