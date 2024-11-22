@@ -95,8 +95,7 @@ https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=H5PL2ebKj7ygp
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" ,Zee বাংলা
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=orhTRz5jr83pfw-7kgJlxQ&expires=1732515109&user=811838a63b224e85b02b925b31d0fece
-#http://172.16.29.34/ontest1/ontest1/271.m3u8
-#http://172.16.29.2:8080/hls/zeebanglahd.m3u8
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা HD
 #http://172.16.29.34/ontest1/ontest1/271.m3u8
