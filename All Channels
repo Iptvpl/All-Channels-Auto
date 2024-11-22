@@ -95,28 +95,27 @@ https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=H5PL2ebKj7ygp
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" ,Zee বাংলা
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=orhTRz5jr83pfw-7kgJlxQ&expires=1732515109&user=811838a63b224e85b02b925b31d0fece
-http://172.16.29.34/ontest1/ontest1/271.m3u8
-http://172.16.29.2:8080/hls/zeebanglahd.m3u8
+#http://172.16.29.34/ontest1/ontest1/271.m3u8
+#http://172.16.29.2:8080/hls/zeebanglahd.m3u8
 
-#EXTINF:-1 group-title="AynaoOTT" tvg-chno="89" tvg-id="89" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png",Zee বাংলা HD 
-#EXTVLCOPT:http-user-agent=Byte Capsule
-#EXTHTTP:{"referer":"https://watch.aynaott.com/"}
-#https://tvs2.aynaott.com/bz/ZeeBanglaHD/index.m3u8?hdnts=st=1731863838~exp=1731907038~acl=/ZeeBanglaHD/*~data=103.87.212.126-WEB~hmac=8ccaad739a633d8c2b53da4f1debd7abe0977f5d400fb687f7c0705db014339a
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 1
-http://172.16.29.34/ontest1/ontest1/271.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা HD
+#http://172.16.29.34/ontest1/ontest1/271.m3u8
 #http://stvlive.net:8080/zeebangla/index.m3u8
+http://xsmarters.top:8080/live/0966717777/0966717777/245893.ts
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 2
 #http://172.16.29.2:8080/hls/zeebanglahd.m3u8
 
+
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা
+http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 1
 http://172.16.29.2:8080/hls/sjolshahd.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 2
 #https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
-http://172.16.29.34/ontest1/ontest1/389.m3u8
+#http://172.16.29.34/ontest1/ontest1/389.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 3
 #http://103.175.242.10:8080/starjalsha/index.m3u8
