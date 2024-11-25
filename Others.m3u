@@ -54,12 +54,12 @@ http://172.16.29.34/ontest1/ontest1/294.m3u8
 #http://172.16.29.2:8080/hls/colorsbhd.m3u8
 http://stvlive.net:8080/colorshd/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png", SONY ENTERTAINMENT TELEVISION
+#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png", SONY
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732695711:KeyName=prod_linear:Signature=wyxcP4KvnrlUU4iNFe6VCt9oscyVj-9s9Tu8IL8NyRzJ-Xs3swhqATvUWfjJad1iXwfWiXG_RzRLdwh_u3X0Bg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png", SONY ENTERTAINMENT TELEVISION HD
+#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png", SONY HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732695711:KeyName=prod_linear:Signature=wyxcP4KvnrlUU4iNFe6VCt9oscyVj-9s9Tu8IL8NyRzJ-Xs3swhqATvUWfjJad1iXwfWiXG_RzRLdwh_u3X0Bg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainmnt_hd/playlist.m3u8
@@ -78,20 +78,25 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab_hd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732695711:KeyName=prod_linear:Signature=wyxcP4KvnrlUU4iNFe6VCt9oscyVj-9s9Tu8IL8NyRzJ-Xs3swhqATvUWfjJad1iXwfWiXG_RzRLdwh_u3X0Bg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
 
+
 #EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png", SONY MAX HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732695711:KeyName=prod_linear:Signature=wyxcP4KvnrlUU4iNFe6VCt9oscyVj-9s9Tu8IL8NyRzJ-Xs3swhqATvUWfjJad1iXwfWiXG_RzRLdwh_u3X0Bg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png", SONY MAX 2
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732695711:KeyName=prod_linear:Signature=wyxcP4KvnrlUU4iNFe6VCt9oscyVj-9s9Tu8IL8NyRzJ-Xs3swhqATvUWfjJad1iXwfWiXG_RzRLdwh_u3X0Bg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_2/playlist.m3u8
 
+
 #EXTINF:-1 group-title="Movie Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png", B4U Movies  
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732695711:KeyName=prod_linear:Signature=wyxcP4KvnrlUU4iNFe6VCt9oscyVj-9s9Tu8IL8NyRzJ-Xs3swhqATvUWfjJad1iXwfWiXG_RzRLdwh_u3X0Bg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png", SONY WAH  
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
