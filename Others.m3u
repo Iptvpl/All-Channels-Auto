@@ -25,7 +25,6 @@ http://172.16.29.2:8080/hls/Enter10Bangla.m3u8
 http://172.16.29.34/ontest1/ontest1/401.m3u8
 #http://stvlive.net:8080/zeebncinema/index.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" ,Colors বাংলা Cinema
 
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png" ,তারা বাংলা সিনেমা
@@ -77,14 +76,14 @@ http://119.156.26.155:8000/play/a05u/index.m3u8
 
 #Documentary
 
-#EXTINF:-1, tvg-id="http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/164.m3u8" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" ,Discovery
+#EXTINF:-1, tvg-id="http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/164.m3u8" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" ,Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/164.m3u8
 #https://freeott.site/discovery/Discovery_Channel.m3u8
 #https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 
 
-#EXTINF:-1, tvg-id="animalplanet.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" ,Animal Planet
+#EXTINF:-1, tvg-id="animalplanet.in" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" ,Animal Planet
 #https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
