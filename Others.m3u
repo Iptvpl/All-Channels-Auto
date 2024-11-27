@@ -77,7 +77,7 @@ http://119.156.26.155:8000/play/a05u/index.m3u8
 
 #Documentary
 
-#EXTINF:-1, tvg-id="http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/164.m3u8" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" ,Discovery HD
+#EXTINF:-1, tvg-id="http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/164.m3u8" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" ,Discovery
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/164.m3u8
 #https://freeott.site/discovery/Discovery_Channel.m3u8
