@@ -1,29 +1,28 @@
-#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা
-http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
-
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 1
-http://172.16.29.2:8080/hls/sjolshahd.m3u8
+#https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
+http://172.16.29.34/ontest1/ontest1/389.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 2
-#https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
-#http://172.16.29.34/ontest1/ontest1/389.m3u8
+http://103.175.242.10:8080/starjalsha/index.m3u8
+
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 3
-#http://103.175.242.10:8080/starjalsha/index.m3u8
+http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
+
+#EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 4
+http://172.16.29.2:8080/hls/sjolshahd.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png" ,Enterr 10 Bangla
 #https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/playlist.m3u8
 http://172.16.29.2:8080/hls/Enter10Bangla.m3u8
 
-
-
 #Bangla Cinema
 
 #EXTINF:-1, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" ,Zee বাংলা Cinema
-#http://176.119.29.52/live/00:1A:79:C3:81:30/1360/119.m3u8
-http://172.16.29.34/ontest1/ontest1/401.m3u8
+#http://172.16.29.34/ontest1/ontest1/401.m3u8
 #http://stvlive.net:8080/zeebncinema/index.m3u8
+http://stvlive.net:8080/zeebangla/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" ,Colors বাংলা Cinema
 
@@ -43,9 +42,10 @@ http://172.16.29.34/ontest1/ontest1/387.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
 #http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/160.m3u8
-http://172.16.29.34/ontest1/ontest1/294.m3u8
+#http://172.16.29.34/ontest1/ontest1/294.m3u8
 #http://172.16.29.2:8080/hls/colorsbhd.m3u8
-http://stvlive.net:8080/colorshd/index.m3u8
+#http://stvlive.net:8080/colorshd/index.m3u8
+http://172.16.29.3:8090/hls/colorshd.m3u8
 
 
 
