@@ -7,10 +7,10 @@ http://103.175.242.10:8080/starjalsha/index.m3u8
 
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 3
-http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
+#http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 4
-http://172.16.29.2:8080/hls/sjolshahd.m3u8
+#http://172.16.29.2:8080/hls/sjolshahd.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png" ,Enterr 10 Bangla
