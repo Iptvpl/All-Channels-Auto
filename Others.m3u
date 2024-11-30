@@ -100,5 +100,8 @@ http://172.16.29.34/ontest1/ontest1/312.m3u8
 #EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo-thumbnail.png" ,Nat Geo Wild
 http://172.16.29.34/ontest1/ontest1/314.m3u8
 
-#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282016%29/ABHIMAAN%20%282016%29%201080p/a_AL_.jpg" ,Abhimaan (2016)
-http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282016%29/ABHIMAAN%20%282016%29%201080p/ABHIMAAN%20%282016%29%20Bengali%201080p%20WEBRip%20x265%20HEVC%2010bit%20AAC%20-MARC.mkv
+#EXTINF:-1, tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282005%29/Herbie%20Fully%20Loaded%20%282005%29%20720p%20WEBRip/a_AL_.jpg" , Herbie Fully Loaded (2005) 
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282005%29/Herbie%20Fully%20Loaded%20%282005%29%20720p%20WEBRip/Herbie%20Fully%20Loaded%202005%20720p%20WEB-DL%20x264%20AAC-KiNGDOM.mp4
+
+#EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024%29/Lucky%20Baskhar%20%282024%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" , Lucky Baskhar (2024) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024%29/Lucky%20Baskhar%20%282024%29%201080p%20%5BDual%20Audio%5D/Lucky%20Baskhar%20%282024%29%20UNCUT%201080p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-mkvC.mkv
