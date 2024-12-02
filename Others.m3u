@@ -5,8 +5,7 @@ https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u
 #Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
-#https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
-http://172.16.29.2:8080/hls/cibd.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=yZNuzv195GS4hMdTeebBbg&expires=1733341878&user=811838a63b224e85b02b925b31d0fece
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" ,একুশে TV
@@ -75,35 +74,21 @@ https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G Tv
-#http://172.16.29.34/ontest1/ontest1/233.m3u8
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=rMTt4xQaahHPnDOM2DlypQ&expires=1732750715&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=66BzjWDugf5kvWyzonTmLQ&expires=1733341923&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" ,Asian TV
-#https://app.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=xNBBbqiEEMzME8lPAeBlYg&expires=1732750722&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=52yaL2hurEcH9AbgD3a39g&expires=1733341902&user=811838a63b224e85b02b925b31d0fece
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=fAo9yvli2IegYAkGy851ew&expires=1732750753&user=811838a63b224e85b02b925b31d0fece
-#https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
-#http://172.16.29.34/ontest1/ontest1/238.m3u8
-#http://172.16.29.3:8080/hls/jamunatv.m3u8
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=_X2sD07ToYlw8qHaSZF5Lg&expires=1733341936&user=811838a63b224e85b02b925b31d0fece
 
 
 
 #Indian Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" ,Zee বাংলা
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=G0KpGpoafIugQ9fazI_AvA&expires=1732750762&user=811838a63b224e85b02b925b31d0fece
-
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা HD
-http://172.16.29.34/ontest1/ontest1/271.m3u8
-#http://stvlive.net:8080/zeebangla/index.m3u8
-#http://xsmarters.top:8080/live/0966717777/0966717777/245893.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা 2
-#http://172.16.29.2:8080/hls/zeebanglahd.m3u8
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=9mIVnFXYW_du9KF2H63FSg&expires=1733341955&user=811838a63b224e85b02b925b31d0fece
 
 **************************************************************************************************************************************************************************************************
 
