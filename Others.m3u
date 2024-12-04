@@ -5,7 +5,7 @@ https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u
 #Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=yZNuzv195GS4hMdTeebBbg&expires=1733341878&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=wvfGCYIy-vzdqQf2525moQ&expires=1733530962&user=d477246e9e724f81a011b847457e71c4
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" ,একুশে TV
@@ -27,7 +27,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://app.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",নবান্ন TV
-https://app.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",বিজয় TV
 https://app.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
@@ -35,7 +35,8 @@ https://app.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",দেশ TV
 #http://172.16.29.34/ontest1/ontest1/219.m3u8
-https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=QRiNPE2UgNnDRiaXYkDBnQ&expires=1733531038&user=d477246e9e724f81a011b847457e71c4
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" ,বৈশাখী TV
@@ -74,23 +75,25 @@ https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G Tv
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=66BzjWDugf5kvWyzonTmLQ&expires=1733341923&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1733530937&md5=jaLYr4v-hJJZiNJjdIXpNQ&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" ,Asian TV
 https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=52yaL2hurEcH9AbgD3a39g&expires=1733341902&user=811838a63b224e85b02b925b31d0fece
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=_X2sD07ToYlw8qHaSZF5Lg&expires=1733341936&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=JkaJ1xiZCkO9w3JGye6eQg&expires=1733530919&user=d477246e9e724f81a011b847457e71c4
 
 
 
 #Indian Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" ,Zee বাংলা
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=9mIVnFXYW_du9KF2H63FSg&expires=1733341955&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=oGwSGm5kztG_GKdx3EzHqw&expires=1733530899&user=d477246e9e724f81a011b847457e71c4
 
 **************************************************************************************************************************************************************************************************
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা HD
+http://172.16.29.34/ontest1/ontest1/271.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 1
 #https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
