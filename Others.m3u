@@ -5,7 +5,7 @@ https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u
 #Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
-https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8?expires=1733704510&md5=6TakpUGkg6RDpEJw_OSjLQ&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=c0q3LY_freLNsyzLuYYj9Q&expires=1733863175&user=d477246e9e724f81a011b847457e71c4
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" ,একুশে TV
@@ -90,7 +90,7 @@ https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=94c1srsNu4yVo
 #Indian Bangla
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" ,Zee বাংলা
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=oGwSGm5kztG_GKdx3EzHqw&expires=1733530899&user=d477246e9e724f81a011b847457e71c4
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=BhjkxX4vTJ6xSkfMMf_MBw&expires=1733863197&user=d477246e9e724f81a011b847457e71c4
 
 **************************************************************************************************************************************************************************************************
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png" ,Zee বাংলা HD
@@ -176,7 +176,7 @@ http://119.156.26.155:8000/play/a05u/index.m3u8
 #Documentary
 
 #EXTINF:-1, tvg-id="http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/164.m3u8" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" ,Discovery HD
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/164.m3u8
 #https://freeott.site/discovery/Discovery_Channel.m3u8
 #https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
@@ -185,7 +185,7 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1, tvg-id="animalplanet.in" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" ,Animal Planet
 #https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+#https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 #https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_14.m3u8
 #https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
 
