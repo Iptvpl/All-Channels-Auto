@@ -5,7 +5,7 @@ https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u
 ################################################################################################ Bangla #########################################################################################################
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=9K9WE2N2nQalXU0Z79ghtA&expires=1734170849&user=811838a63b224e85b02b925b31d0fece
+https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" ,একুশে TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -32,7 +32,7 @@ https://app.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" ,বৈশাখী TV
 #https://app.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png" ,দীপ্ত TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/800px-Logo_of_Deepto_TV.svg.png" ,দীপ্ত TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" ,মাছরাঙা TV
@@ -58,24 +58,25 @@ https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"  ,DBC News
-#https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
-http://172.16.29.34/ontest1/ontest1/213.m3u8
+https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
+#http://172.16.29.34/ontest1/ontest1/213.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24
 https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=4qUnnyee9CIg9rzrh2SQRQ&expires=1734171018&user=811838a63b224e85b02b925b31d0fece
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,G Tv
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1920px-Logo_of_GTV_%28Bangladesh%29.svg.png" ,G Tv
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=uKjvVounRvD6xaGDQYNVuw&expires=1734170986&user=811838a63b224e85b02b925b31d0fece
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",দেশ TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=G2ZJOPkwD_K2NX9zVRzrgQ&expires=1734170961&user=811838a63b224e85b02b925b31d0fece
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",দেশ TV
+https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" ,Asian TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=DQHUR8tiJIq-CwRfHvZgmw&expires=1734170872&user=811838a63b224e85b02b925b31d0fece
+https://app.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=X6NyKgaXb-Ecm3rL7F66lg&expires=1734171002&user=811838a63b224e85b02b925b31d0fece
+#https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+http://172.16.29.2:8090/hls/jamunatv.m3u8
 
 
 
@@ -92,6 +93,7 @@ http://172.16.29.34/ontest1/ontest1/389.m3u8
 
 #EXTINF:-1, tvg-id="starjalshahd.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 2
 http://103.175.242.10:8080/starjalsha/index.m3u8
+#http://172.16.29.2:8090/hls/starjalshahd.m3u8
 
 
 #EXTINF:-1, tvg-id="colorsbanglahd.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png" ,Colors বাংলা HD
@@ -144,18 +146,14 @@ http://172.16.29.34/ontest1/ontest1/399.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney
-#http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
-http://119.156.26.155:8000/play/a05u/index.m3u8
+#http://119.156.26.155:8000/play/a05u/index.m3u8
 
 
 
 ################################################################################################## Documentary ############################################################################################################
 
 #EXTINF:-1, tvg-id="http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/164.m3u8" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" ,Discovery HD
-#https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/164.m3u8
-#https://freeott.site/discovery/Discovery_Channel.m3u8
-#https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
+http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
 
 
 #EXTINF:-1, tvg-id="animalplanet.in" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" ,Animal Planet
