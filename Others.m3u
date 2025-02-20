@@ -62,10 +62,10 @@ https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 #http://172.16.29.34/ontest1/ontest1/213.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=4qUnnyee9CIg9rzrh2SQRQ&expires=1734171018&user=811838a63b224e85b02b925b31d0fece
+
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1920px-Logo_of_GTV_%28Bangladesh%29.svg.png" ,G Tv
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=uKjvVounRvD6xaGDQYNVuw&expires=1734170986&user=811838a63b224e85b02b925b31d0fece
+https://s1.thenayeemparvez.xyz/mpur-xx/master.m3u8?id=58015
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",দেশ TV
 https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
