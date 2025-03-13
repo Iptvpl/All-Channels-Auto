@@ -52,20 +52,22 @@ https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png", Ekattor HD
-https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
+http://tv.basnetbd.com:8080/roarzone/bk/12/index.fmp4.m3u8?token=061d89379fe8e1081090a04574b182760de68337-1574e2906ad4f91075761a9544ad2e82-1741883844-1741873044
 
 #EXTINF:-1 tvg-id="36" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png", Channel 24 HD
-https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+http://tv.basnetbd.com:8080/roarzone/bk/5/index.fmp4.m3u8?token=d0a5a46a1abd9123553f09fde5e5eb4f3da7cbf2-b62365518467c009a27d24ebc0eee07f-1741883736-1741872936
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"  ,DBC News
-https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
-#http://172.16.29.34/ontest1/ontest1/213.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC News
+#https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
+http://172.16.29.34/ontest1/ontest1/213.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24
-
+http://tv.basnetbd.com:8080/roarzone/bk/18/index.fmp4.m3u8?token=97a1436cd10d85eb823823ed8164500a7fadffde-e3205ddaf0ccd3776263a7be599f47b7-1741883636-1741872836
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1920px-Logo_of_GTV_%28Bangladesh%29.svg.png" ,G Tv
-https://s1.thenayeemparvez.xyz/mpur-xx/master.m3u8?id=58015
+http://cdn.ihub.live:8082/GTV/tracks-v1a1/mono.m3u8?token=dee8f93f3ada9e73cfea6a35390ea0e00d2d7d93-8f857dc9fcab3f27cc63fea37d65c668-1741883486-1741872686
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",দেশ TV
 https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
