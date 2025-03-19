@@ -5,32 +5,66 @@ https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u
 ################################################################################################ Bangla #########################################################################################################
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
-https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+https://aynaxpranto.vercel.app/api/stream/20714fd4-dc3c-46d6-924f-3038d61f027c.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://s3.aynaott.com/storage/3796fc1aca68618c57d39685a2762f94", NTV
+https://aynaxpranto.vercel.app/api/stream/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://s3.aynaott.com/storage/ec81d49a4356db94d1bf54d0ab3ee504", RTV
+https://aynaxpranto.vercel.app/api/stream/70e97db9-5a9e-4642-874e-af3d30ba9925.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://s3.aynaott.com/storage/85e20cee815e7ee532133ad7ae4ac571", ATN Bangla
+https://aynaxpranto.vercel.app/api/stream/9046949b-9847-4b5d-96c1-e82b0734444b.m3u8
+
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://s3.aynaott.com/storage/001f807e38f94ec504622c0e8358c008", ATN News
+https://aynaxpranto.vercel.app/api/stream/a0a29f90-f7c2-4cc2-b0b4-667253585b84.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://s3.aynaott.com/storage/2ea72603615c5a81e098d12342ddc3b4", Channel 9
+https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-logo="https://s3.aynaott.com/storage/feb62086aa403c6f3463762e25ba82a5", Global TV
+https://aynaxpranto.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-logo="https://s3.aynaott.com/storage/9e279836b9a059fdbb812eee8bccd4e8", NEXUS TV
+https://aynaxpranto.vercel.app/api/stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-logo="https://s3.aynaott.com/storage/63df5e0bad98bac21d24e6f3f50d2891", Bangla TV
+https://aynaxpranto.vercel.app/api/stream/addb7014-1d2e-41d8-982d-7cafbdc48770.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-logo="https://s3.aynaott.com/storage/7be5b99c1df304d14cfec95e8d69b0c2", Mohona TV
+https://aynaxpranto.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" ,একুশে TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" ,বাংলা Vision
-https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
+https://aynaxpranto.vercel.app/api/stream/21e75798-3b6a-4214-9d93-b3fecaa4e700.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png" ,My TV
-https://app.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
+https://aynaxpranto.vercel.app/api/stream/c0480a4a-f066-4a20-9f7d-73bbd852260f.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png",মুভি বাংলা
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/HRjXQdYEqsE.png" ,আনন্দ TV
-https://app.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
+https://aynaxpranto.vercel.app/api/stream/a108c4e9-ccfa-42f2-8f8f-169ded28cca2.m3u8
 
 #EXTINF:-1 tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",নবান্ন TV
 #https://app.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",বিজয় TV
-https://app.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
+https://aynaxpranto.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" ,বৈশাখী TV
 #https://app.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
+https://aynaxpranto.vercel.app/api/stream/92890d5c-473a-454c-ad10-2c6c0c91062a.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/800px-Logo_of_Deepto_TV.svg.png" ,দীপ্ত TV
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
@@ -39,47 +73,59 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.shongjog.org.bd/contentAsset/image/1bf05063-e2e9-4ad8-bf3d-8254a232cfdc/logo/byInode/1/filter/Resize,Jpeg/jpeg_q/80/resize_w/400" ,SA TV
-https://app.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
+https://aynaxpranto.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,এখন TV
-https://app.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 #http://172.16.29.34/ontest1/ontest1/221.m3u8
+https://aynaxpranto.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926324363.png", Somoy TV
-https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8 
+#https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8 
+https://aynaxpranto.vercel.app/api/stream/27ec4394-7640-4dab-abf8-6a48893dfdfe.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719846556679.png", Independent TV
-https://app.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
+https://aynaxpranto.vercel.app/api/stream/22f28ae5-8c15-4904-b9f6-70bbd94cbc43.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png", Ekattor HD
 #https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
-http://tv.basnetbd.com:8080/roarzone/bk/12/index.fmp4.m3u8?token=061d89379fe8e1081090a04574b182760de68337-1574e2906ad4f91075761a9544ad2e82-1741883844-1741873044
+https://aynaxpranto.vercel.app/api/stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108.m3u8
+
 
 #EXTINF:-1 tvg-id="36" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png", Channel 24 HD
 #https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
-http://tv.basnetbd.com:8080/roarzone/bk/5/index.fmp4.m3u8?token=d0a5a46a1abd9123553f09fde5e5eb4f3da7cbf2-b62365518467c009a27d24ebc0eee07f-1741883736-1741872936
+https://aynaxpranto.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC News
 #https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
-http://172.16.29.34/ontest1/ontest1/213.m3u8
+#http://172.16.29.34/ontest1/ontest1/213.m3u8
+https://aynaxpranto.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24
-http://tv.basnetbd.com:8080/roarzone/bk/18/index.fmp4.m3u8?token=97a1436cd10d85eb823823ed8164500a7fadffde-e3205ddaf0ccd3776263a7be599f47b7-1741883636-1741872836
+https://aynaxpranto.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1920px-Logo_of_GTV_%28Bangladesh%29.svg.png" ,G Tv
-http://cdn.ihub.live:8082/GTV/tracks-v1a1/mono.m3u8?token=dee8f93f3ada9e73cfea6a35390ea0e00d2d7d93-8f857dc9fcab3f27cc63fea37d65c668-1741883486-1741872686
+https://aynaxpranto.vercel.app/api/stream/b1808fb2-8892-49dc-965e-d038e5334995.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://s3.aynaott.com/storage/80dd1b2e3f8a679d1ffb4e0de28da68c", T Sports HD
+https://aynaxpranto.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",দেশ TV
-https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
+https://aynaxpranto.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" ,Asian TV
-https://app.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+#https://app.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+https://aynaxpranto.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
 #https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #http://172.16.29.2:8090/hls/jamunatv.m3u8
-http://cdn.ihub.live:8082/Jamuna/tracks-v1a1/mono.m3u8?token=f6afd56230b400ff2ec937f51ddaed54fa1bcb24-2eb80610e54aa73bb8af2d0a99c5082d-1741882549-1741871749
+https://aynaxpranto.vercel.app/api/stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa.m3u8
+
 
 **************************************************************************************************** Indian Bangla *****************************************************************************************************
 
