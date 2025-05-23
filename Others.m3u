@@ -176,10 +176,10 @@ http://172.16.29.34/ontest1/ontest1/387.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
 #http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/160.m3u8
-#http://172.16.29.34/ontest1/ontest1/294.m3u8
+http://172.16.29.34/ontest1/ontest1/294.m3u8
 #http://172.16.29.2:8080/hls/colorsbhd.m3u8
 #http://stvlive.net:8080/colorshd/index.m3u8
-http://172.16.29.3:8090/hls/colorshd.m3u8
+#http://172.16.29.3:8090/hls/colorshd.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies HD
