@@ -183,7 +183,7 @@ http://172.16.29.34/ontest1/ontest1/386.m3u8
 #http://www.luckonline.eu:80/live/restream234509023/5667883dhlkths89/3528.m3u8
 http://watchindia.net:8880/live/49387/51659/2290.ts
 
-#EXTINF:-1, tvg-logo="www.enterr10tv.in/wp-content/uploads/elementor/thumbs/E10-Bangla--pd5yi03meg03ci42b83a9wml7cyy60ze6xplsskwzk.jpg" ,Enterr 10 Bangla
+#EXTINF:-1, tvg-logo="https://enterr10tv.in/wp-content/uploads/elementor/thumbs/E10-Bangla--pd5yi03meg03ci42b83a9wml7cyy60ze6xplsskwzk.jpg" ,Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/playlist.m3u8
 #http://172.16.29.2:8080/hls/Enter10Bangla.m3u8
 
