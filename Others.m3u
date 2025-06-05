@@ -235,7 +235,7 @@ http://172.16.29.34/ontest1/ontest1/399.m3u8
 ################################################################################################## Documentary ############################################################################################################
 
 #EXTINF:-1, tvg-id="http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/164.m3u8" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" ,Discovery HD
-http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
+http://172.16.29.34/ontest1/ontest1/296.m3u8
 
 
 #EXTINF:-1, tvg-id="animalplanet.in" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" ,Animal Planet
