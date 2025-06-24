@@ -11,7 +11,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png", CNN
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750297799:KeyName=prod_linear:Signature=TDBMq5Xc03aTvlgHIbGzOJRfXo1Ci6MBkMVPtER7RMKYwBr6xRLqsXpDCYdHaDC_ojg5k5EC7ww-uWB62kirBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750950666:KeyName=prod_linear:Signature=9QZmt3VJSOWryK1KmzpEzrou5C7acHKcUsDwENYigtyi6P2v1rk7THzyq0r3ij0G1iJRhQv-q9E3KXdXA1xhBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
 
 
