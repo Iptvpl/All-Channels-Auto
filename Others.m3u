@@ -9,6 +9,12 @@ https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750950666:KeyName=prod_linear:Signature=9QZmt3VJSOWryK1KmzpEzrou5C7acHKcUsDwENYigtyi6P2v1rk7THzyq0r3ij0G1iJRhQv-q9E3KXdXA1xhBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-chno="" tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery SD
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1750950666:KeyName=prod_linear:Signature=9QZmt3VJSOWryK1KmzpEzrou5C7acHKcUsDwENYigtyi6P2v1rk7THzyq0r3ij0G1iJRhQv-q9E3KXdXA1xhBw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
+
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 #https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
