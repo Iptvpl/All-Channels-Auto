@@ -168,7 +168,7 @@ https://tvsen6.aynaott.com/jamunatv/index.m3u8
 http://172.16.29.34/ontest1/ontest1/271.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/97/Zee_Bangla_HD_%282025%29.png" ,Zee বাংলা
-https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 1
 http://172.16.29.34/ontest1/ontest1/389.m3u8
