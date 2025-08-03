@@ -202,7 +202,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/playlist.
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
 #EXTINF:-1 tvg-name="Colors Bangla Cinema HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c6/Colors_Bangla_Cinema_logo_%282019-2023%29.png" group-title="Movie Channel",Colors বাংলা Cinema
-http://tv.bdiptv.store:80/live/restreax/refstream/238.m3u8
+#http://tv.bdiptv.store:80/live/restreax/refstream/238.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png" ,তারা বাংলা সিনেমা
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
@@ -250,10 +250,10 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 
 #EXTINF:-1, tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" ,Discovery HD
 #http://172.16.29.34/ontest1/ontest1/296.m3u8
-http://kst.moonplex.net:8080/CH9/index.m3u8
+#http://kst.moonplex.net:8080/CH9/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" ,Animal Planet
-http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
+#http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 
 #EXTINF:-1  tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
@@ -270,7 +270,7 @@ http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 ****************************************************************************************************Sports******************************************************************************************************************
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1920px-T_Sports_logo.svg.png" ,T Sports
-http://tv.bdiptv.store:80/live/restreax/refstream/218.m3u8
+#http://tv.bdiptv.store:80/live/restreax/refstream/218.m3u8
 
 
 ******************************************************************************************************* Movies *************************************************************************************************************
