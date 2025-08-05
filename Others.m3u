@@ -157,11 +157,11 @@ https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.m3u8
 #http://astv.life:8080/live/anil@123/anil@123/520141.ts
 #http://tv.bdiptv.store:80/live/restreax/refstream/52.m3u8
 #http://watchindia.net:8880/live/54355/61270/2281.ts
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/250px-Colors_Bangla.png" ,Colors বাংলা HD
 #http://172.16.29.34/ontest1/ontest1/386.m3u8
 https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
-
 
 #EXTINF:-1, tvg-logo="https://sund-images.sunnxt.com/194388/640x360_SunBangla_194388_b760b8e6-4fcf-47fa-bad6-89562159ca76.jpg" ,Sun বাংলা
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/126098
@@ -186,6 +186,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://img.favpng.com/3/9/17/jalsha-movies-star-jalsha-television-show-star-india-png-favpng-QWhFvhFQF6D5mQPT8e8pPuHqb.jpg" ,জলসা Movies
 #http://172.16.29.34/ontest1/ontest1/387.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png", Sangeet Bangla
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
@@ -246,6 +247,12 @@ http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 #https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/tsportsfhd/index.m3u8
 #https://tvsen5.aynaott.com/tsports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Star_Sports_Network_logo.png", Star Sports 1
+https://starsportshindiii.pages.dev/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", Ptv Sports
+https://live.incableinternet.com/v/QCZ86p6-0oo_0.m3u8
 
 ******************************************************************************************************* Movies *************************************************************************************************************
 
