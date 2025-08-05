@@ -153,7 +153,7 @@ https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
 #http://172.16.29.34/ontest1/ontest1/389.m3u8
 https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 2
+#EXTINF:-1, tvg-logo="http://10.99.99.99/assets/images/STAR JALSHA HD1745033819.png" ,Star জলসা 2
 #http://kst.moonplex.net:8080/CH3/index.m3u8
 #http://astv.life:8080/live/anil@123/anil@123/520141.ts
 #http://tv.bdiptv.store:80/live/restreax/refstream/52.m3u8
