@@ -147,11 +147,10 @@ https://tvsen6.aynaott.com/jamunatv/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png" ,Zee বাংলা HD
 #http://172.16.29.34/ontest1/ontest1/271.m3u8
 #http://watchindia.net:8880/live/54355/61270/2283.ts
-https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1754394590&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=f56e88052002d4a975d6c746a58fc0d9
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 1
 #http://172.16.29.34/ontest1/ontest1/389.m3u8
-https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 2
 #http://kst.moonplex.net:8080/CH3/index.m3u8
