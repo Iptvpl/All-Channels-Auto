@@ -147,6 +147,7 @@ https://tvsen6.aynaott.com/jamunatv/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png" ,Zee বাংলা HD
 #http://172.16.29.34/ontest1/ontest1/271.m3u8
 #http://watchindia.net:8880/live/54355/61270/2283.ts
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 1
 #http://172.16.29.34/ontest1/ontest1/389.m3u8
@@ -165,8 +166,9 @@ https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, tvg-logo="https://sund-images.sunnxt.com/194388/640x360_SunBangla_194388_b760b8e6-4fcf-47fa-bad6-89562159ca76.jpg" ,Sun বাংলা
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/126098
-http://watchindia.net:8880/live/49387/51659/2290.ts
+#http://watchindia.net:8880/live/49387/51659/2290.ts
 #http://tv.bdiptv.store:80/live/restreax/refstream/143.m3u8
+https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ee/enterr-10-bangla-in.png" ,Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/playlist.m3u8
@@ -179,7 +181,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/playlist.
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
 #EXTINF:-1, tvg-name="Colors Bangla Cinema HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c6/Colors_Bangla_Cinema_logo_%282019-2023%29.png" group-title="Movie Channel",Colors বাংলা Cinema
-#http://tv.bdiptv.store:80/live/restreax/refstream/238.m3u8
+#http://tv.bdiptv.store:80/live/restreax/refstream/238.m3u8\
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png" ,তারা বাংলা সিনেমা
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
@@ -203,6 +206,7 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies HD
 #http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 #http://172.16.29.34/ontest1/ontest1/390.m3u8
+https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png",Star Movies Select HD
 #http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
