@@ -180,6 +180,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/playlist.
 #http://172.16.29.34/ontest1/ontest1/401.m3u8
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
+#EXTINF:-1, tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" ,Zee বাংলা Cinema 1
+http://10.99.99.99:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=53cb4bdf26c7f0f9ea60f2cf29d36115546aae95-29aecf2ea67736785742a8ccbbffe263-1754398976-1754388176&remote=no_check_ip
+
 #EXTINF:-1, tvg-name="Colors Bangla Cinema HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c6/Colors_Bangla_Cinema_logo_%282019-2023%29.png" group-title="Movie Channel",Colors বাংলা Cinema
 #http://tv.bdiptv.store:80/live/restreax/refstream/238.m3u8
 
