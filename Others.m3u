@@ -1,7 +1,8 @@
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1732695711:KeyName=prod_linear:Signature=wyxcP4KvnrlUU4iNFe6VCt9oscyVj-9s9Tu8IL8NyRzJ-Xs3swhqATvUWfjJad1iXwfWiXG_RzRLdwh_u3X0Bg"}
 https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/refs/heads/main/toffee_OTT_Navigator.m3u
 https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u
-http://10.99.99.99/m3u.php
+Basnet: http://10.99.99.99/m3u.php
+Ott Bangla: https://ottbangla-by-xfireflix.pages.dev/playlist.m3u
 
 ################################################################################################ Bangla #########################################################################################################
 
@@ -181,7 +182,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/playlist.
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
 #EXTINF:-1, tvg-name="Colors Bangla Cinema HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c6/Colors_Bangla_Cinema_logo_%282019-2023%29.png" group-title="Movie Channel",Colors বাংলা Cinema
-#http://tv.bdiptv.store:80/live/restreax/refstream/238.m3u8\
+#http://tv.bdiptv.store:80/live/restreax/refstream/238.m3u8
+http://tv.bdiptv.store/live/restreauu/refstream/238.m3u8
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png" ,তারা বাংলা সিনেমা
