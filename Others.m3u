@@ -183,7 +183,7 @@ http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
 #EXTINF:-1, tvg-name="Colors Bangla Cinema HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c6/Colors_Bangla_Cinema_logo_%282019-2023%29.png" group-title="Movie Channel",Colors বাংলা Cinema
 #http://tv.bdiptv.store:80/live/restreax/refstream/238.m3u8
-http://tv.bdiptv.store/live/restreauu/refstream/238.m3u8
+#http://tv.bdiptv.store/live/restreauu/refstream/238.m3u8
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png" ,তারা বাংলা সিনেমা
@@ -208,7 +208,7 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies HD
 #http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 #http://172.16.29.34/ontest1/ontest1/390.m3u8
-https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8
+#https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png",Star Movies Select HD
 #http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
@@ -234,7 +234,7 @@ http://tv.bdiptv.store:80/live/restreauu/refstream/71.m3u8
 https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" ,Animal Planet
-http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
+#http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 
 #EXTINF:-1,  tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
@@ -255,7 +255,6 @@ https://tvsen6.aynaott.com/tsportsfhd/index.m3u8
 #https://tvsen5.aynaott.com/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Star_Sports_Network_logo.png", Star Sports 1
-https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", Ptv Sports
 https://live.incableinternet.com/v/QCZ86p6-0oo_0.m3u8
