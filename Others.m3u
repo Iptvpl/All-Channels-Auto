@@ -298,7 +298,7 @@ http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 
 #EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo-thumbnail.png" ,Nat Geo Wild
 #http://172.16.29.34/ontest1/ontest1/314.m3u8
-#https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",BBC Earth
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
