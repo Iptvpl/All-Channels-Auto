@@ -89,7 +89,7 @@ https://tvsen5.aynaott.com/DeeptoTVHD/index.fmp4.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" ,মাছরাঙা TV
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",দেশ TV
@@ -102,7 +102,7 @@ https://tvsen6.aynaott.com/deshtv/index.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 https://tvsen6.aynaott.com/asiantv/index.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.shongjog.org.bd/contentAsset/image/1bf05063-e2e9-4ad8-bf3d-8254a232cfdc/logo/byInode/1/filter/Resize,Jpeg/jpeg_q/80/resize_w/400" ,SA TV
+#EXTINF:-1, tvg-logo="https://aibd.org.my/wordpress/wp-content/uploads/2013/06/satv.png" ,SA TV
 #https://app.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 https://tvsen6.aynaott.com/satv/index.m3u8
@@ -175,7 +175,7 @@ https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 
-#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" ,Sony Aath
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" ,Sony Aath
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 
@@ -217,7 +217,7 @@ https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" ,Star Gold Select HD
 http://182.176.185.207:7500/play/a06p/index.m3u8
 
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony MAX HD
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony MAX HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",Sony MAX
@@ -228,10 +228,10 @@ https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 #http://172.16.29.34/ontest1/ontest1/294.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
 
-#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" ,Sony HD
+#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" ,Sony HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" ,Sony SAB HD
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" ,Sony SAB HD
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies HD
@@ -243,7 +243,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 #http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
 #http://172.16.29.34/ontest1/ontest1/342.m3u8
 
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" ,Sony PIX HD
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" ,Sony PIX HD
 #http://195.181.169.162/SONY_PIX_HD/index.m3u8?token=test
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
@@ -267,7 +267,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" ,Nick Bangla
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 
-#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" ,Sony Yay
+#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" ,Sony Yay
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 #EXTINF:-1 tvg-id="pogohindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/pogohindi.png" ,Pogo Hindi
@@ -278,12 +278,12 @@ https://live.dinesh29.com.np/stream/jiotvplus/sonichindi/master.m3u8
 
 ################################################################################################## Documentary ############################################################################################################
 
-#EXTINF:-1, tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" ,Discovery HD
+#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/213/748/png-transparent-discovery-channel-hd-logo.png" ,Discovery HD
 #http://172.16.29.34/ontest1/ontest1/296.m3u8
 #http://kst.moonplex.net:8080/CH9/index.m3u8
 https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" ,Animal Planet
+#EXTINF:-1, tvg-logo="https://standfirst-designweek-production.imgix.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" ,Animal Planet
 #http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 https://live.dinesh29.com.np/stream/jiotv/animalplanethindi/master.m3u8
 #https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
@@ -302,7 +302,7 @@ http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 #http://172.16.29.34/ontest1/ontest1/314.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",BBC Earth
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 ****************************************************************************************************Sports******************************************************************************************************************
