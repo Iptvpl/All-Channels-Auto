@@ -138,7 +138,7 @@ https://tvsen6.aynaott.com/dbcnews/index.m3u8
 #EXTINF:-1, tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24
 https://tvsen6.aynaott.com/news24/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV 1
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_CJ9T8GGnghENxFM8H1ye-KwOMloe8HbibwQjUA=s900-c-k-c0x00ffffff-no-rj" ,যমুনা TV
 #http://172.16.29.34/ontest1/ontest1/238.m3u8
 https://tvsen6.aynaott.com/jamunatv/index.m3u8
 
@@ -289,14 +289,14 @@ https://live.dinesh29.com.np/stream/jiotv/animalplanethindi/master.m3u8
 #EXTINF:-1,  tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=1000&h=563&crop=1" ,Nat Geo
+#EXTINF:-1, tvg-logo="http://10.99.99.99/assets/images/NATGEO HD1745038634.png" ,Nat Geo
 #http://172.16.29.34/ontest1/ontest1/312.m3u8
 #http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 #Https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographic/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo-thumbnail.png" ,Nat Geo Wild
+#EXTINF:-1, tvg-logo="http://10.99.99.99/assets/images/NATGEO HD1745038634.png" ,Nat Geo Wild
 #http://172.16.29.34/ontest1/ontest1/314.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 
