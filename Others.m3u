@@ -257,10 +257,8 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #http://172.16.29.34/ontest1/ontest1/399.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney Channel
 #http://tv.bdiptv.store:80/live/restreauu/refstream/71.m3u8
-
-#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
 https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 
 
