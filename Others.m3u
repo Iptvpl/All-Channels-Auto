@@ -5,8 +5,6 @@ Basnet: http://10.99.99.99/m3u.php
 Ott Bangla: https://ottbangla-by-xfireflix.pages.dev/playlist.m3u
 
 ################################################################################################ Bangla #########################################################################################################
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_of_ATN_Bangla.svg/1024px-Logo_of_ATN_Bangla.svg.png", BAS
-http://10.99.99.99:8082/ATN.BANGLA.HD/index.m3u8?token=efb3bd954634fd451b794ffa90cfd28b5d8546bb-91bf351281a164742d8632b5f0f8d02e-1754854629-1754843829&remote=no_check_ip
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 #https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
@@ -151,6 +149,7 @@ https://tvsen6.aynaott.com/jamunatv/index.m3u8
 #http://watchindia.net:8880/live/54355/61270/2283.ts
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png" ,Zee বাংলা HD 2
 https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
 
@@ -163,6 +162,7 @@ https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.m3u8
 #http://astv.life:8080/live/anil@123/anil@123/520141.ts
 #http://tv.bdiptv.store:80/live/restreax/refstream/52.m3u8
 #http://watchindia.net:8880/live/54355/61270/2281.ts
+https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/stream_0.m3u8?uid=3262042068
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
 
@@ -203,6 +203,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://img.favpng.com/3/9/17/jalsha-movies-star-jalsha-television-show-star-india-png-favpng-QWhFvhFQF6D5mQPT8e8pPuHqb.jpg" ,জলসা Movies
 #http://172.16.29.34/ontest1/ontest1/387.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/stream_0.m3u8?uid=1590919324
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
 
@@ -293,11 +294,18 @@ https://live.dinesh29.com.np/stream/jiotv/animalplanethindi/master.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-1, tvg-logo="http://10.99.99.99/assets/images/NATGEO HD1745038634.png" ,Nat Geo
-#http://172.16.29.34/ontest1/ontest1/312.m3u8
 #http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
-http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
-#Https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
+#http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
+#https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographic/master.m3u8
+#https://os.mxonlive.workers.dev/azers/277422.m3u8
+#https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, tvg-logo="http://10.99.99.99/assets/images/NATGEO HD1745038634.png" ,Nat Geo T
+https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, tvg-logo="http://10.99.99.99/assets/images/NATGEO HD1745038634.png" ,Nat Geo OS
+https://os.mxonlive.workers.dev/azers/277422.m3u8
 
 #EXTINF:-1, tvg-logo="http://10.99.99.99/assets/images/NATGEO HD1745038634.png" ,Nat Geo Wild
 #http://172.16.29.34/ontest1/ontest1/314.m3u8
