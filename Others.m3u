@@ -145,13 +145,13 @@ https://tvsen6.aynaott.com/jamunatv/index.m3u8
 
 **************************************************************************************************** Indian Bangla *****************************************************************************************************
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png" ,Zee বাংলা HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png" ,Zee বাংলা HD 1
 #http://172.16.29.34/ontest1/ontest1/271.m3u8
 #http://watchindia.net:8880/live/54355/61270/2283.ts
 #https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 http://10.99.99.99:8082/ZEE.BANGLA.HD/tracks-v1a1/mono.m3u8?token=7a8649c3ac814a86474f194b071c70157c58aeb9-1a642b35d9117e5874e90d7cdbbc700f-1754850977-1754840177
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png" ,Zee বাংলা
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png" ,Zee বাংলা HD 2
 https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" ,Star জলসা 1
