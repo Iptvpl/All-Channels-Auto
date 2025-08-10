@@ -5,6 +5,8 @@ Basnet: http://10.99.99.99/m3u.php
 Ott Bangla: https://ottbangla-by-xfireflix.pages.dev/playlist.m3u
 
 ################################################################################################ Bangla #########################################################################################################
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_of_ATN_Bangla.svg/1024px-Logo_of_ATN_Bangla.svg.png", BAS
+http://10.99.99.99:8082/ATN.BANGLA.HD/index.m3u8?token=efb3bd954634fd451b794ffa90cfd28b5d8546bb-91bf351281a164742d8632b5f0f8d02e-1754854629-1754843829&remote=no_check_ip
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
 #https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
@@ -23,7 +25,7 @@ https://tvsen6.aynaott.com/rtv/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_of_ATN_Bangla.svg/1024px-Logo_of_ATN_Bangla.svg.png", ATN Bangla
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
-
+http://10.99.99.99:8082/ATN.BANGLA.HD/index.m3u8?token=efb3bd954634fd451b794ffa90cfd28b5d8546bb-91bf351281a164742d8632b5f0f8d02e-1754854629-1754843829&remote=no_check_ip
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1024px-ATN_News_logo.svg.png", ATN News
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
