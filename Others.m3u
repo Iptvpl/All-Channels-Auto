@@ -152,7 +152,7 @@ https://os.mxonlive.workers.dev/azers/277431.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png" ,Zee বাংলা
-https://tv.bongoflix.top/play.php?id=1744706756376
+http://10.99.99.99/player.php?stream=14
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/250px-Zee_Bangla_logo.png" ,Zee বাংলা HD 2
 https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
