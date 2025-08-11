@@ -206,7 +206,6 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/stream_0.m3u8?uid=1590919324
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
-
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png", Sangeet Bangla
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
 
@@ -228,12 +227,10 @@ https://live.dinesh29.com.np/stream/jiotv/animalplanethindi/master.m3u8
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/54/34/23/54342336d81b185c5cb9ff6597120fb5.jpg" ,Nat Geo
 #http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 #http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
-https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographic/master.m3u8
 #https://os.mxonlive.workers.dev/azers/277422.m3u8
 #https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/54/34/23/54342336d81b185c5cb9ff6597120fb5.jpg" ,Nat Geo HD
 https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
 
 
