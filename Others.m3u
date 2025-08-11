@@ -301,6 +301,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 #https://os.mxonlive.workers.dev/azers/277422.m3u8
 #https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/54/34/23/54342336d81b185c5cb9ff6597120fb5.jpg" ,Nat Geo HD
+https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
+
+
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/87/23/f5/8723f5c5c7c88a766df5176e588deaf6.jpg" ,Nat Geo Wild
 #http://172.16.29.34/ontest1/ontest1/314.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
