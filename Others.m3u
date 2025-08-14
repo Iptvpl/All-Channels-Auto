@@ -7,6 +7,7 @@ Ott Bangla: https://ottbangla-by-xfireflix.pages.dev/playlist.m3u
 ################################################################################################ Bangla #########################################################################################################
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" ,Channel i
+#https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 https://tvsen6.aynaott.com/channeli/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1920px-NTV_%28Bangladesh%29_logo.svg.png", NTV
