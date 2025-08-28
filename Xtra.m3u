@@ -1,12 +1,12 @@
 **************************************************************************************************** Bangla ********************************************************************************************************************
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1920px-NTV_%28Bangladesh%29_logo.svg.png", NTV
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/4c/0f/8c/4c0f8cbe963c522e6a9d4546dfa8fcc3.jpg", NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1280px-Rtv_bangladesh.svg.png", RTV
 https://tvsen6.aynaott.com/rtv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png", Channel 9
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/8a/d5/8a/8ad58ab689707e38cf67fe2e427641b4.jpg", Channel 9
 https://tvsen6.aynaott.com/channel9/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png", Global TV
@@ -18,10 +18,10 @@ https://tvsen6.aynaott.com/nexustv/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1280px-Mohona_tv_Logo.svg.png", মোহনা TV
 https://tvsen6.aynaott.com/mohonatv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/800px-Ekushey_Television_Logo.svg.png" ,একুশে TV
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/736x/6f/bc/df/6fbcdf7cc13025c563ca9b067821e564.jpg" ,একুশে TV
 https://tvsen6.aynaott.com/etv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bangla_TV_logo.svg/1024px-Bangla_TV_logo.svg.png", বাংলা TV
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/fb/7f/9f/fb7f9fdb02968ce3b6be42c9d7de48a1.jpg", বাংলা TV
 https://tvsen6.aynaott.com/banglatv/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" ,বাংলা Vision
@@ -41,7 +41,7 @@ https://tvsen6.aynaott.com/anandatv/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",বিজয় TV
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" ,বৈশাখী TV
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/c2/7d/3c/c27d3ccae2ec6334083f522917d783da.jpg" ,বৈশাখী TV
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/800px-Logo_of_Deepto_TV.svg.png" ,দীপ্ত TV
@@ -56,7 +56,7 @@ https://tvsen6.aynaott.com/asiantv/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/736x/2c/e5/05/2ce5052617947f78c5b61da2da3236b7.jpg" ,SA TV
 https://tvsen6.aynaott.com/satv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/c1/e2/93/c1e2932629dabe9ceb47684a92667148.jpg" ,NEWS 24 
 https://tvsen6.aynaott.com/news24/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,এখন TV
