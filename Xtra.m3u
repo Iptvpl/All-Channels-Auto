@@ -3,69 +3,67 @@
 #EXTINF:-1, tvg-logo="https://i.imgur.com/gXmfi74.png", NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/yrOp5B5.png", RTV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/rrMccxQ.png", RTV
 https://tvsen6.aynaott.com/rtv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/TJmixOh.jpeg", Channel 9
+#EXTINF:-1, tvg-logo="https://i.imgur.com/2gA7IJq.jpeg", Channel 9
 https://tvsen6.aynaott.com/channel9/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png", Global TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/a6JZEyG.png", Global TV
 https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png", NEXUS TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Gm9fSia.png", NEXUS TV
 https://tvsen6.aynaott.com/nexustv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1280px-Mohona_tv_Logo.svg.png", মোহনা TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/saP0oYN.png", মোহনা TV
 https://tvsen6.aynaott.com/mohonatv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/736x/6f/bc/df/6fbcdf7cc13025c563ca9b067821e564.jpg" ,একুশে TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/iHRpmsW.png" ,একুশে TV
 https://tvsen6.aynaott.com/etv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/fb/7f/9f/fb7f9fdb02968ce3b6be42c9d7de48a1.jpg", বাংলা TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/78iZXeM.png", বাংলা TV
 https://tvsen6.aynaott.com/banglatv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" ,বাংলা Vision
+#EXTINF:-1, tvg-logo="https://i.imgur.com/BVt1a4F.png" ,বাংলা Vision
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1280px-My_TV_Logo.svg.png" ,My TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Bsglh9k.png" ,My TV
 https://tvsen6.aynaott.com/mytv/index.m3u8
 
-
-#EXTINF:-1,  tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png",মুভি বাংলা
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/R5kkL2k.png",মুভি বাংলা
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/HRjXQdYEqsE.png" ,আনন্দ TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/X50ALBL.png" ,আনন্দ TV
 https://tvsen6.aynaott.com/anandatv/index.m3u8
 
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",বিজয় TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/GgloFYX.png",বিজয় TV
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/c2/7d/3c/c27d3ccae2ec6334083f522917d783da.jpg" ,বৈশাখী TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/yLrss17.png" ,বৈশাখী TV
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/800px-Logo_of_Deepto_TV.svg.png" ,দীপ্ত TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/ZF1cSxy.png" ,দীপ্ত TV
 https://tvsen5.aynaott.com/DeeptoTVHD/index.fmp4.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",দেশ TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/IyR2URc.png",দেশ TV
 https://tvsen6.aynaott.com/deshtv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" ,Asian TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/KtKYjDv.png" ,Asian TV
 https://tvsen6.aynaott.com/asiantv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/736x/2c/e5/05/2ce5052617947f78c5b61da2da3236b7.jpg" ,SA TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/OH6Fokx.png" ,SA TV
 https://tvsen6.aynaott.com/satv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/c1/e2/93/c1e2932629dabe9ceb47684a92667148.jpg" ,NEWS 24 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/gxyySjI.png" ,NEWS 24 
 https://tvsen6.aynaott.com/news24/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" ,এখন TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/FLFwJFQ.png" ,এখন TV
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC News
+#EXTINF:-1, tvg-logo="https://i.imgur.com/gxyySjI.png",DBC News
 https://tvsen6.aynaott.com/dbcnews/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/26/6a/32/266a32ea23ec6283fa833fd594b04663.jpg", একাত্তর HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/FD3j3BO.png", একাত্তর HD
 https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
 
 
@@ -81,32 +79,32 @@ https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
 **************************************************************************************************** Bangla Cinema **************************************************************************************************** 
 
 
-#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png" ,তারা বাংলা সিনেমা
+#EXTINF:-1, tvg-logo="https://i.imgur.com/kNF2VnT.png" ,তারা বাংলা সিনেমা
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Sangeet_Bangla_logo_2021.png", Sangeet Bangla
+#EXTINF:-1, tvg-logo="https://i.imgur.com/IDdXyuH.png", Sangeet Bangla
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg",Masti
+#EXTINF:-1, tvg-logo="https://i.imgur.com/wp7cWtF.png",Masti
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 
 
 ################################################################################################## Documentary ############################################################################################################
 
 
-#EXTINF:-1,  tvg-logo="https://i0.wp.com/wildearth.tv/wp-content/uploads/2021/12/wildearth8729.jpg",Wild Earth
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/yMM1UZw.png",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
 
 ************************************************************************************************************* Kids *******************************************************************************************************
 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png",Disney Channel
+#EXTINF:-1, tvg-logo="https://i.imgur.com/tzYIFQ1.png",Disney Channel
 #http://tv.bdiptv.store:80/live/restreauu/refstream/71.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 
 
 ######################################################################################################## Hindi Channel ###################################################################################################
 
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" ,Sony SAB HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVDs0pT.png" ,Sony SAB HD
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
