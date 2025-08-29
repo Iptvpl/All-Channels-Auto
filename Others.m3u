@@ -78,7 +78,7 @@ https://tvsen6.aynaott.com/bijoytv/index.m3u8
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1920px-Logo_of_GTV_%28Bangladesh%29.svg.png" ,G Tv
+#EXTINF:-1, tvg-logo="https://i.imgur.com/WPjuLih.png" ,G Tv
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/ZF1cSxy.png" , Deepto TV
@@ -86,7 +86,7 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/DeeptoTVHD/index.fmp4.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" ,মাছরাঙা TV
+#EXTINF:-1, tvg-logo="https://i.imgur.com/bF66EPV.png" ,মাছরাঙা TV
 #https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 
@@ -112,7 +112,7 @@ https://tvsen6.aynaott.com/satv/index.m3u8
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/3e/f5/06/3ef5065cc470c588847771083facc143.jpg",Channel 24
+#EXTINF:-1, tvg-logo="https://i.imgur.com/rIwESEp.png",Channel 24
 #https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.ts.m3u8?wmsAuthSign=
 https://tvsen6.aynaott.com/channel24/index.m3u8
@@ -126,14 +126,14 @@ https://tvsen6.aynaott.com/somoytv/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/CDEnOHv.png", Independent TV
 https://tvsen6.aynaott.com/independenttv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/26/6a/32/266a32ea23ec6283fa833fd594b04663.jpg", একাত্তর HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/FD3j3BO.png",Ekattor Tv
 https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC News
+#EXTINF:-1, tvg-logo="https://i.imgur.com/gxyySjI.png",DBC News
 #http://172.16.29.34/ontest1/ontest1/213.m3u8
 https://tvsen6.aynaott.com/dbcnews/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24
+#EXTINF:-1, tvg-logo="https://i.imgur.com/QUxsHCr.png" ,NEWS 24
 https://tvsen6.aynaott.com/news24/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/RTp8pjI.png" ,যমুনা TV
@@ -165,7 +165,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/stream_0.m3u8?uid=32620
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/250px-Colors_Bangla.png" ,Colors বাংলা HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/KpYZBBn.png" ,Colors বাংলা HD
 #http://172.16.29.34/ontest1/ontest1/386.m3u8
 #https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
 https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
@@ -177,11 +177,11 @@ https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" ,Sony Aath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OpElh60.jpeg" ,Sony Aath
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ee/enterr-10-bangla-in.png" ,Enterr 10 Bangla
+#EXTINF:-1, tvg-logo="https://i.imgur.com/U1KZLGs.png" ,Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/playlist.m3u8
 #http://172.16.29.2:8080/hls/Enter10Bangla.m3u8
 
@@ -191,7 +191,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/playlist.
 #http://172.16.29.34/ontest1/ontest1/401.m3u8
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
-#EXTINF:-1, tvg-name="Colors Bangla Cinema HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c6/Colors_Bangla_Cinema_logo_%282019-2023%29.png" group-title="Movie Channel",Colors বাংলা Cinema
+#EXTINF:-1, tvg-logo="https://i.imgur.com/VVPROQO.png",Colors Bangla Cinema
 #http://tv.bdiptv.store:80/live/restreax/refstream/238.m3u8
 #http://tv.bdiptv.store/live/restreauu/refstream/238.m3u8
 #https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L8AKUID-lEPKSlznsS57zRk/ts
@@ -213,17 +213,17 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 
 ################################################################################################## Documentary ############################################################################################################
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/736x/b9/d8/6e/b9d86eccad113d8b4207e7b8d0d60a78.jpg" ,Discovery HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/kS0lHrM.png" ,Discovery HD
 #http://172.16.29.34/ontest1/ontest1/296.m3u8
 #http://kst.moonplex.net:8080/CH9/index.m3u8
 https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/52/a8/66/52a866d57d5d647af5175928b5be717d.jpg" ,Animal Planet
+#EXTINF:-1, tvg-logo="https://i.imgur.com/kEtwcDh.png" ,Animal Planet
 #http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 https://live.dinesh29.com.np/stream/jiotv/animalplanethindi/master.m3u8
 #https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/54/34/23/54342336d81b185c5cb9ff6597120fb5.jpg" ,Nat Geo
+#EXTINF:-1, tvg-logo="https://i.imgur.com/iw4FyLA.png" ,Nat Geo
 #http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 #http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 #https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
@@ -233,11 +233,11 @@ https://live.dinesh29.com.np/stream/jiotv/animalplanethindi/master.m3u8
 https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/1200x/87/23/f5/8723f5c5c7c88a766df5176e588deaf6.jpg" ,Nat Geo Wild
+#EXTINF:-1, tvg-logo="https://i.imgur.com/hvEBYCO.png" ,Nat Geo Wild
 #http://172.16.29.34/ontest1/ontest1/314.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Sony_BBC_Earth.png",BBC Earth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUZJTee.png",Sony BBC Earth
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 #EXTINF:-1,  tvg-logo="https://i.imgur.com/yMM1UZw.png",Wild Earth
@@ -245,46 +245,46 @@ https://wildearth-plex.amagi.tv/master.m3u8
 
 ************************************************************************************************************* Kids *******************************************************************************************************
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/obcu0T2.png",Duronto TV 
 #https://tvsen6.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.png",Cartoon Network
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/qpSisxe.png",Cartoon Network
 https://app.hughag.store/api/68b0f4e13e/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1024px-Hungama_TV.svg.png" ,HUNGAMA
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Ez8T3Q7.png" ,HUNGAMA
 #http://119.156.26.155:8000/play/a05t/index.m3u8
 #http://172.16.29.34/ontest1/ontest1/399.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
 
-#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" ,Sony Yay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6W3nOG.png" ,Sony Yay
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/tzYIFQ1.png",Disney Channel
 #http://tv.bdiptv.store:80/live/restreauu/refstream/71.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/da/83/28/da832836e53578c05a69b35d9b1bf3de.jpg" ,Nick
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vxNZsdu.png" ,Nick
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 
-#EXTINF:-1 tvg-id="pogohindi" tvg-logo="https://i.pinimg.com/736x/df/f5/02/dff50200a6a9d8c5af2a670c7535f136.jpg" ,Pogo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2A6bkhY.png" ,Pogo
 https://live.dinesh29.com.np/stream/jiotvplus/pogohindi/master.m3u8
 
-#EXTINF:-1 tvg-id="sonichindi" tvg-logo="https://i.pinimg.com/736x/cf/7e/f8/cf7ef83bba41b33f16c87e6423ab0eae.jpg",Sonic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9gDZMB.png",Sonic
 https://live.dinesh29.com.np/stream/jiotvplus/sonichindi/master.m3u8
 
 ######################################################################################################## Hindi Channel ###################################################################################################
 
-#EXTINF:-1 tvg-id="29" tvg-name="IN | STAR GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" ,STAR GOLD HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xdvETeL.png" ,STAR GOLD HD
 https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" ,Star Gold Select HD
+#EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" ,Star Gold Select HD
 http://182.176.185.207:7500/play/a06p/index.m3u8
 
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony MAX HD
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="",Sony MAX HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 
-#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",Sony MAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N9IMkAN.png",Sony MAX
 https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
@@ -292,22 +292,22 @@ https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 #http://172.16.29.34/ontest1/ontest1/294.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
 
-#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" ,Sony HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZRyYpZ.png" ,Sony HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVDs0pT.png" ,Sony SAB HD
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/EF7UbuQ.png",Star Movies HD
 #http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 #http://172.16.29.34/ontest1/ontest1/390.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png",Star Movies Select HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/aedZKYH.png",Star Movies Select HD
 #http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
 #http://172.16.29.34/ontest1/ontest1/342.m3u8
 
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" ,Sony PIX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RvcRdrA.png" ,Sony PIX HD
 #http://195.181.169.162/SONY_PIX_HD/index.m3u8?token=test
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
