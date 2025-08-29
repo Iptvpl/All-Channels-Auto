@@ -147,7 +147,7 @@ https://tvsen6.aynaott.com/jamunatv/index.m3u8
 #http://172.16.29.34/ontest1/ontest1/271.m3u8
 #http://watchindia.net:8880/live/54355/61270/2283.ts
 #https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
-https://os.mxonlive.workers.dev/azers/277431.m3u8
+#https://os.mxonlive.workers.dev/azers/277431.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/lbWI9C5.png" ,Zee বাংলা HD 2
 https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
@@ -278,16 +278,16 @@ https://live.dinesh29.com.np/stream/jiotvplus/sonichindi/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xdvETeL.png" ,STAR GOLD HD
 https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" ,Star Gold Select HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qfrwNT.png" ,Star Gold Select HD
 http://182.176.185.207:7500/play/a06p/index.m3u8
 
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="",Sony MAX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N9IMkAN.png",Sony MAX HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9IMkAN.png",Sony MAX
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png",Colors HD
+#EXTINF:-1, tvg-logo="https://i.imgur.com/v2LKrJh.png",Colors HD
 #http://tv.cloudcdn.me/live/00:1A:79:C3:81:30/5284/160.m3u8
 #http://172.16.29.34/ontest1/ontest1/294.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
@@ -313,14 +313,14 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
 ****************************************************************************************************Sports******************************************************************************************************************
 
-#EXTINF:-1, tvg-id="t_sports" tvg-logo="http://10.99.99.99/assets/images/T SPORTS1744972630.png" group-title="Sports",T SPORTS
+#EXTINF:-1, tvg-logo="https://i.imgur.com/kZd8QGd.jpeg" ,T SPORTS
 #https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/tsportsfhd/index.m3u8
 #https://tvsen5.aynaott.com/tsports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Star_Sports_Network_logo.png", Star Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tXOopY9.png", Star Sports 1
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", Ptv Sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OfUWnCM.png", Ptv Sports
 https://live.incableinternet.com/v/QCZ86p6-0oo_0.m3u8
 
 ******************************************************************************************************* Movies *************************************************************************************************************
@@ -330,7 +330,6 @@ https://live.incableinternet.com/v/QCZ86p6-0oo_0.m3u8
 
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024%29/Lucky%20Baskhar%20%282024%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" , Lucky Baskhar (2024) 1080p [Dual Audio]
 #http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024%29/Lucky%20Baskhar%20%282024%29%201080p%20%5BDual%20Audio%5D/Lucky%20Baskhar%20%282024%29%20UNCUT%201080p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-mkvC.mkv
-
 
 #EXTINF:-1, tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Life%20in%20a%20Metro%20%282007%29%201080p/azz.jpg" , Life In a Metro (2007)
 #http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282007%29/Life%20in%20a%20Metro%20%282007%29%201080p/Life%20in%20a%20Metro%20%282007%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
