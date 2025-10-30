@@ -1,6 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png", TOFFEE Sports 
+#EXTM3U #EXT-X-VERSION:3 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1024000,RESOLUTION=1280x720 live.php?cid=sonyaath&chunks=fa03a316ccb81b86b3be376228687a3d1aeb8bfd5500eb4900f04b40b429e375d85e0b1c896c298419367bb600fe07c94696df547cf6053fdf2f46019808f63c5c49f98a903f49f14392e6ced3521132ebd3f6b45b0d76759704eb6c08108502 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=768000,RESOLUTION=854x480 live.php?cid=sonyaath&chunks=fa03a316ccb81b86b3be376228687a3dc8ad9f25ea061c1bd910782570681aaf313706f4e6d48c18f84c2850b351a21d21cbf9b5a251f5c12285faa98ebb6ef6d02df0236bfeabdbdd6eca17f2f2e79f540879295ec4da24443ab2f143302fd1 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000,RESOLUTION=640x360 live.php?cid=sonyaath&chunks=fa03a316ccb81b86b3be376228687a3d632b4f258e8a286cc71d4f99ecc01ed8efcb1d6a603a196f50fb3611a757136cdfddb76f5e125d9c4eda436be93ebd70a0fa341fe0e207604303ce5e48a12571b862247506cbcdbba4f5d0f830b0766a
+
+
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png", TOFFEE Sports
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1751610712:KeyName=prod_linear:Signature=MwClhtaA1q_nanLYvoFYBqi80VFhpQ2s7JvpXLIEZHFDV1qRu5d1sJPtk3_zbvzZGcCmMN4CN-qVJsUAuaQaCg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
