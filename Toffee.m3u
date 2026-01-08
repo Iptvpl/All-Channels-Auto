@@ -5,9 +5,9 @@
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1768085509:KeyName=prod_linear:Signature=JuUCtHlGtBkN_4EFDfsOwzCbbI7GnAxWVA54BS_7sRlPbroWu5lqKAN0iuYWcILDq7ocjdQmHJD7vFxe5aT5DQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 
-#EXTINF:-1 group-title=""Toffee"" tvg-chno="""" tvg-id="""" tvg-logo=""https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png"", JTV
+#EXTINF:-1 group-title="Toffee" tvg-chno=""" tvg-id=""" tvg-logo=""https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png", Jamuna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{""cookie"":""Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1768085509:KeyName=prod_linear:Signature=JuUCtHlGtBkN_4EFDfsOwzCbbI7GnAxWVA54BS_7sRlPbroWu5lqKAN0iuYWcILDq7ocjdQmHJD7vFxe5aT5DQ""}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1768085509:KeyName=prod_linear:Signature=JuUCtHlGtBkN_4EFDfsOwzCbbI7GnAxWVA54BS_7sRlPbroWu5lqKAN0iuYWcILDq7ocjdQmHJD7vFxe5aT5DQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
 
 
