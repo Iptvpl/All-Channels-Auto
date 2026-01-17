@@ -1,11 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png", Discovery
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1768087971:KeyName=prod_linear:Signature=F51ZbgIIaSFIymANdSPjHgcyGnP0OWYTTCkO2xpyLPGEbyshlE9hVie3uaaCWeePdMc-5NPls6iYBEd27BQcCA"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
-
 #EXTINF:-1 group-title="Toffee" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png", TOFFEE Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1768087971:KeyName=prod_linear:Signature=F51ZbgIIaSFIymANdSPjHgcyGnP0OWYTTCkO2xpyLPGEbyshlE9hVie3uaaCWeePdMc-5NPls6iYBEd27BQcCA"}
