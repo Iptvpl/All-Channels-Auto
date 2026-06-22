@@ -212,8 +212,18 @@ http://172.16.60.2:8088/405/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAZykSm.png", PEACE TV BANGLA
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 1
 http://172.16.60.2:8088/102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 2
+http://10.10.10.7:82/tsports-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 3
+http://10.10.10.7:82/Own-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", BTV
+http://10.10.10.7:82/Own-7/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OfUWnCM.png", PTV SPORTS HD
 http://172.16.60.2:8088/128/index.m3u8
