@@ -225,10 +225,10 @@ http://172.16.60.2:8088/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 2
 https://trs1.aynaott.com/tsports/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg", United Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4zGKx3.png", United Sports 1 HD
 http://192.168.91.8/streams/118/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg", United Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VYET0uO.png", United Sports 2 HD
 http://192.168.91.8/streams/119/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3e6ckxkrs5ntg.cloudfront.net/artists/images/8546346/original/crop:x0y0w500h500/hash:1690380495/ava.jpg", Soco Live
@@ -238,7 +238,7 @@ https://live.inplyr.com/room/168740.m3u8
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://androidapks.com/wp-content/uploads/2023/09/Toffee-APK.png", Toffee
-https://sm-monirul.top/tof/live/tunvsjap/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", BTV
 
