@@ -225,13 +225,13 @@ http://172.16.60.2:8088/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 2
 https://trs1.aynaott.com/tsports/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4zGKx3.png", United Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9KPS6n.png", United Sports 1 HD
 http://192.168.91.8/streams/118/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VYET0uO.png", United Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zdIgkbT.png", United Sports 2 HD
 http://192.168.91.8/streams/119/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d3e6ckxkrs5ntg.cloudfront.net/artists/images/8546346/original/crop:x0y0w500h500/hash:1690380495/ava.jpg", Soco Live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTjh216.png", Soco Live
 https://live.inplyr.com/room/168740.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/960px-2026_FIFA_World_Cup_emblem.svg.png", Fifa
