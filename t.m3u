@@ -234,11 +234,11 @@ http://192.168.91.8/streams/119/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTjh216.png", Soco Live
 https://live.inplyr.com/room/168740.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0M96zRS.png", Fifa
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://androidapks.com/wp-content/uploads/2023/09/Toffee-APK.png", Toffee
 https://live1.pro2cdnlive.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0M96zRS.png", Fifa
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", BTV
 
