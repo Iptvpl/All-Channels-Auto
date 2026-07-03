@@ -1,13 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSL7nrH.png", BTV HD
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5eN9luP.png", Channel I
-http://172.16.60.2:8088/207/index.m3u8
+#http://172.16.60.2:8088/207/index.m3u8
+http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XNmcPWE.png", ATN BANGLA
-http://172.16.60.2:8088/202/index.m3u8
+#http://172.16.60.2:8088/202/index.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYrTMyz.png", ATN NEWS
-http://172.16.60.2:8088/203/index.m3u8
+#http://172.16.60.2:8088/203/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oDzRpxu.png", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -43,14 +49,16 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyR2URc.png", Desh TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bF66EPV.png", MAASRANGA HD
-http://172.16.60.2:8088/206/index.m3u8
+#http://172.16.60.2:8088/206/index.m3u8
+http://180.94.28.28:8097//Maasranga-tv/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1AUx96.jpeg", NAGORIK
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rIwESEp.png", CHANNEL 24
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPjuLih.png", GTV
-http://172.16.60.2:8088/106/index.m3u8
+#http://172.16.60.2:8088/106/index.m3u8
+http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QUxsHCr.png", NEWS 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
@@ -58,35 +66,42 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLFwJFQ.png", Ekhon TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gxyySjI.png", DBC News
-http://172.16.60.2:8088/204/index.m3u8
+#http://172.16.60.2:8088/204/index.m3u8
+http://180.94.28.28:8097//DBC-NEWS/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FD3j3BO.png", Ekattor TV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GZdIyZ9.jpeg", SOMOY TV 1
-http://172.16.60.2:8088/205/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZdIyZ9.jpeg", SOMOY TV
+#http://172.16.60.2:8088/205/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GZdIyZ9.jpeg", SOMOY TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZdIyZ9.jpeg", SOMOY TV 1
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZdIyZ9.jpeg", SOMOY TV 1
+http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CDEnOHv.png", INDEPENDENT TV
-http://172.16.60.2:8088/201/index.m3u8
+#http://172.16.60.2:8088/201/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RTp8pjI.png", JAMUNA TV
-http://172.16.60.2:8088/209/index.m3u8
+#http://172.16.60.2:8088/209/index.m3u8
+http://180.94.28.28:8097//Jamuna-TV/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HDiJX39.png", ZEE BANGLA HD
-http://172.16.60.2:8088/301/index.m3u8
+#http://172.16.60.2:8088/301/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nojczpy.png", STAR JALSHA HD
-http://172.16.60.2:8088/302/index.m3u8
+#http://172.16.60.2:8088/302/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KpYZBBn.png", COLORS BANGLA HD
-http://172.16.60.2:8088/304/index.m3u8
+#http://172.16.60.2:8088/304/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBm0Kps.png", SUN BANGLA HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpElh60.jpeg", SONY AAT
-http://172.16.60.2:8088/308/index.m3u8
+#http://172.16.60.2:8088/308/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1KZLGs.png", ENTERR 10 Bangla
 
@@ -100,14 +115,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kNF2VnT.png", Tara Bangla Cinema
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDdXyuH.png", Sangeet Bangla
-http://172.16.60.2:8088/702/index.m3u8
+#http://172.16.60.2:8088/702/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kS0lHrM.png", DISCOVERY HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEtwcDh.png", ANIMAL PLANET HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iw4FyLA.png", NATGEO HD
-http://172.16.60.2:8088/802/index.m3u8
+#http://172.16.60.2:8088/802/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvEBYCO.png", NATGEO WILD HD
 
@@ -153,7 +168,7 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RvcRdrA.png", SONY PIX HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EF7UbuQ.png", STAR MOVIES HD
-http://172.16.60.2:8088/501/index.m3u8
+#http://172.16.60.2:8088/501/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aedZKYH.png", STAR MOVIES SELECT HD
 
@@ -182,7 +197,7 @@ http://172.16.60.2:8088/501/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XpMOu0w.png", Hum Masala
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2LKrJh.png", COLORS HD
-http://172.16.60.2:8088/405/index.m3u8
+#http://172.16.60.2:8088/405/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlcUYeZ.png", ZEE TV HD
 
@@ -224,7 +239,7 @@ http://172.16.60.2:8088/405/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAZykSm.png", PEACE TV BANGLA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 1
-http://172.16.60.2:8088/102/index.m3u8
+#http://172.16.60.2:8088/102/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 2
 https://trs1.aynaott.com/tsports/playlist.m3u8
