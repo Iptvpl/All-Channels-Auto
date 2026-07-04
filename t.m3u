@@ -232,7 +232,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAZykSm.png", PEACE TV BANGLA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 1
-http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 2
 
@@ -243,9 +243,6 @@ http://192.168.91.8/streams/118/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zdIgkbT.png", United Sports 2 HD
 http://192.168.91.8/streams/119/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SKWmQG.png", Bein Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTjh216.png", Soco Live 1
 https://live.inplyr.com/room/168740.m3u8
 
@@ -254,9 +251,11 @@ https://live1.pro2cdnlive.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0M96zRS.png", Fifa
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OfUWnCM.png", PTV SPORTS HD
+http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SKWmQG.png", Bein Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXOopY9.png", STAR SPORTS 1 HD
 
