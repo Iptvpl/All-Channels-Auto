@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KSL7nrH.png", BTV HD
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5eN9luP.png", Channel I
 
@@ -11,7 +11,6 @@ http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oDzRpxu.png", NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iHRpmsW.png", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -49,13 +48,13 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1AUx96.jpeg", NAGORIK
-http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rIwESEp.png", CHANNEL 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPjuLih.png", GTV
-http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QUxsHCr.png", NEWS 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
@@ -69,13 +68,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZdIyZ9.jpeg", SOMOY TV
-#http://172.16.60.2:8088/205/index.m3u8
+http://103.165.93.31:8095/somoyTv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZdIyZ9.jpeg", SOMOY TV 1
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZdIyZ9.jpeg", SOMOY TV 2
-http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CDEnOHv.png", INDEPENDENT TV
 
@@ -98,7 +97,7 @@ http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1KZLGs.png", ENTERR 10 Bangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1T1zJEA.png", Zee Bangla Sonar
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VVPROQO.png", COLORS BANGLA CINEMA
 
@@ -232,16 +231,20 @@ https://mflixott.com/tv/toffee-by-maruf/live.php?id=j080lfXdwHlaq45zm7&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAZykSm.png", PEACE TV BANGLA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 1
-
+http://103.165.93.31:8095/tsports/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 2
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9KPS6n.png", United Sports 1 HD
-http://192.168.91.8/streams/118/index.m3u8
+http://103.165.93.31:8095/unt-s/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9KPS6n.png", United Sports 1 HD
+#http://192.168.91.8/streams/118/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zdIgkbT.png", United Sports 2 HD
-http://192.168.91.8/streams/119/index.m3u8
+#http://192.168.91.8/streams/119/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTjh216.png", Soco Live 1
 https://live.inplyr.com/room/168740.m3u8
@@ -249,10 +252,11 @@ https://live.inplyr.com/room/168740.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTjh216.png", Soco Live 2
 https://live1.pro2cdnlive.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0M96zRS.png", Fifa
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OfUWnCM.png", PTV SPORTS HD
-http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
+http://103.165.93.31:8095/ptv/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0M96zRS.png", Fifa
+http://103.165.93.31:8095/Fifa-1/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SKWmQG.png", Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
