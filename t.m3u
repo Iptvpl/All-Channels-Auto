@@ -71,7 +71,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 http://103.165.93.31:8095/somoyTv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZdIyZ9.jpeg", SOMOY TV 1
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+http://10.30.30.30:8088/SOMOY_TV_2/index.m3u8?token=4f9d098b8c3fce87ccb2533819caebb80e48e8ed-a569d69daa5672a8ab9bc9084dc69bc0-1784155775-1784144975
+
+
+#https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZdIyZ9.jpeg", SOMOY TV 2
 
@@ -233,10 +236,11 @@ https://jp.ipl2026.workers.dev/?embed=https://04jio.teachub.workers.dev/live.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAZykSm.png", PEACE TV BANGLA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 1
-http://103.165.93.31:8095/tsports/video.m3u8
+http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/index.m3u8?token=4b46931d7d97c5c729c40b44a282a7eaa4536bde-62d07433900fc5f2b8ba87e721849ad0-1784155878-1784145078
+#http://103.165.93.31:8095/tsports/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS 2
-
+http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/tracks-v1a1/mono.m3u8?token=4b46931d7d97c5c729c40b44a282a7eaa4536bde-62d07433900fc5f2b8ba87e721849ad0-1784155878-1784145078
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9KPS6n.png", United Sports 1 HD
 http://103.165.93.31:8095/unt-s/video.m3u8
