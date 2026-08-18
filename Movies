@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/716kTy49ylL._AC_UF1000,1000_QL80_.jpg" ,Rab Ne Bana Di Jodi
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/716kTy49ylL._AC_UF1000,1000_QL80_.jpg",Rab Ne Bana Di Jodi
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282008%29/Rab%20Ne%20Bana%20Di%20Jodi%20%282008%29%201080p/Rab%20Ne%20Bana%20Di%20Jodi%20%282008%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 
 #EXTINF:-1, tvg-logo="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fw6acc71tjdye1.jpeg" ,Iron Man 1
