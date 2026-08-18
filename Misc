@@ -1,2 +1,13 @@
+#EXTM3U
+
 #EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/716kTy49ylL._AC_UF1000,1000_QL80_.jpg" ,Rab Ne Bana Di Jodi
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282008%29/Rab%20Ne%20Bana%20Di%20Jodi%20%282008%29%201080p/Rab%20Ne%20Bana%20Di%20Jodi%20%282008%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
+#EXTINF:-1, tvg-logo="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fw6acc71tjdye1.jpeg" ,Iron Man 1
+https://backend.roarzone.net/stream?path=Movies%2FDubbed+Movies%2FMovie-Series%2FMarvel-Cinematic-Universe-2008-2019%2F01.Iron+Man+%282008%29+1080p+Bluray-Hindi+Dubbed_reencoded.mp4&signature=eyJkYXRhIjoiZXlKbGVIQnBjbVZCZENJNk1UYzROekV4TXpnek55d2lhWFJsYlVsa0lqb2lNVEUzTmpFaUxDSnRaV1JwWVVsa0lqb2liV1ZrYVdGemIzVnlZMlZmTVRFM05qRWlmUT09Iiwic2lnbmF0dXJlIjoiekZ1WkRKVlNGU0huWS9GWHVZekZwOFdiZEtEN25ueW1GN1RJaEpscnJ0WT0ifQ==
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/61dC4+N3+0L._AC_UF894,1000_QL80_.jpg" ,Iron Man 2
+https://backend.roarzone.net/stream?path=Movies%2FDubbed+Movies%2FMovie-Series%2FIron-Man-Movie-Collection-2008-2013%2FIron.Man.2.2010.1080p.BRRip.Hindi.English.Esubs_h264.mp4&signature=eyJkYXRhIjoiZXlKbGVIQnBjbVZCZENJNk1UYzROekV4TXpnd09Dd2lhWFJsYlVsa0lqb2lNVEU1TWpnaUxDSnRaV1JwWVVsa0lqb2liV1ZrYVdGemIzVnlZMlZmTVRFNU1qa2lmUT09Iiwic2lnbmF0dXJlIjoieGFkLzNERzdSa282d0pvSXU4Sm1RblIxWENLY1UrYmowOEVGRWVobEw5QT0ifQ==
+
+#EXTINF:-1, tvg-logo="https://images-fe.ssl-images-amazon.com/images/I/81JCMywuh5L._AC_UL600_SR600,600_.jpg" ,Iron Man 3
+https://play.roarzone.net/emby/videos/11925/main.m3u8?DeviceId=88c229fc-adab-4518-b28c-070fcfb0fa79&MediaSourceId=mediasource_11926&PlaySessionId=0d719e0259a04c2ab318ecd453a22e71&api_key=5eaec849ebb146b1aa413ca3c3a1c923&VideoCodec=hevc,h264,av1&AudioCodec=mp3,aac&VideoBitrate=6616000&AudioBitrate=384000&AudioStreamIndex=3&SubtitleStreamIndex=2&SubtitleMethod=Encode&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=False&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&hevc-codectag=hvc1,hev1,hevc,hdmv&TranscodeReasons=SubtitleCodecNotSupported
